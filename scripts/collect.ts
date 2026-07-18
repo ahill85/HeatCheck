@@ -1,6 +1,7 @@
 /**
  * Free data collector for HeatCheck.
- * HN + Reddit RSS + curated news RSS/Google News + GDELT (best-effort).
+ * HN + Reddit + curated RSS + GDELT + Google Trends / Bluesky / Mastodon /
+ * Wikipedia / Lobsters / Lemmy (all free, no API keys).
  *
  * Usage: npm run collect
  */
@@ -17,7 +18,8 @@ import {
   type HistoryMap,
 } from '../src/lib/scoring'
 import type { RawSignal, SnapshotPayload } from '../src/lib/types'
-import { REDDIT_SUBS, RSS_FEEDS, type FeedDef } from './feeds'
+import { collectExtraSources } from './extraSources'
+import { REDDIT_BUNDLES, RSS_FEEDS, type FeedDef } from './feeds'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const root = path.resolve(__dirname, '..')
@@ -102,50 +104,63 @@ async function collectHackerNews(): Promise<RawSignal[]> {
 
 async function collectReddit(): Promise<RawSignal[]> {
   const parser = new Parser({
-    headers: { 'User-Agent': UA },
-    timeout: 15000,
+    headers: {
+      'User-Agent': UA,
+      Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+    },
+    timeout: 18000,
   })
   const out: RawSignal[] = []
 
-  // Prioritize news subs first; polite delay to avoid 429
-  for (const { sub, fallback } of REDDIT_SUBS) {
-    try {
-      const parsed = await parser.parseURL(
-        `https://www.reddit.com/r/${sub}/.rss?limit=18`,
-      )
-      for (const item of (parsed.items ?? []).slice(0, 14)) {
-        if (!item.title || !item.link) continue
-        const createdAt = item.isoDate
-          ? Date.parse(item.isoDate)
-          : item.pubDate
-            ? Date.parse(item.pubDate)
-            : Date.now()
-        const snippet = (item.contentSnippet || item.summary || '')
-          .replace(/\s+/g, ' ')
-          .trim()
-          .slice(0, 160)
+  // Bundled multi-sub feeds: ~6 requests instead of 25+ (Reddit 429s hard)
+  for (const { path, label, fallback } of REDDIT_BUNDLES) {
+    let ok = false
+    for (let attempt = 0; attempt < 2 && !ok; attempt++) {
+      try {
+        if (attempt > 0) await new Promise((r) => setTimeout(r, 4000))
+        const parsed = await parser.parseURL(
+          `https://www.reddit.com/r/${path}/.rss?limit=40`,
+        )
+        for (const item of (parsed.items ?? []).slice(0, 28)) {
+          if (!item.title || !item.link) continue
+          const createdAt = item.isoDate
+            ? Date.parse(item.isoDate)
+            : item.pubDate
+              ? Date.parse(item.pubDate)
+              : Date.now()
+          const snippet = (item.contentSnippet || item.summary || '')
+            .replace(/\s+/g, ' ')
+            .trim()
+            .slice(0, 160)
+          const subFromLink =
+            item.link.match(/reddit\.com\/r\/([^/]+)/i)?.[1] ?? label
 
-        out.push({
-          id: `reddit-${sub}-${item.id || item.link}`,
-          title: item.title,
-          url: item.link,
-          source: `r/${sub}`,
-          kind: 'reddit',
-          category: classifyText(`${item.title} ${sub}`, fallback),
-          score: Math.max(
-            8,
-            (fallback === 'news' ? 48 : 36) -
-              Math.floor((Date.now() - createdAt) / 3_600_000) * 3,
-          ),
-          comments: 0,
-          createdAt: Number.isFinite(createdAt) ? createdAt : Date.now(),
-          summary: snippet || undefined,
-        })
+          out.push({
+            id: `reddit-${subFromLink}-${item.id || item.link}`,
+            title: item.title,
+            url: item.link,
+            source: `r/${subFromLink}`,
+            kind: 'reddit',
+            category: classifyText(`${item.title} ${subFromLink}`, fallback),
+            score: Math.max(
+              8,
+              (fallback === 'news' ? 48 : 36) -
+                Math.floor((Date.now() - createdAt) / 3_600_000) * 3,
+            ),
+            comments: 0,
+            createdAt: Number.isFinite(createdAt) ? createdAt : Date.now(),
+            summary: snippet || undefined,
+          })
+        }
+        ok = true
+        await new Promise((r) => setTimeout(r, 2500))
+      } catch (err) {
+        console.warn(
+          `Reddit r/${path} RSS failed (try ${attempt + 1}):`,
+          (err as Error).message,
+        )
+        await new Promise((r) => setTimeout(r, 3500))
       }
-      await new Promise((r) => setTimeout(r, 900))
-    } catch (err) {
-      console.warn(`Reddit r/${sub} RSS failed:`, (err as Error).message)
-      await new Promise((r) => setTimeout(r, 2000))
     }
   }
 
@@ -304,17 +319,43 @@ function countByCategory(items: { category: string }[]) {
 }
 
 async function main() {
-  console.log(`Collecting from ${RSS_FEEDS.length} RSS feeds + HN + Reddit + GDELT…`)
-  const [hn, rss, gdelt] = await Promise.all([
+  console.log(
+    `Collecting from ${RSS_FEEDS.length} RSS feeds + HN + Reddit + GDELT + social/trends…`,
+  )
+  const [hn, rss, gdelt, extra] = await Promise.all([
     collectHackerNews(),
     collectRss(),
     collectGdelt(),
+    collectExtraSources(),
   ])
   const reddit = await collectReddit()
 
-  const signals = [...hn, ...reddit, ...rss, ...gdelt]
+  const {
+    googletrends,
+    bluesky,
+    mastodon,
+    wikipedia,
+    lobsters,
+    lemmy,
+  } = extra
+
+  const signals = [
+    ...hn,
+    ...reddit,
+    ...rss,
+    ...gdelt,
+    ...googletrends,
+    ...bluesky,
+    ...mastodon,
+    ...wikipedia,
+    ...lobsters,
+    ...lemmy,
+  ]
   console.log(
-    `Signals: HN ${hn.length}, Reddit ${reddit.length}, RSS ${rss.length}, GDELT ${gdelt.length} (total ${signals.length})`,
+    `Signals: HN ${hn.length}, Reddit ${reddit.length}, RSS ${rss.length}, GDELT ${gdelt.length}, ` +
+      `GTrends ${googletrends.length}, Bluesky ${bluesky.length}, Mastodon ${mastodon.length}, ` +
+      `Wiki ${wikipedia.length}, Lobsters ${lobsters.length}, Lemmy ${lemmy.length} ` +
+      `(total ${signals.length})`,
   )
   console.log('Raw categories:', countByCategory(signals))
 
@@ -335,8 +376,14 @@ async function main() {
         reddit: reddit.length,
         rss: rss.length,
         gdelt: gdelt.length,
+        googletrends: googletrends.length,
+        bluesky: bluesky.length,
+        mastodon: mastodon.length,
+        wikipedia: wikipedia.length,
+        lobsters: lobsters.length,
+        lemmy: lemmy.length,
       },
-      note: 'Ranked by acceleration across free news, sports, HN, Reddit, and GDELT.',
+      note: 'Ranked by acceleration across free news/RSS, HN, Reddit, Google Trends, Bluesky, Mastodon, Wikipedia, Lobsters, Lemmy, and GDELT.',
     },
   }
 

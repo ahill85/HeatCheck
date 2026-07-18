@@ -43,6 +43,10 @@ export const RSS_FEEDS: FeedDef[] = [
   { url: 'https://feeds.washingtonpost.com/rss/world', source: 'Washington Post', fallback: 'news', take: 12, weight: 38 },
   { url: 'https://www.independent.co.uk/news/world/rss', source: 'Independent', fallback: 'news', take: 12, weight: 34 },
   { url: 'https://www.cbsnews.com/latest/rss/main', source: 'CBS News', fallback: 'news', take: 14, weight: 36 },
+  { url: 'https://www.cbsnews.com/latest/rss/world', source: 'CBS World', fallback: 'news', take: 12, weight: 36 },
+  { url: 'http://rss.cnn.com/rss/cnn_topstories.rss', source: 'CNN', fallback: 'news', take: 16, weight: 40 },
+  { url: 'http://rss.cnn.com/rss/edition_world.rss', source: 'CNN World', fallback: 'news', take: 14, weight: 38 },
+  { url: 'https://www.axios.com/feeds/feed.rss', source: 'Axios', fallback: 'news', take: 14, weight: 38 },
   { url: 'https://moxie.foxnews.com/google-publisher/latest.xml', source: 'Fox News', fallback: 'news', take: 12, weight: 34 },
   { url: 'https://www.vox.com/rss/index.xml', source: 'Vox', fallback: 'news', take: 12, weight: 34 },
   { url: 'https://www.theatlantic.com/feed/all/', source: 'The Atlantic', fallback: 'news', take: 10, weight: 34 },
@@ -53,6 +57,16 @@ export const RSS_FEEDS: FeedDef[] = [
     take: 8,
     weight: 30,
   },
+  {
+    url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml',
+    source: 'BBC Science',
+    fallback: 'news',
+    take: 10,
+    weight: 34,
+  },
+  { url: 'https://feeds.npr.org/1007/rss.xml', source: 'NPR Science', fallback: 'news', take: 10, weight: 34 },
+  { url: 'https://www.sciencedaily.com/rss/all.xml', source: 'ScienceDaily', fallback: 'news', take: 12, weight: 32 },
+  { url: 'https://www.space.com/feeds/all', source: 'Space.com', fallback: 'news', take: 10, weight: 32 },
 
   // —— Business ——
   {
@@ -97,9 +111,11 @@ export const RSS_FEEDS: FeedDef[] = [
   },
   { url: 'https://www.espn.com/espn/rss/news', source: 'ESPN', fallback: 'sports', take: 14, weight: 38 },
   { url: 'https://feeds.bbci.co.uk/sport/rss.xml', source: 'BBC Sport', fallback: 'sports', take: 14, weight: 36 },
+  { url: 'https://www.skysports.com/rss/12040', source: 'Sky Sports', fallback: 'sports', take: 14, weight: 36 },
   { url: 'https://www.espn.com/espn/rss/nba/news', source: 'ESPN NBA', fallback: 'sports', take: 12, weight: 40 },
   { url: 'https://www.espn.com/espn/rss/nfl/news', source: 'ESPN NFL', fallback: 'sports', take: 12, weight: 40 },
   { url: 'https://www.espn.com/espn/rss/mlb/news', source: 'ESPN MLB', fallback: 'sports', take: 10, weight: 38 },
+  { url: 'https://www.mlb.com/feeds/news/rss.xml', source: 'MLB.com', fallback: 'sports', take: 10, weight: 36 },
   { url: 'https://www.espn.com/espn/rss/nhl/news', source: 'ESPN NHL', fallback: 'sports', take: 10, weight: 38 },
   { url: 'https://www.espn.com/espn/rss/soccer/news', source: 'ESPN Soccer', fallback: 'sports', take: 12, weight: 38 },
   { url: 'https://www.espn.com.au/espn/rss/afl/news', source: 'ESPN AFL', fallback: 'sports', take: 12, weight: 40 },
@@ -122,6 +138,7 @@ export const RSS_FEEDS: FeedDef[] = [
   },
   { url: 'https://www.billboard.com/feed/', source: 'Billboard', fallback: 'entertainment', take: 10, weight: 32 },
   { url: 'https://variety.com/feed/', source: 'Variety', fallback: 'entertainment', take: 12, weight: 34 },
+  { url: 'https://deadline.com/feed/', source: 'Deadline', fallback: 'entertainment', take: 12, weight: 34 },
 
   // —— Games ——
   { url: 'https://www.polygon.com/rss/index.xml', source: 'Polygon', fallback: 'games', take: 12, weight: 36 },
@@ -134,6 +151,7 @@ export const RSS_FEEDS: FeedDef[] = [
   },
   { url: 'https://www.gamespot.com/feeds/news/', source: 'GameSpot', fallback: 'games', take: 12, weight: 34 },
   { url: 'https://kotaku.com/rss', source: 'Kotaku', fallback: 'games', take: 10, weight: 32 },
+  { url: 'https://www.ign.com/rss/articles/feed', source: 'IGN', fallback: 'games', take: 14, weight: 36 },
   {
     url: 'https://news.google.com/rss/search?q=video+games+OR+gaming+when:1d&hl=en-US&gl=US&ceid=US:en',
     source: 'Google News Games',
@@ -143,30 +161,48 @@ export const RSS_FEEDS: FeedDef[] = [
   },
 ]
 
-export const REDDIT_SUBS: Array<{ sub: string; fallback: RawSignal['category'] }> = [
-  { sub: 'news', fallback: 'news' },
-  { sub: 'worldnews', fallback: 'news' },
-  { sub: 'politics', fallback: 'news' },
-  { sub: 'inthenews', fallback: 'news' },
-  { sub: 'UpliftingNews', fallback: 'news' },
-  { sub: 'technology', fallback: 'tech' },
-  { sub: 'science', fallback: 'news' },
-  { sub: 'sports', fallback: 'sports' },
-  { sub: 'nba', fallback: 'sports' },
-  { sub: 'nfl', fallback: 'sports' },
-  { sub: 'mlb', fallback: 'sports' },
-  { sub: 'nhl', fallback: 'sports' },
-  { sub: 'soccer', fallback: 'sports' },
-  { sub: 'AFL', fallback: 'sports' },
-  { sub: 'tennis', fallback: 'sports' },
-  { sub: 'formula1', fallback: 'sports' },
-  { sub: 'gaming', fallback: 'games' },
-  { sub: 'Games', fallback: 'games' },
-  { sub: 'movies', fallback: 'entertainment' },
-  { sub: 'television', fallback: 'entertainment' },
-  { sub: 'entertainment', fallback: 'entertainment' },
-  { sub: 'Music', fallback: 'entertainment' },
-  { sub: 'business', fallback: 'business' },
-  { sub: 'stocks', fallback: 'business' },
-  { sub: 'economics', fallback: 'business' },
+/**
+ * Bundled multi-subreddit feeds — fewer requests, better chance under Reddit rate limits.
+ * Path segment is `r/sub1+sub2+…` (Reddit multi-sub RSS).
+ */
+export const REDDIT_BUNDLES: Array<{
+  path: string
+  label: string
+  fallback: RawSignal['category']
+}> = [
+  {
+    path: 'popular',
+    label: 'popular',
+    fallback: 'news',
+  },
+  {
+    path: 'news+worldnews+politics+inthenews',
+    label: 'news',
+    fallback: 'news',
+  },
+  {
+    path: 'technology+science+Futurology',
+    label: 'tech',
+    fallback: 'tech',
+  },
+  {
+    path: 'sports+nba+nfl+soccer+mlb+AFL+formula1',
+    label: 'sports',
+    fallback: 'sports',
+  },
+  {
+    path: 'gaming+Games+pcgaming',
+    label: 'games',
+    fallback: 'games',
+  },
+  {
+    path: 'movies+television+entertainment+Music',
+    label: 'entertainment',
+    fallback: 'entertainment',
+  },
+  {
+    path: 'business+stocks+economics',
+    label: 'business',
+    fallback: 'business',
+  },
 ]

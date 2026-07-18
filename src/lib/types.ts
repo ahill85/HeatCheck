@@ -11,7 +11,17 @@ export type TimeWindow = '1h' | '4h' | '24h' | '7d' | '30d'
 
 export type TrendPhase = 'rising' | 'peaking' | 'fading'
 
-export type SourceKind = 'hackernews' | 'reddit' | 'rss' | 'gdelt'
+export type SourceKind =
+  | 'hackernews'
+  | 'reddit'
+  | 'rss'
+  | 'gdelt'
+  | 'googletrends'
+  | 'bluesky'
+  | 'mastodon'
+  | 'wikipedia'
+  | 'lobsters'
+  | 'lemmy'
 
 export interface TrendLink {
   title: string

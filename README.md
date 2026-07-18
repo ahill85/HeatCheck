@@ -9,10 +9,18 @@ Every collect run pulls free sources (no paid APIs):
 
 | Source | What we take |
 | --- | --- |
-| Google News + major RSS | Headlines from news, sports, tech, business, games, entertainment |
+| Google News + major RSS | Headlines from news, sports, tech, business, games, entertainment (CNN, Axios, BBC, NYT, ESPN, IGN, Deadline, etc.) |
+| Google Trends RSS | Daily rising searches (US / UK / AU) |
 | Hacker News API | New + top stories (points + comments) |
-| Reddit RSS | Hot posts from news/sports/tech subs |
+| Bluesky | Public trending topics (AT Protocol, no auth) |
+| Mastodon | Trending shared links (`mastodon.social`) |
+| Wikipedia | Most-viewed English articles (pageviews API) |
+| Lobste.rs | Hottest tech community stories |
+| Lemmy | Hot posts from `lemmy.world` (Reddit-like, federated) |
+| Reddit RSS | Bundled multi-sub feeds (rate-limits often; best-effort) |
 | GDELT | Global news articles when the free API isn’t rate-limiting |
+
+**Not available free:** Facebook, Instagram, Threads, X/Twitter, TikTok, YouTube Trending — those APIs are paid, locked, or scrape-only.
 
 Stories about the same topic get **deduped** into one spike (shared keywords in the headline).
 
