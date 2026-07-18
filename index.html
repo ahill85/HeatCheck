@@ -2,28 +2,146 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <title>HeatCheck — What's trending and rising online right now</title>
     <meta
       name="description"
-      content="HeatCheck — see what just started exploding online across tech, games, sports, news, and entertainment."
+      content="HeatCheck shows topics that just started exploding online — tech, games, sports, news, and entertainment — with a live heat score so you know what's worth talking about."
     />
-    <meta name="theme-color" content="#ffffff" />
+    <meta
+      name="keywords"
+      content="trending topics, what's trending, viral news, heat check, rising trends, tech trends, sports trends, gaming trends"
+    />
+    <meta name="author" content="Astar Media" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+    <meta name="theme-color" content="#ff5a1f" />
+    <meta name="color-scheme" content="light" />
+    <meta name="application-name" content="HeatCheck" />
+    <meta name="apple-mobile-web-app-title" content="HeatCheck" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+
+    <link rel="canonical" href="https://astarmedia.net/heatcheck/" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.svg" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="HeatCheck" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="https://astarmedia.net/heatcheck/" />
+    <meta
+      property="og:title"
+      content="HeatCheck — What's trending and rising online right now"
+    />
+    <meta
+      property="og:description"
+      content="See topics that just started exploding across tech, games, sports, news, and entertainment — with a live heat score."
+    />
+    <meta property="og:image" content="https://astarmedia.net/heatcheck/og-image.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="HeatCheck — What's rising right now"
+    />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="HeatCheck — What's trending and rising online right now"
+    />
+    <meta
+      name="twitter:description"
+      content="See topics that just started exploding across tech, games, sports, news, and entertainment — with a live heat score."
+    />
+    <meta name="twitter:image" content="https://astarmedia.net/heatcheck/og-image.jpg" />
+    <meta
+      name="twitter:image:alt"
+      content="HeatCheck — What's rising right now"
+    />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Syne:wght@600;700;800&display=swap"
       rel="stylesheet"
     />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://astarmedia.net/heatcheck/#website",
+            "name": "HeatCheck",
+            "url": "https://astarmedia.net/heatcheck/",
+            "description": "Live radar for topics that just started exploding online across tech, games, sports, news, and entertainment.",
+            "inLanguage": "en",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Astar Media",
+              "url": "https://astarmedia.net/"
+            }
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://astarmedia.net/heatcheck/#app",
+            "name": "HeatCheck",
+            "url": "https://astarmedia.net/heatcheck/",
+            "applicationCategory": "NewsApplication",
+            "operatingSystem": "Any",
+            "browserRequirements": "Requires JavaScript",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "description": "Check whether a topic is trending and browse the hottest spikes across news, tech, sports, games, and entertainment."
+          }
+        ]
+      }
+    </script>
+
     <script
       async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9167552007992876"
       crossorigin="anonymous"
     ></script>
-    <title>HeatCheck — What's rising right now</title>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- Crawlable fallback replaced by React on load -->
+      <main>
+        <h1>HeatCheck</h1>
+        <p>Worth talking about — or not.</p>
+        <p>
+          HeatCheck is a free live trend radar that surfaces topics accelerating
+          across tech, games, sports, news, and entertainment. Search any
+          headline, name, or story for a 0–100 heat reading, or browse spikes
+          from the last hour through the last month.
+        </p>
+        <p>
+          <a href="https://astarmedia.net/heatcheck/">Open HeatCheck</a>
+        </p>
+      </main>
+    </div>
+    <noscript>
+      <main style="max-width: 40rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif">
+        <h1>HeatCheck</h1>
+        <p>Worth talking about — or not.</p>
+        <p>
+          Enable JavaScript to use the live trend board, or visit
+          <a href="https://astarmedia.net/heatcheck/">astarmedia.net/heatcheck/</a>
+          on a modern browser.
+        </p>
+      </main>
+    </noscript>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

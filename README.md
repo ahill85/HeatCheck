@@ -87,3 +87,14 @@ npm run dev
 ## AdSense
 
 Same bottom unit as Hoops Redraft (`ca-pub-9167552007992876` / slot `2160710155`). Works on the live astarmedia.net domain; often empty on localhost.
+
+## SEO
+
+The build ships:
+
+- Meta description, canonical, Open Graph, Twitter cards
+- JSON-LD (`WebSite` + `WebApplication`)
+- `/heatcheck/robots.txt` and `/heatcheck/sitemap.xml`
+- Share image at `/heatcheck/og-image.jpg`
+
+After deploy, submit `https://astarmedia.net/heatcheck/sitemap.xml` in [Google Search Console](https://search.google.com/search-console). Crawlers only read `robots.txt` at the **domain root**, so if the host still 404s `https://astarmedia.net/robots.txt`, add one there that allows `/heatcheck/` and points at the sitemap above.

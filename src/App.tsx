@@ -130,12 +130,13 @@ export default function App() {
   return (
     <div className="app">
       <header className="top">
-        <p className="brand">
+        <h1 className="brand">
           Heat<span>Check</span>
-        </p>
+        </h1>
         <p className="tagline">Worth talking about — or not.</p>
       </header>
 
+      <main>
       <section className="search-block" aria-label="Search">
         <label className="checker-field">
           <span className="sr-only">Search a topic</span>
@@ -264,7 +265,7 @@ export default function App() {
                           className="link-chip"
                           href={link.url}
                           target="_blank"
-                          rel="noreferrer"
+                          rel="noopener noreferrer"
                         >
                           <span>{link.source}</span>
                         </a>
@@ -277,11 +278,17 @@ export default function App() {
           </ol>
         )}
       </section>
+      </main>
 
       <footer className="footer">
         <p>
-          Free acceleration radar ·{' '}
+          HeatCheck is a free trend radar for topics rising across tech, games,
+          sports, news, and entertainment.
+        </p>
+        <p>
           <a href="https://astarmedia.net/heatcheck/">astarmedia.net/heatcheck/</a>
+          {' · '}
+          <a href="https://astarmedia.net/">Astar Media</a>
         </p>
       </footer>
 

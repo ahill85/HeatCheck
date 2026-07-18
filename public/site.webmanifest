@@ -1,0 +1,25 @@
+{
+  "name": "HeatCheck",
+  "short_name": "HeatCheck",
+  "description": "See what just started exploding online across tech, games, sports, news, and entertainment.",
+  "start_url": "/heatcheck/",
+  "scope": "/heatcheck/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5a1f",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/heatcheck/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/heatcheck/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

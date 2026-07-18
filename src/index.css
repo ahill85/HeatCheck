@@ -95,6 +95,7 @@ a {
 }
 
 .brand {
+  margin: 0;
   font-family: var(--font-display);
   font-weight: 800;
   font-size: clamp(2.3rem, 10.5vw, 3rem);
@@ -843,6 +844,14 @@ a {
   font-size: 0.8rem;
   line-height: 1.45;
   text-align: center;
+}
+
+.footer p {
+  margin: 0 0 0.45rem;
+}
+
+.footer p:last-child {
+  margin-bottom: 0;
 }
 
 .footer a {

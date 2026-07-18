@@ -156,7 +156,7 @@ export function HighlightBanners({ highlights, items }: Props) {
                       className="link-chip"
                       href={link.url}
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <span>{link.source}</span>
                     </a>
