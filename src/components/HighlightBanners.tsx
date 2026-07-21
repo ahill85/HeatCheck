@@ -148,9 +148,21 @@ export function HighlightBanners({ highlights, items }: Props) {
                 <span>{formatWhen(openSlot.card.firstSeen)}</span>
               </div>
 
-              {links.length > 0 && (
-                <div className="links">
-                  {links.slice(0, 5).map((link) => (
+              {links[0] && (
+                <a
+                  className="view-article"
+                  href={links[0].url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View article
+                  <span aria-hidden="true">→</span>
+                </a>
+              )}
+
+              {links.length > 1 && (
+                <div className="links" aria-label="More sources">
+                  {links.slice(1, 5).map((link) => (
                     <a
                       key={link.url}
                       className="link-chip"

@@ -748,10 +748,36 @@ a {
 .tags {
   display: flex;
   flex-wrap: wrap;
+  gap: 0.35rem 0.55rem;
   align-items: center;
-  gap: 0.3rem 0.55rem;
-  font-size: 0.72rem;
   color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.view-article {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  width: fit-content;
+  margin-top: 0.15rem;
+  padding: 0.35rem 0;
+  color: var(--heat);
+  font-weight: 650;
+  font-size: 0.9rem;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  border-bottom: 1.5px solid color-mix(in srgb, var(--heat) 35%, transparent);
+}
+
+.view-article span {
+  font-size: 0.95em;
+  line-height: 1;
+  transform: translateY(0.5px);
+}
+
+.view-article:active {
+  color: #e04510;
+  border-bottom-color: color-mix(in srgb, #e04510 50%, transparent);
 }
 
 .tag {
@@ -944,6 +970,11 @@ ins.adsbygoogle[data-ad-status='unfill-optimized'] {
     background: var(--heat-tint);
     border-color: #ffd9c4;
     color: var(--heat);
+  }
+
+  .view-article:hover {
+    color: #e04510;
+    border-bottom-color: color-mix(in srgb, #e04510 55%, transparent);
   }
 
   .hi-modal-root {

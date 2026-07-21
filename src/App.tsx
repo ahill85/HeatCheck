@@ -262,19 +262,32 @@ export default function App() {
                       <span className="heat-vibe">{heat.vibe}</span>
                       <span>{formatWhen(item.firstSeen)}</span>
                     </div>
-                    <div className="links">
-                      {item.links.slice(0, 3).map((link) => (
-                        <a
-                          key={link.url}
-                          className="link-chip"
-                          href={link.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <span>{link.source}</span>
-                        </a>
-                      ))}
-                    </div>
+                    {item.links[0] && (
+                      <a
+                        className="view-article"
+                        href={item.links[0].url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        View article
+                        <span aria-hidden="true">→</span>
+                      </a>
+                    )}
+                    {item.links.length > 1 && (
+                      <div className="links" aria-label="More sources">
+                        {item.links.slice(1, 4).map((link) => (
+                          <a
+                            key={link.url}
+                            className="link-chip"
+                            href={link.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <span>{link.source}</span>
+                          </a>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 </li>
               )
