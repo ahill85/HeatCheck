@@ -1,4 +1,5 @@
 import { startTransition, useEffect, useMemo, useState } from 'react'
+import { AdSlot } from './components/AdSlot'
 import { BottomAd } from './components/BottomAd'
 import { HeatBadge } from './components/HeatBadge'
 import { HighlightBanners } from './components/HighlightBanners'
@@ -124,7 +125,7 @@ export default function App() {
   const highlights = useMemo(() => {
     if (!items.length && !storedHighlights) return null
     if (!items.length) return storedHighlights
-    return buildHighlights(items, storedHighlights?.byYear ?? {})
+    return buildHighlights(items)
   }, [items, storedHighlights])
 
   return (
@@ -206,7 +207,10 @@ export default function App() {
       </section>
 
       {!searching && (
-        <HighlightBanners highlights={highlights} items={items} />
+        <>
+          <HighlightBanners highlights={highlights} items={items} />
+          <AdSlot placement="mid" />
+        </>
       )}
 
       <section className="board" id="board">

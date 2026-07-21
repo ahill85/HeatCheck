@@ -10,7 +10,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import Parser from 'rss-parser'
 import { classifyText } from '../src/lib/classify'
-import { buildHighlights, type HighlightsPayload } from '../src/lib/highlights'
+import { buildHighlights } from '../src/lib/highlights'
 import {
   diversifyTrends,
   historyFromItems,
@@ -303,15 +303,6 @@ async function loadHistory(): Promise<HistoryMap> {
   }
 }
 
-async function loadPriorHighlights(): Promise<HighlightsPayload | null> {
-  try {
-    const raw = await readFile(highlightsPath, 'utf8')
-    return JSON.parse(raw) as HighlightsPayload
-  } catch {
-    return null
-  }
-}
-
 function countByCategory(items: { category: string }[]) {
   const map: Record<string, number> = {}
   for (const i of items) map[i.category] = (map[i.category] ?? 0) + 1
@@ -387,8 +378,7 @@ async function main() {
     },
   }
 
-  const prior = await loadPriorHighlights()
-  const highlights = buildHighlights(items, prior?.byYear ?? {})
+  const highlights = buildHighlights(items)
 
   await mkdir(dataDir, { recursive: true })
   await writeFile(latestPath, JSON.stringify(payload, null, 2))
@@ -396,7 +386,7 @@ async function main() {
   await writeFile(highlightsPath, JSON.stringify(highlights, null, 2))
   console.log(`Wrote ${items.length} trends → ${latestPath}`)
   console.log(
-    `Highlights: today="${highlights.today?.topic?.slice(0, 40) ?? '—'}" · month="${highlights.month?.topic?.slice(0, 40) ?? '—'}" · year(${highlights.yearName})="${highlights.year?.topic?.slice(0, 40) ?? '—'}"`,
+    `Might-pop picks: ${highlights.picks.map((p) => `"${p.topic.slice(0, 36)}"`).join(' · ') || '—'}`,
   )
   process.exit(0)
 }

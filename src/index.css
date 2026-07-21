@@ -875,6 +875,10 @@ a {
   background: var(--soft);
 }
 
+.ad-slot-mid.is-filled {
+  margin: 0.35rem 0 1.15rem;
+}
+
 .ad-slot.is-empty {
   display: none;
 }

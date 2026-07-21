@@ -85,7 +85,7 @@ export function HighlightBanners({ highlights, items }: Props) {
 
   return (
     <>
-      <section className="highlights" aria-label="Biggest explosions">
+      <section className="highlights" aria-label="Might pop soon">
         <div className="highlights-grid">
           {slots.map((slot) => (
             <button

@@ -94,7 +94,7 @@ npm run dev
 
 ## AdSense
 
-Same bottom unit as Hoops Redraft (`ca-pub-9167552007992876` / slot `2160710155`). Works on the live astarmedia.net domain; often empty on localhost.
+Same unit as Hoops Redraft (`ca-pub-9167552007992876` / slot `2160710155`) — shown mid-page (under the 3 highlight cards) and in the footer. Works on the live astarmedia.net domain; often empty on localhost.
 
 ## SEO
 
