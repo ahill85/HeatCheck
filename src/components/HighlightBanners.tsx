@@ -155,8 +155,8 @@ export function HighlightBanners({ highlights, items }: Props) {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  View article
-                  <span aria-hidden="true">→</span>
+                  <span className="view-article-source">{links[0].source}</span>
+                  <span className="view-article-action">View article</span>
                 </a>
               )}
 
