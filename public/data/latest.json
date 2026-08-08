@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T09:52:36.966Z",
+  "generatedAt": "2026-08-08T10:19:52.219Z",
   "windowHint": "24h",
   "items": [
     {
@@ -9,7 +9,7 @@
       "category": "tech",
       "momentum": 3398,
       "phase": "rising",
-      "firstSeen": "2026-08-08T09:51:00.321Z",
+      "firstSeen": "2026-08-08T10:18:04.080Z",
       "sourceCount": 1,
       "engagement": 715,
       "ageHours": 0.3,
@@ -25,19 +25,19 @@
       ]
     },
     {
-      "id": "finance",
-      "topic": "finance",
+      "id": "market news",
+      "topic": "market news",
       "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 1193,
+      "category": "business",
+      "momentum": 903,
       "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "firstSeen": "2026-08-08T09:50:00.000Z",
       "sourceCount": 1,
       "engagement": 172,
-      "ageHours": 0.4,
+      "ageHours": 0.5,
       "links": [
         {
-          "title": "finance",
+          "title": "market news",
           "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
           "source": "Google Trends US",
           "kind": "googletrends",
@@ -47,16 +47,980 @@
       ]
     },
     {
+      "id": "money news",
+      "topic": "money news",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 789,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "money news",
+          "url": "https://www.foxbusiness.com/personal-finance/credit-expert-reveals-money-move-may-quietly-hurt-your-credit-score",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "sleep news",
+      "topic": "sleep news",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 789,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "sleep news",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "weather travel",
+      "topic": "weather travel",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 789,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "weather travel",
+          "url": "https://pix11.com/news/local-news/ground-stops-issued-at-laguardia-and-jfk-airports-due-to-severe-storms/",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "weather sleep",
+      "topic": "weather sleep",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 789,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "weather sleep",
+          "url": "https://www.the-independent.com/news/uk/home-news/uk-heatwave-weather-sleep-coping-tips-citizens-advice-b3028054.html",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "danniella westbrook",
+      "topic": "danniella westbrook",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 789,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "danniella westbrook",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/39980508/danniella-westbrook-new-face-surgery-look/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "sterling point show",
+      "topic": "sterling point tv show",
+      "summary": "Trending search interest (AU).",
+      "category": "entertainment",
+      "momentum": 789,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "sterling point tv show",
+          "url": "https://www.news.com.au/entertainment/tv/reviews-why-sterling-point-is-your-new-guilty-pleasure-from-the-producers-of-gossip-girl/news-story/4f88f8c95c5de25ea2a00f3de33fe2c5",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "japan australia",
+      "topic": "japan vs australia",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 656,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "japan vs australia",
+          "url": "https://www.theguardian.com/sport/live/2026/aug/08/japan-vs-australia-live-updates-wallabies-nations-championship-rugby-union",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "car news",
+      "topic": "car news",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 561,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "car news",
+          "url": "https://www.cnn.com/2026/08/07/business/ford-electric-pickup-cheap-car-big-bet",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "science weather",
+      "topic": "science weather",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 525,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "science weather",
+          "url": "https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "blanche honored after senate confirms him attorney general",
+      "topic": "Blanche ‘honored’ after Senate confirms him as US attorney general in narrow vote – US politics live",
+      "summary": "Donald Trump’s former defense lawyer confirmed by 50 votes to 49 early on Saturday morning, with senators deferring action on president’s voting bill until afte",
+      "category": "news",
+      "momentum": 502,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:14:05.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Blanche ‘honored’ after Senate confirms him as US attorney general in narrow vote – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
+          "source": "Guardian US",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "nrl highlights dolphins broncos",
+      "topic": "NRL Highlights: Dolphins v Broncos",
+      "summary": "The Dolphins take on the Brisbane Broncos in Round 23 of the 2026 NRL Premiership at Suncorp Stadium, Brisbane.",
+      "category": "news",
+      "momentum": 450,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:08:30.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "NRL Highlights: Dolphins v Broncos",
+          "url": "https://www.smh.com.au/sport/nrl/nrl-highlights-dolphins-v-broncos-round-23-20260808-p60mmm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "marc casad",
+      "topic": "marc casadó",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 437,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "marc casadó",
+          "url": "https://www.sport.es/es/noticias/barca/casado-viaja-udine-133191466",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "johnny herbert",
+      "topic": "johnny herbert",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 437,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "johnny herbert",
+          "url": "https://www.planetf1.com/news/lewis-hamilton-fia-penalty-johnny-herbert",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "eels",
+      "topic": "eels",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 393,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "eels",
+          "url": "https://www.parraeels.com.au/news/2026/08/08/nrl-late-mail-round-23/",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "suspected use entertainment industry scarlet letter",
+      "topic": "Suspected AI use is the entertainment industry's scarlet letter",
+      "summary": "The slightest hint of generative AI usage is fast becoming a kiss of death in creative circles. Why it matters: It's turning into a purity test that has the pot",
+      "category": "tech",
+      "momentum": 384,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:16.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Suspected AI use is the entertainment industry's scarlet letter",
+          "url": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+          "source": "Axios",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "federal funds can used give test strips drug",
+      "topic": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "summary": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check st",
+      "category": "news",
+      "momentum": 379,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+          "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+          "source": "NPR",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "private prisons announce billion revenue immigration detentions climb",
+      "topic": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "summary": "That revenue does not include net proceeds of $1.6 billion made by CoreCivic after the recent sale of four of their facilities to the Department of Homeland Sec",
+      "category": "news",
+      "momentum": 379,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+          "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+          "source": "NPR",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "wild new steam game dares you break every",
+      "topic": "Wild New Steam Game Dares You To Break Every Rule — and Every Level",
+      "summary": "Echobreaker is a futuristic indie game where you complete courses as fast as possible, but then find a way to beat your own time by breaking the rules",
+      "category": "games",
+      "momentum": 359,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:12.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Wild New Steam Game Dares You To Break Every Rule — and Every Level",
+          "url": "https://www.polygon.com/echobreaker-steam-impressions/",
+          "source": "Polygon",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "charlotte career criminal records himself punching woman unprovoked",
+      "topic": "Charlotte career criminal records himself punching woman in unprovoked attack, posting to social media: police",
+      "summary": "Social media video helped Charlotte-Mecklenburg police identify and arrest Di-Quan Schafar Hunt in connection with a July sidewalk attack. Records show he had b",
+      "category": "news",
+      "momentum": 351,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:38.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Charlotte career criminal records himself punching woman in unprovoked attack, posting to social media: police",
+          "url": "https://www.foxnews.com/us/charlotte-career-criminal-records-himself-punching-woman-unprovoked-attack-posting-social-media-police",
+          "source": "Fox News",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "how disable gemini gmail google docs",
+      "topic": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that st",
+      "category": "tech",
+      "momentum": 339,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "How to Disable Gemini in Gmail and Google Docs",
+          "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+          "source": "Wired",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "sensitive info goes into reply emails constantly this",
+      "topic": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+      "summary": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending t",
+      "category": "tech",
+      "momentum": 339,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+          "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+          "source": "Wired",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "score",
+      "topic": "score",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 323,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "score",
+          "url": "https://aseanutdfc.com/asean-championship/2026/news/thailands-hudson-not-thinking-about-semi-finals-ahead-of-myanmar-meeting",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "melbourne victory",
+      "topic": "melbourne victory",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 323,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "melbourne victory",
+          "url": "https://global.espn.com/football/story/_/id/49526674/melbourne-victory-waiting-juan-mata-were-giving",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "senate votes confirm todd blanche attorney general",
+      "topic": "Senate votes to confirm Todd Blanche as attorney general",
+      "summary": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justi",
+      "category": "news",
+      "momentum": 316,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T08:46:39.000Z",
+      "sourceCount": 3,
+      "engagement": 116,
+      "ageHours": 1.6,
+      "links": [
+        {
+          "title": "Senate votes to confirm Todd Blanche as attorney general",
+          "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+          "source": "NPR",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        },
+        {
+          "title": "Senate votes to confirm Todd Blanche as attorney general",
+          "url": "https://edition.cnn.com/2026/08/08/politics/senate-todd-blanche-attorney-general",
+          "source": "GDELT · edition.cnn.com",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        },
+        {
+          "title": "Senate votes to confirm Todd Blanche as attorney general",
+          "url": "https://www.kunm.org/npr-news/2026-08-08/senate-votes-to-confirm-todd-blanche-as-attorney-general",
+          "source": "GDELT · kunm.org",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "cristiano ronaldo",
+      "topic": "cristiano ronaldo",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 294,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "cristiano ronaldo",
+          "url": "https://www.telegraph.co.uk/news/2026/08/08/cristiano-ronaldo-unconventional-family-life/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "sin bin hits eels inside two minutes",
+      "topic": "Sin bin hits Eels inside two minutes",
+      "summary": "Brian Kelly is sent to the sin bin for a professional foul.",
+      "category": "news",
+      "momentum": 288,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:56:29.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Sin bin hits Eels inside two minutes",
+          "url": "https://www.smh.com.au/sport/nrl/sin-bin-hits-eels-inside-two-minutes-20260808-p60mml.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "sheer lunacy coming age inside greatest battle brisbane",
+      "topic": "Sheer lunacy and a coming of age: Inside the greatest Battle of Brisbane yet",
+      "summary": "The Dolphins have triumphed over the Broncos in a Battle of Brisbane shootout, and they can thank one star who has well and truly come of age.",
+      "category": "news",
+      "momentum": 275,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:55:19.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Sheer lunacy and a coming of age: Inside the greatest Battle of Brisbane yet",
+          "url": "https://www.smh.com.au/sport/nrl/sheer-lunacy-and-a-coming-of-age-inside-the-greatest-battle-of-brisbane-yet-20260808-p60mjr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "phillies score",
+      "topic": "phillies score",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 274,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 136,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "phillies score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873271",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 136,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "memphis grizzlies star brandon clarke cause death revealed",
+      "topic": "Memphis Grizzlies star Brandon Clarke’s cause of death revealed",
+      "summary": "The 29-year-old’s death was accidental, coroner rules",
+      "category": "news",
+      "momentum": 240,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:51:46.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "Memphis Grizzlies star Brandon Clarke’s cause of death revealed",
+          "url": "https://www.independent.co.uk/news/world/americas/brandon-clarke-death-cause-grizzlies-b3029684.html",
+          "source": "Independent",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "paint news",
+      "topic": "paint news",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 239,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "paint news",
+          "url": "https://www.theatlantic.com/culture/2026/08/trump-eeob-paint/688200/",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "cathy freeman rings legacy bell",
+      "topic": "Cathy Freeman rings the legacy bell",
+      "summary": "On Indigenous Round, Cathy Freeman rings South Sydney's legacy bell.",
+      "category": "news",
+      "momentum": 238,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:51:29.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "Cathy Freeman rings the legacy bell",
+          "url": "https://www.smh.com.au/sport/nrl/cathy-freeman-rings-the-legacy-bell-20260808-p60mmi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dominion still has pending lawsuits against election deniers",
+      "topic": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 238,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:18:04.556Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "source": "CNN",
+          "kind": "rss",
+          "score": 50,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "russian attacks pound kyiv air defences fall short",
+      "topic": "Russian attacks pound Kyiv as air defences fall short",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 230,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 2,
+      "engagement": 68,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Russian attacks pound Kyiv as air defences fall short",
+          "url": "https://www.illawarramercury.com.au/story/9326418/russian-attacks-pound-kyiv-as-air-defences-fall-short/",
+          "source": "GDELT · illawarramercury.com.au",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        },
+        {
+          "title": "Russian attacks pound Kyiv as air defences fall short",
+          "url": "https://www.standard.net.au/story/9326418/russian-attacks-pound-kyiv-as-air-defences-fall-short/",
+          "source": "GDELT · standard.net.au",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "russian attacks kill kyiv surrounding region air defenses",
+      "topic": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 230,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 2,
+      "engagement": 68,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+          "url": "https://www.clickorlando.com/news/2026/08/08/russian-attacks-kill-4-in-kyiv-and-surrounding-region-as-air-defenses-fall-short/",
+          "source": "GDELT · clickorlando.com",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        },
+        {
+          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+          "url": "http://www.goskagit.com/news/world/russian-attacks-kill-4-in-kyiv-and-surrounding-region-as-air-defenses-fall-short/article_8c031ff6-823c-5e80-9139-ec4d3c378773.html",
+          "source": "GDELT · goskagit.com",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "schumer said democrats support voter then every senate",
+      "topic": "Schumer said ‘Democrats support voter ID’ — then every Senate Democrat voted against GOP bill",
+      "summary": "Chuck Schumer and Senate Democrats blocked Jon Husted's voter ID bill despite Schumer's past claims that Democrats support voter identification.",
+      "category": "news",
+      "momentum": 213,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:48:13.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "Schumer said ‘Democrats support voter ID’ — then every Senate Democrat voted against GOP bill",
+          "url": "https://www.foxnews.com/politics/schumer-said-democrats-support-voter-id-then-every-senate-democrat-voted-against-gop-bill",
+          "source": "Fox News",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "heat health alerts come into force fifth heatwave",
+      "topic": "Heat health alerts come into force as fifth heatwave set to hit united kingdom",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 209,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 2,
+      "engagement": 68,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Heat health alerts come into force as fifth heatwave set to hit united kingdom ",
+          "url": "https://www.southwalesargus.co.uk/news/national/26447501.heat-health-alerts-come-force-fifth-heatwave-set-hit-uk/",
+          "source": "GDELT · southwalesargus.co.uk",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        },
+        {
+          "title": "Heat health alerts come into force as fifth heatwave set to hit united kingdom ",
+          "url": "https://www.ludlowadvertiser.co.uk/news/national/26447501.heat-health-alerts-come-force-fifth-heatwave-set-hit-uk/",
+          "source": "GDELT · ludlowadvertiser.co.uk",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "afl live haven noticed smith shrugs off waiver",
+      "topic": "AFL LIVE: ‘I haven’t noticed it’: Smith shrugs off waiver scandal as Cats thump Dons; Tigers keep with Crows",
+      "summary": "The Crows put their top six hopes on the line with a clash against Richmond at Adelaide Oval tonight after Bailey Smith and Geelong put aside the ongoing concus",
+      "category": "sports",
+      "momentum": 204,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T10:12:22.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "AFL LIVE: ‘I haven’t noticed it’: Smith shrugs off waiver scandal as Cats thump Dons; Tigers keep with Crows",
+          "url": "https://www.smh.com.au/sport/afl/afl-live-melbourne-demons-test-finals-form-against-top-team-fremantle-dockers-as-round-22-continues-20260807-p60mhy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "newcastle say they didn want sell guimaraes arsenal",
+      "topic": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
+      "summary": "Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.",
+      "category": "news",
+      "momentum": 184,
+      "phase": "rising",
+      "firstSeen": "2026-08-08T09:38:58.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
+          "url": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
+          "source": "Al Jazeera",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "nixpkgs core team has disbanded",
+      "topic": "The Nixpkgs core team has disbanded",
+      "summary": "Surfacing across 2 channels with rising engagement.",
+      "category": "tech",
+      "momentum": 178,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T01:12:45.000Z",
+      "sourceCount": 1,
+      "engagement": 937,
+      "ageHours": 9.1,
+      "links": [
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 302,
+          "comments": 148
+        }
+      ]
+    },
+    {
+      "id": "shergar cup",
+      "topic": "shergar cup",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 168,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:20:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 1,
+      "links": [
+        {
+          "title": "shergar cup",
+          "url": "https://www.racingpost.com/news/raceday-intel/support-for-two-ian-williams-runners-on-shergar-cup-card-including-one-for-jockey-on-his-first-ride-in-britain-ruKLd3v0YE48/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "what happens entire class workers loses faith their",
+      "topic": "What happens if an entire class of workers loses faith in their careers",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 164,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T12:42:27.000Z",
+      "sourceCount": 1,
+      "engagement": 2917,
+      "ageHours": 21.6,
+      "links": [
+        {
+          "title": "What happens if an entire class of workers loses faith in their careers",
+          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 676,
+          "comments": 747
+        }
+      ]
+    },
+    {
+      "id": "paddy mcguinness",
+      "topic": "paddy mcguinness",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 159,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "paddy mcguinness",
+          "url": "https://www.standard.co.uk/showbiz/christine-mcguinness-nicola-adams-dating-rumours-b1292682.html",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
       "id": "cathy freeman",
       "topic": "cathy freeman",
       "summary": "Trending search interest (AU).",
       "category": "news",
-      "momentum": 770,
-      "phase": "rising",
+      "momentum": 159,
+      "phase": "peaking",
       "firstSeen": "2026-08-08T09:30:00.000Z",
       "sourceCount": 1,
       "engagement": 111,
-      "ageHours": 0.4,
+      "ageHours": 0.8,
       "links": [
         {
           "title": "cathy freeman",
@@ -69,90 +1033,24 @@
       ]
     },
     {
-      "id": "bradford city",
-      "topic": "bradford city",
-      "summary": "Trending search interest (GB).",
+      "id": "greenland issues strong warning trump linked oil firm",
+      "topic": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
+      "summary": "Island’s government says no approval given after Greenland Energy brings kit ashore for exploratory drilling",
       "category": "news",
-      "momentum": 693,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "momentum": 157,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T05:00:39.000Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.4,
+      "engagement": 647,
+      "ageHours": 5.3,
       "links": [
         {
-          "title": "bradford city",
-          "url": "https://www.bbc.co.uk/sport/football/live/cp8e5y57yrjt",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "eclips soare",
-      "topic": "eclipsă de soare",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 693,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "eclipsă de soare",
-          "url": "https://www.digi24.ro/stiri/externe/mapamond/locul-unde-soarele-va-apune-de-doua-ori-in-aceeasi-zi-un-sat-aproape-pustiu-din-spania-atrage-vizitatori-din-toata-lumea-3895955",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "wayne bennett",
-      "topic": "wayne bennett",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 693,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "wayne bennett",
-          "url": "https://www.nine.com.au/sport/nrl/news-wayne-bennett-press-conference-player-media-commitment-fines-latrell-mitchell-south-sydney-rabbitohs-injury-return-20260807-p60mfw.html",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "quillan salkilld",
-      "topic": "quillan salkilld",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 693,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "quillan salkilld",
-          "url": "https://www.ladbrokes.com.au/blog/2026/08/05/ufc-fight-night-gamrot-vs-salkilld-predictions/",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
+          "title": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
+          "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
+          "source": "Mastodon · The Guardian",
+          "kind": "mastodon",
+          "score": 113,
+          "comments": 178
         }
       ]
     },
@@ -161,12 +1059,12 @@
       "topic": "Senate confirms Todd Blanche as attorney general",
       "summary": "The Senate voted to confirm Todd Blanche as the next attorney general early Saturday, capping a tumultuous path to office for President Trump's former personal",
       "category": "news",
-      "momentum": 686,
-      "phase": "rising",
+      "momentum": 146,
+      "phase": "peaking",
       "firstSeen": "2026-08-08T09:31:10.000Z",
       "sourceCount": 2,
       "engagement": 93,
-      "ageHours": 0.4,
+      "ageHours": 0.8,
       "links": [
         {
           "title": "Senate confirms Todd Blanche as attorney general",
@@ -187,45 +1085,89 @@
       ]
     },
     {
-      "id": "shergar cup",
-      "topic": "shergar cup",
+      "id": "eclips soare",
+      "topic": "eclipsă de soare",
       "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 534,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:20:00.000Z",
+      "momentum": 143,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
       "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.5,
+      "engagement": 100,
+      "ageHours": 0.8,
       "links": [
         {
-          "title": "shergar cup",
-          "url": "https://www.racingpost.com/news/raceday-intel/support-for-two-ian-williams-runners-on-shergar-cup-card-including-one-for-jockey-on-his-first-ride-in-britain-ruKLd3v0YE48/",
+          "title": "eclipsă de soare",
+          "url": "https://www.digi24.ro/stiri/externe/mapamond/locul-unde-soarele-va-apune-de-doua-ori-in-aceeasi-zi-un-sat-aproape-pustiu-din-spania-atrage-vizitatori-din-toata-lumea-3895955",
           "source": "Google Trends UK",
           "kind": "googletrends",
-          "score": 111,
+          "score": 100,
           "comments": 0
         }
       ]
     },
     {
-      "id": "synagogues build new security playbook antisemitic attacks intensify",
-      "topic": "Synagogues build a new security playbook as antisemitic attacks intensify",
-      "summary": "Synagogues across the U.S. are having congregants train to be volunteer security teams as antisemitic assaults hit record levels and Jewish gathering places fac",
+      "id": "bradford city",
+      "topic": "bradford city",
+      "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 502,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:40:05.000Z",
+      "momentum": 143,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
       "sourceCount": 1,
-      "engagement": 48,
-      "ageHours": 0.3,
+      "engagement": 100,
+      "ageHours": 0.8,
       "links": [
         {
-          "title": "Synagogues build a new security playbook as antisemitic attacks intensify",
-          "url": "https://www.axios.com/2026/08/08/synagogues-security-teams-jews",
-          "source": "Axios",
-          "kind": "rss",
-          "score": 48,
+          "title": "bradford city",
+          "url": "https://www.bbc.co.uk/sport/football/live/cp8e5y57yrjt",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "wayne bennett",
+      "topic": "wayne bennett",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 143,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "wayne bennett",
+          "url": "https://www.nine.com.au/sport/nrl/news-wayne-bennett-press-conference-player-media-commitment-fines-latrell-mitchell-south-sydney-rabbitohs-injury-return-20260807-p60mfw.html",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "quillan salkilld",
+      "topic": "quillan salkilld",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 143,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "quillan salkilld",
+          "url": "https://www.ladbrokes.com.au/blog/2026/08/05/ufc-fight-night-gamrot-vs-salkilld-predictions/",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
           "comments": 0
         }
       ]
@@ -235,12 +1177,12 @@
       "topic": "today wordle hints",
       "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 500,
-      "phase": "rising",
+      "momentum": 139,
+      "phase": "peaking",
       "firstSeen": "2026-08-08T09:10:00.000Z",
       "sourceCount": 1,
       "engagement": 136,
-      "ageHours": 0.7,
+      "ageHours": 1.2,
       "links": [
         {
           "title": "today wordle hints",
@@ -253,67 +1195,67 @@
       ]
     },
     {
-      "id": "river",
-      "topic": "river",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 489,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T08:50:00.000Z",
+      "id": "deepseek flash 0731",
+      "topic": "DeepSeek V4 Flash 0731",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 131,
+      "phase": "peaking",
+      "firstSeen": "2026-08-07T17:56:20.000Z",
       "sourceCount": 1,
-      "engagement": 200,
-      "ageHours": 1,
+      "engagement": 1779,
+      "ageHours": 16.4,
       "links": [
         {
-          "title": "river",
-          "url": "https://www.theguardian.com/world/gallery/2026/aug/07/europe-dry-riverbeds-scorched-earth-hot-weather-in-pictures",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 633,
+          "comments": 382
         }
       ]
     },
     {
-      "id": "steven asplund",
-      "topic": "steven asplund",
-      "summary": "Trending search interest (US).",
+      "id": "new mexico court orders meta pay 567m over",
+      "topic": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "summary": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...   https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&",
       "category": "news",
-      "momentum": 481,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:20:00.000Z",
+      "momentum": 128,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T00:06:28.000Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.5,
+      "engagement": 2636,
+      "ageHours": 34.2,
       "links": [
         {
-          "title": "steven asplund",
-          "url": "https://www.ufc.com/news/steven-asplund-pulling-out-all-stops-ufc-vegas-120-heavyweight",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
+          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 764,
+          "comments": 407
         }
       ]
     },
     {
-      "id": "adelaide crows",
-      "topic": "adelaide crows",
-      "summary": "Trending search interest (AU).",
+      "id": "billy strings escaped darkness playing not back",
+      "topic": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.",
+      "summary": "The genre-straddling musician could have been lost to addiction and trauma. Instead he’s filling arenas.",
       "category": "news",
-      "momentum": 481,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:20:00.000Z",
+      "momentum": 128,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:15:05.000Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.5,
+      "engagement": 53,
+      "ageHours": 1.1,
       "links": [
         {
-          "title": "adelaide crows",
-          "url": "https://www.richmondfc.com.au/news/2091740/tiger-to-play-first-afl-game-in-867-days",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
+          "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.",
+          "url": "https://www.nytimes.com/2026/08/08/magazine/billy-strings-interview.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
           "comments": 0
         }
       ]
@@ -323,12 +1265,12 @@
       "topic": "crows game today",
       "summary": "Trending search interest (AU).",
       "category": "games",
-      "momentum": 481,
-      "phase": "rising",
+      "momentum": 119,
+      "phase": "peaking",
       "firstSeen": "2026-08-08T09:20:00.000Z",
       "sourceCount": 1,
       "engagement": 100,
-      "ageHours": 0.5,
+      "ageHours": 1,
       "links": [
         {
           "title": "crows game today",
@@ -341,889 +1283,23 @@
       ]
     },
     {
-      "id": "gus eels make eight fly moon",
-      "topic": "Gus: If Eels make the eight 'I'll fly to the moon'",
-      "summary": "Phil Gould makes a bet on the Eels with the club's final chances still slightly alive.",
-      "category": "news",
-      "momentum": 450,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:46:18.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Gus: If Eels make the eight 'I'll fly to the moon'",
-          "url": "https://www.smh.com.au/sport/nrl/gus-if-eels-make-the-eight-ill-fly-to-the-moon-20260808-p60mmh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "afl live haven noticed smith shrugs off waiver",
-      "topic": "AFL LIVE: ‘I haven’t noticed it’: Smith shrugs off waiver scandal as Cats thump Dons; Crows, Tigers battle in Adelaide",
-      "summary": "The Crows put their top six hopes on the line with a clash against Richmond at Adelaide Oval tonight after Bailey Smith and Geelong put aside the ongoing concus",
-      "category": "sports",
-      "momentum": 450,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:39:10.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "AFL LIVE: ‘I haven’t noticed it’: Smith shrugs off waiver scandal as Cats thump Dons; Crows, Tigers battle in Adelaide",
-          "url": "https://www.smh.com.au/sport/afl/afl-live-melbourne-demons-test-finals-form-against-top-team-fremantle-dockers-as-round-22-continues-20260807-p60mhy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "optus stadium",
-      "topic": "optus stadium",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 388,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "optus stadium",
-          "url": "https://www.inter.it/en/news/training-inter-perth-7-august-2026",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "child among four people killed russian attacks ukraine",
-      "topic": "Child among four people killed in Russian attacks on Ukraine",
-      "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people",
-      "category": "news",
-      "momentum": 382,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:12:54.000Z",
-      "sourceCount": 1,
-      "engagement": 90,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "Child among four people killed in Russian attacks on Ukraine",
-          "url": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "hotel",
-      "topic": "hotel",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 373,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "hotel",
-          "url": "https://www.postandcourier.com/business/tourism/renderings-temp-by-hilton-hotel-charleston/article_c2d6cf7c-fc62-408e-bf71-92ed7569e79d.html",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 125,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "selwyn cobbo",
-      "topic": "selwyn cobbo",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 368,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "selwyn cobbo",
-          "url": "https://www.codesports.com.au/nrl/cobbo-try-disallowed-in-tight-call/video/32ab7905a22d954c911acfc4c38f4801",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "paddy mcguinness",
-      "topic": "paddy mcguinness",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 350,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "paddy mcguinness",
-          "url": "https://www.standard.co.uk/showbiz/christine-mcguinness-nicola-adams-dating-rumours-b1292682.html",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "announces 400m investment australian rare earth mine",
-      "topic": "US announces $400m investment in Australian rare earth mine",
-      "summary": "Deal aims to secure scandium supply as China restricts exports for defence products.",
-      "category": "news",
-      "momentum": 336,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:12.000Z",
-      "sourceCount": 1,
-      "engagement": 48,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "US announces $400m investment in Australian rare earth mine",
-          "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
-          "source": "Al Jazeera",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "hugh jackman",
-      "topic": "hugh jackman",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 331,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "hugh jackman",
-          "url": "https://www.nine.com.au/entertainment/celebrity/hugh-jackman-sutton-foster-surprise-duet-performance-ogunquit-playhouse-20260806-p60lv8.html",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "hairmax laserband comfortflex review putting down new roots",
-      "topic": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
-      "summary": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
-      "category": "tech",
-      "momentum": 312,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:31:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
-          "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
-          "source": "Wired",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolphins star dodgy try saver",
-      "topic": "Dolphins star's dodgy try-saver",
-      "summary": "Kurt Donoghoe comes from an off-side position to prevent a Billy Walters try.",
-      "category": "news",
-      "momentum": 299,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:05.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Dolphins star's dodgy try-saver",
-          "url": "https://www.smh.com.au/sport/nrl/dolphins-stars-dodgy-try-saver-20260808-p60mmg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "obscure 000 item list medical devices costing patients",
-      "topic": "The obscure 10,000-item list of medical devices costing patients billions",
-      "summary": "A 2022 medical pricing deal has ended and has left a costly legacy, costing patients and taxpayers billions while industry pockets the profit.",
-      "category": "news",
-      "momentum": 298,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "The obscure 10,000-item list of medical devices costing patients billions",
-          "url": "https://www.smh.com.au/politics/federal/the-obscure-10-000-item-list-of-medical-devices-costing-patients-billions-20260717-p60gbc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "josh mcpake",
-      "topic": "josh mcpake",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 298,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "josh mcpake",
-          "url": "https://www.edinburghnews.scotsman.com/sport/football/hearts/josh-mcpake-holds-hearts-talks-as-he-makes-his-feelings-clear-after-a-debut-at-benfica-8843932",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "curnow unstoppable swans power past port adelaide",
-      "topic": "Curnow unstoppable as Swans power past Port Adelaide",
-      "summary": "After a slow start, five goals from Coleman Medal leader Charlie Curnow helped propel the Swans to a thumping victory at the SCG.",
-      "category": "news",
-      "momentum": 274,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:27:58.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Curnow unstoppable as Swans power past Port Adelaide",
-          "url": "https://www.smh.com.au/sport/afl/curnow-unstoppable-as-swans-power-past-port-adelaide-20260808-p60mld.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "watching red sox front row baseball alternate universe",
-      "topic": "Watching the Red Sox from the front row of baseball’s alternate universe has been quite the trip, and other thoughts",
-      "summary": "Watching the Red Sox from the front row of baseball’s alternate universe has been quite the trip, and other thoughts The Boston Globe The Red Sox can't lose, an",
-      "category": "sports",
-      "momentum": 261,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:41:55.000Z",
-      "sourceCount": 1,
-      "engagement": 55,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Watching the Red Sox from the front row of baseball’s alternate universe has been quite the trip, and other thoughts",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xVTFLNmt5aVRGUU9BRGZMWUozYXlTdWpabGRJODZhTHQyaWxCQUhDVG9ZaVcwNk0xaGJYQUEzOEtXWEMyU25FRXlDMzljT2JjZEZwWndvZUl4cnlOcnBvazBWSlJBM0VwLVl0T2NPN2dlaEZIQ3NQb1JB?oc=5",
-          "source": "Google News Sports",
-          "kind": "rss",
-          "score": 55,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "blanche confirmed attorney general after overcoming concerns",
-      "topic": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
-      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President",
-      "category": "news",
-      "momentum": 252,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:38:06.000Z",
-      "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
-          "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "savings",
-      "topic": "savings",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 252,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "savings",
-          "url": "https://www.bbc.com/news/articles/cvg0rg9wmvlo",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dominion still has pending lawsuits against election deniers",
-      "topic": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 238,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:51:01.148Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
-          "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-          "source": "CNN",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "feature xbox series games look forward august december",
-      "topic": "Feature: 30 Xbox Series X|S Games To Look Forward To In August-December 2026",
-      "summary": "Feature: 30 Xbox Series X|S Games To Look Forward To In August-December 2026 Pure Xbox",
-      "category": "games",
-      "momentum": 219,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:16:52.000Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Feature: 30 Xbox Series X|S Games To Look Forward To In August-December 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFltMGVfSkJZcS1SVmhIdTdJMEJqLVNWSE1aRmNaMmNtUngzNnJYU0hTblUxQ3R5am1xOFRHeWNBa2hxQVExdVdweFFCbGFnQmc1VFg4VTNNUnplNjBaQzVBYmJvMlVoZWg5dFJWdTlrMFRZUjFUYWxwWjRCZXRWREx4UGJzaHBJUVBwTk8xMmFVTEYxLWozUnFwMlVzd3Y5c0E?oc=5",
-          "source": "Google News Games",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "chapman could return next week after brain bleed",
-      "topic": "Chapman could return to UK next week after brain bleed",
-      "summary": "British boxer Raven Chapman could fly back to the UK next week after undergoing a second successful surgery on a brain bleed she suffered following a sparring s",
-      "category": "sports",
-      "momentum": 218,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:20:17.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Chapman could return to UK next week after brain bleed",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/cx2jyzgzv7jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "wallabies japan test live australia takes eddie jones",
-      "topic": "Wallabies v Japan Test LIVE: Australia takes on Eddie Jones’ side in start of Les Kiss era",
-      "summary": "Les Kiss takes charge of his first game as Wallabies coach against Eddie Jones’ Japan in Osaka.",
-      "category": "news",
-      "momentum": 212,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:20:49.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Wallabies v Japan Test LIVE: Australia takes on Eddie Jones’ side in start of Les Kiss era",
-          "url": "https://www.smh.com.au/sport/rugby-union/wallabies-take-on-eddie-jones-japan-in-start-of-les-kiss-era-20260808-p60mlu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "brian eno not behind film soundtrack night experimental",
-      "topic": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
-      "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return",
-      "category": "entertainment",
-      "momentum": 204,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:40:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
-          "source": "Hollywood Reporter",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "todd blanche confirmed attorney general after divisive hearing",
-      "topic": "Todd Blanche confirmed as US attorney general after divisive hearing",
-      "summary": "The vote followed a tumultuous confirmation fight that exposed deep concerns — from some Republicans as well as Democrats — about installing Donald Trump's clos",
-      "category": "news",
-      "momentum": 184,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T09:14:12.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
-          "url": "https://www.abc.net.au/news/2026-08-08/todd-blanche-confirmed-as-us-attorney-general/107013178",
-          "source": "ABC News AU",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "when eclipse 2026",
-      "topic": "when is the eclipse 2026",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 183,
-      "phase": "rising",
-      "firstSeen": "2026-08-08T08:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 161,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "when is the eclipse 2026",
-          "url": "https://www.bbc.co.uk/news/articles/c980913yep8o",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 161,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "nixpkgs core team has disbanded",
-      "topic": "The Nixpkgs core team has disbanded",
-      "summary": "Surfacing across 2 channels with rising engagement.",
-      "category": "tech",
-      "momentum": 182,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T01:12:45.000Z",
-      "sourceCount": 1,
-      "engagement": 900,
-      "ageHours": 8.7,
-      "links": [
-        {
-          "title": "The Nixpkgs core team has disbanded",
-          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 298,
-          "comments": 142
-        }
-      ]
-    },
-    {
-      "id": "iran war latest saudi arabia turkey pakistan sign",
-      "topic": "Iran-US war latest: Saudi Arabia, Turkey and Pakistan sign Nato-style defence pact – but Tehran issues warning",
-      "summary": "‘Clinging to America’s lakeys will not bring them security,’ Iran says in message to Saudi rulers",
-      "category": "news",
-      "momentum": 177,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T09:14:36.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Iran-US war latest: Saudi Arabia, Turkey and Pakistan sign Nato-style defence pact – but Tehran issues warning",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-hormuz-israel-oman-b3029677.html",
-          "source": "Independent",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "satyajit ray goopy gyne bagha byne making chronicled",
-      "topic": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
-      "summary": "Indian National Award-winning filmmaker Srijit Mukherji is bringing to screen the making of Satyajit Ray’s “Goopy Gyne Bagha Byne,” one of Indian cinema’s most",
-      "category": "entertainment",
-      "momentum": 173,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T09:13:41.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
-          "url": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/",
-          "source": "Variety",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "greenland issues strong warning trump linked oil firm",
-      "topic": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
-      "summary": "Island’s government says no approval given after Greenland Energy brings kit ashore for exploratory drilling",
-      "category": "news",
-      "momentum": 167,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T05:00:39.000Z",
-      "sourceCount": 1,
-      "engagement": 597,
-      "ageHours": 4.9,
-      "links": [
-        {
-          "title": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
-          "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
-          "source": "Mastodon · The Guardian",
-          "kind": "mastodon",
-          "score": 111,
-          "comments": 162
-        }
-      ]
-    },
-    {
-      "id": "what happens entire class workers loses faith their",
-      "topic": "What happens if an entire class of workers loses faith in their careers",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 166,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T12:42:27.000Z",
-      "sourceCount": 1,
-      "engagement": 2845,
-      "ageHours": 21.2,
-      "links": [
-        {
-          "title": "What happens if an entire class of workers loses faith in their careers",
-          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 661,
-          "comments": 728
-        }
-      ]
-    },
-    {
       "id": "michael jordan",
       "topic": "michael jordan",
       "summary": "Trending search interest (AU).",
       "category": "news",
-      "momentum": 149,
+      "momentum": 119,
       "phase": "peaking",
       "firstSeen": "2026-08-08T09:20:00.000Z",
       "sourceCount": 1,
       "engagement": 100,
-      "ageHours": 0.5,
+      "ageHours": 1,
       "links": [
         {
           "title": "michael jordan",
-          "url": "https://www.basketballnetwork.net/off-the-court/john-salley-explained-the-legacy-that-separates-michael-jordan-in-the-goat-debate",
+          "url": "https://www.basketballnetwork.net/latest-news/shaquille-oneal-on-what-he-would-do-if-he-were-in-stephen-currys-shoes",
           "source": "Google Trends AU",
           "kind": "googletrends",
           "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "messi will decide when retires says argentina chief",
-      "topic": "Messi will decide when he retires, says Argentina FA chief",
-      "summary": "Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.",
-      "category": "news",
-      "momentum": 142,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:59:28.000Z",
-      "sourceCount": 1,
-      "engagement": 48,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "Messi will decide when he retires, says Argentina FA chief",
-          "url": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
-          "source": "Al Jazeera",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "deepseek flash 0731",
-      "topic": "DeepSeek V4 Flash 0731",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 134,
-      "phase": "peaking",
-      "firstSeen": "2026-08-07T17:56:20.000Z",
-      "sourceCount": 1,
-      "engagement": 1757,
-      "ageHours": 15.9,
-      "links": [
-        {
-          "title": "DeepSeek V4 Flash 0731",
-          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 626,
-          "comments": 377
-        }
-      ]
-    },
-    {
-      "id": "new york",
-      "topic": "new york",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 132,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 172,
-      "ageHours": 1.5,
-      "links": [
-        {
-          "title": "new york",
-          "url": "https://www.cnn.com/2026/08/07/us/nyc-pied-a-terre-tax-lawsuit",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 172,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "new mexico court orders meta pay 567m over",
-      "topic": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "summary": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...   https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&",
-      "category": "news",
-      "momentum": 130,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T00:06:28.000Z",
-      "sourceCount": 1,
-      "engagement": 2632,
-      "ageHours": 33.8,
-      "links": [
-        {
-          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 763,
-          "comments": 406
-        }
-      ]
-    },
-    {
-      "id": "senate passes stopgap bill avert shutdown avoiding skirmish",
-      "topic": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
-      "summary": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms The New York Times Senate passes bill to fund government in bid to avert shutdow",
-      "category": "news",
-      "momentum": 129,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:04:22.000Z",
-      "sourceCount": 2,
-      "engagement": 171,
-      "ageHours": 1.8,
-      "links": [
-        {
-          "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkFTakM4cTVYbWlaNF9uTTR4TXd0STd5UzdLS0Y5YUMzX0gwZ3hCQkhvc2h4YWYydWQ1bEpkcTVzaWNlVGQ1WEJPcUZCZjhLNUZtUDNMZnFzQlZIdHpGMFNGdVRORTF0Wm9jb3FlaTQ3LVdlVm1wMFFVNlZzMlp1aGpGTHQ?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        },
-        {
-          "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
-          "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "oner",
-      "topic": "t1 oner",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 126,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "t1 oner",
-          "url": "https://www.sheepesports.com/en/all/articles/t1-bench-oner-for-lck-debut-of-18-year-old-academy-jungler-painter/en",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "senate confirms todd blanche attorney general after weeks",
-      "topic": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-      "summary": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty NBC News Blanche confirmed as attorney general at a Justice Department shaped to ser",
-      "category": "news",
-      "momentum": 118,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:33:00.000Z",
-      "sourceCount": 1,
-      "engagement": 60,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUVXaVpmeE9NWWMyRldDZzJucnRjREZvaXZacWtxb3dxN2k5Z1lfdWI5QXJudlhhQS1xQ09Qb0plTkNqNnJPcGFtU3dXUjg0c2xOUmpxc296am9fZ2phcV9OSjczMVV1TjRuS2FPTFNEOExTcU1HbTZzbU9FMUxqMDNkNEppMnVqdU05cnEwY2lvdkU0cjEyUXZZVm1PdEtIdGNnb0F1R1ZOaWxfODd2b1BGOUFHOEtFSUg5V0dESGlwQjRv?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "sports calendar",
-      "topic": "sports calendar",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 114,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "sports calendar",
-          "url": "https://www.stgeorgeutah.com/news/iron-county-school-board-to-consider-modifying-2026-27-calendar-citing-athletic-conflicts/article_144d9e32-dd52-4951-9a7e-2d0b741abb9e.html",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "nicolo bulega",
-      "topic": "nicolo bulega",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 114,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "nicolo bulega",
-          "url": "https://www.crash.net/motogp/news/1102166/1/ducati-very-fast-vr46-responds-bulegas-850cc-motogp-pace",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "todd blanche narrowly confirmed trump attorney general overnight",
-      "topic": "Todd Blanche narrowly confirmed as Trump’s attorney general in overnight vote",
-      "summary": "Todd Blanche narrowly confirmed as Trump’s attorney general in overnight vote AP News Blanche confirmed as attorney general at a Justice Department shaped to se",
-      "category": "news",
-      "momentum": 113,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:32:00.000Z",
-      "sourceCount": 1,
-      "engagement": 58,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "Todd Blanche narrowly confirmed as Trump’s attorney general in overnight vote",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV?oc=5",
-          "source": "Google News US",
-          "kind": "rss",
-          "score": 58,
           "comments": 0
         }
       ]
@@ -1235,7 +1311,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1257,7 +1333,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1279,7 +1355,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1301,7 +1377,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1323,7 +1399,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1345,7 +1421,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1367,7 +1443,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1389,7 +1465,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1411,7 +1487,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1433,7 +1509,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1455,7 +1531,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1477,7 +1553,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1499,7 +1575,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1521,7 +1597,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T09:51:01.602Z",
+      "firstSeen": "2026-08-08T10:18:05.980Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1537,109 +1613,109 @@
       ]
     },
     {
+      "id": "after poisonous primary michigan democrats promise get along",
+      "topic": "After a Poisonous Primary, Michigan Democrats Promise to Get Along",
+      "summary": "The party is racing to get behind Dr. Abdul El-Sayed after a Senate primary that was “spirited,” as Pete Buttigieg diplomatically put it at a unity rally on Fri",
+      "category": "news",
+      "momentum": 107,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:02:00.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "After a Poisonous Primary, Michigan Democrats Promise to Get Along",
+          "url": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "fact checking competitive senate races maine michigan ohio",
+      "topic": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to",
+      "category": "news",
+      "momentum": 107,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:02:19.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+          "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "amid abuse claims against max miller this democrat",
+      "topic": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
+      "summary": "Brian Poindexter, an ironworker, is in the spotlight in Ohio’s 7th Congressional District, where Mr. Miller faces multiple calls to step aside.",
+      "category": "news",
+      "momentum": 107,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:02:02.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
+          "url": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
       "id": "oracle bans generated code openjdk",
       "topic": "Oracle bans AI-generated code from OpenJDK",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 108,
+      "momentum": 106,
       "phase": "peaking",
       "firstSeen": "2026-08-07T17:36:30.000Z",
       "sourceCount": 1,
-      "engagement": 1467,
-      "ageHours": 16.3,
+      "engagement": 1482,
+      "ageHours": 16.7,
       "links": [
         {
           "title": "Oracle bans AI-generated code from OpenJDK",
           "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 471,
-          "comments": 332
+          "score": 474,
+          "comments": 336
         }
       ]
     },
     {
-      "id": "fashion",
-      "topic": "fashion",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 106,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.4,
-      "links": [
-        {
-          "title": "fashion",
-          "url": "https://apnews.com/article/matieres-fecales-fecal-matter-fashion-zendaya-81e69cc7e111c1d475c8b480919f5b97",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "man utd psg",
-      "topic": "man utd vs psg",
-      "summary": "Trending search interest (GB).",
+      "id": "child among four people killed russian attacks ukraine",
+      "topic": "Child among four people killed in Russian attacks on Ukraine",
+      "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people",
       "category": "news",
       "momentum": 103,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T08:50:00.000Z",
+      "firstSeen": "2026-08-08T09:12:54.000Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1,
+      "engagement": 90,
+      "ageHours": 1.1,
       "links": [
         {
-          "title": "man utd vs psg",
-          "url": "https://www.manutd.com/en/news/confirmed-united-squad-for-psg-in-gothenburg",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "julian newman sister",
-      "topic": "julian newman sister",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 98,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 1.7,
-      "links": [
-        {
-          "title": "julian newman sister",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/who-is-jaden-newman-julian-newman-breaks-silence-on-sisters-leaked-video-controversy/articleshow/133044233.cms",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 125,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "live new wallabies era begins coach kiss asks",
-      "topic": "Live: New Wallabies era begins as coach Kiss asks his men to 'care deeply'",
-      "summary": "Les Kiss takes the reins as Wallabies coach for the first time, with Australia facing Japan in Osaka.",
-      "category": "news",
-      "momentum": 86,
-      "phase": "peaking",
-      "firstSeen": "2026-08-08T08:30:56.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 1.4,
-      "links": [
-        {
-          "title": "Live: New Wallabies era begins as coach Kiss asks his men to 'care deeply'",
-          "url": "https://www.abc.net.au/news/2026-08-08/wallabies-vs-japan-first-test-live-scores/106999438",
-          "source": "ABC News AU",
+          "title": "Child among four people killed in Russian attacks on Ukraine",
+          "url": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/",
+          "source": "CBS News",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -1647,23 +1723,177 @@
       ]
     },
     {
-      "id": "bleach",
-      "topic": "bleach",
-      "summary": "Trending search interest (US).",
+      "id": "selwyn cobbo",
+      "topic": "selwyn cobbo",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 102,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 1.2,
+      "links": [
+        {
+          "title": "selwyn cobbo",
+          "url": "https://www.codesports.com.au/nrl/cobbo-try-disallowed-in-tight-call/video/32ab7905a22d954c911acfc4c38f4801",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "italy heat will spread western europe ahead solar",
+      "topic": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "summary": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
+      "category": "news",
+      "momentum": 101,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:02:19.000Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+          "url": "https://www.nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html",
+          "source": "NYT World",
+          "kind": "rss",
+          "score": 50,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "hugh jackman",
+      "topic": "hugh jackman",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 99,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "hugh jackman",
+          "url": "https://www.nine.com.au/entertainment/celebrity/hugh-jackman-sutton-foster-surprise-duet-performance-ogunquit-playhouse-20260806-p60lv8.html",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "ukraine russia war latest putin could attack nato",
+      "topic": "Ukraine-Russia war latest: Putin could attack Nato within weeks, US intelligence warns",
+      "summary": "Mayor Vitali Klitschko says fires and powerful explosions reported in two districts",
+      "category": "news",
+      "momentum": 96,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:47:58.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "Ukraine-Russia war latest: Putin could attack Nato within weeks, US intelligence warns",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-nato-drone-strikes-b3029680.html",
+          "source": "Independent",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "gus eels make eight fly moon",
+      "topic": "Gus: If Eels make the eight 'I'll fly to the moon'",
+      "summary": "Phil Gould makes a bet on the Eels with the club's final chances still slightly alive.",
+      "category": "news",
+      "momentum": 91,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:46:18.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "Gus: If Eels make the eight 'I'll fly to the moon'",
+          "url": "https://www.smh.com.au/sport/nrl/gus-if-eels-make-the-eight-ill-fly-to-the-moon-20260808-p60mmh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "blanche confirmed attorney general after overcoming concerns",
+      "topic": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+      "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President",
+      "category": "news",
+      "momentum": 90,
+      "phase": "peaking",
+      "firstSeen": "2026-08-08T09:38:06.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+          "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "synagogues build new security playbook antisemitic attacks intensify",
+      "topic": "Synagogues build a new security playbook as antisemitic attacks intensify",
+      "summary": "Synagogues across the U.S. are having congregants train to be volunteer security teams as antisemitic assaults hit record levels and Jewish gathering places fac",
       "category": "news",
       "momentum": 86,
       "phase": "peaking",
-      "firstSeen": "2026-08-08T08:30:00.000Z",
+      "firstSeen": "2026-08-08T09:40:05.000Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1.4,
+      "engagement": 48,
+      "ageHours": 0.7,
       "links": [
         {
-          "title": "bleach",
-          "url": "https://pokde.net/lifestyle/shopping/uniqlo-manga-ut-shueisha-collection",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 100,
+          "title": "Synagogues build a new security playbook as antisemitic attacks intensify",
+          "url": "https://www.axios.com/2026/08/08/synagogues-security-teams-jews",
+          "source": "Axios",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "brian eno not behind film soundtrack night experimental",
+      "topic": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+      "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return",
+      "category": "entertainment",
+      "momentum": 77,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
+          "source": "Hollywood Reporter",
+          "kind": "rss",
+          "score": 43,
           "comments": 0
         }
       ]
@@ -1673,179 +1903,39 @@
       "topic": "Hardware backdoors in some x86 CPUs",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 83,
-      "phase": "peaking",
+      "momentum": 70,
+      "phase": "fading",
       "firstSeen": "2026-08-08T07:04:51.000Z",
       "sourceCount": 1,
-      "engagement": 159,
-      "ageHours": 2.8,
+      "engagement": 174,
+      "ageHours": 3.3,
       "links": [
         {
           "title": "Hardware backdoors in some x86 CPUs",
           "url": "https://github.com/xoreaxeaxeax/rosenbridge",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 87,
-          "comments": 24
+          "score": 93,
+          "comments": 27
         }
       ]
     },
     {
-      "id": "mick malthouse asks andrew dillon want his own",
-      "topic": "Mick Malthouse asks Andrew Dillon if he’d want his own child to sign a concussion waiver",
-      "summary": "submitted by /u/macsanderson to r/AFL [link] [comments]",
-      "category": "sports",
-      "momentum": 77,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:14:06.000Z",
-      "sourceCount": 1,
-      "engagement": 36,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Mick Malthouse asks Andrew Dillon if he’d want his own child to sign a concussion waiver",
-          "url": "https://www.reddit.com/r/AFL/comments/1viraf4/mick_malthouse_asks_andrew_dillon_if_hed_want_his/",
-          "source": "r/AFL",
-          "kind": "reddit",
-          "score": 36,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "nitecore latest power bank lightest most compact yet",
-      "topic": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "summary": "Nitecore’s latest power bank is the lightest and most compact yet The Verge",
-      "category": "news",
-      "momentum": 76,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T07:00:00.000Z",
-      "sourceCount": 2,
-      "engagement": 160,
-      "ageHours": 2.9,
-      "links": [
-        {
-          "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVVOa2FNcW5vQVByazBreXIwT1VlaHpsdDFRcWRqV0J1eWxyVjltUjdQRno1MVpZWkF6Y0VUOGFFOVdZVEg5V0ZrSHV4SUdJLVNEOFVKT0JTTGhESHJNcjQ2ek5fMm9rR0ZxZlowazRsSUV6TnltRXF6M0ZPWHNxWVVUdW1qRGo2NHZn?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        },
-        {
-          "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-          "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-          "source": "The Verge",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dinner time",
-      "topic": "Dinner time!",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 70,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:11:20.895Z",
-      "sourceCount": 1,
-      "engagement": 35,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "Dinner time!",
-          "url": "https://lemmy.world/pictrs/image/af12499b-9511-4b68-a71f-3975274c54e3.jpeg",
-          "source": "Lemmy · lemmyshitpost",
-          "kind": "lemmy",
-          "score": 26,
-          "comments": 3
-        }
-      ]
-    },
-    {
-      "id": "rest pepperoni",
-      "topic": "Rest in pepperoni",
-      "summary": "Surfacing across 1 channel with rising engagement.",
+      "id": "announces 400m investment australian rare earth mine",
+      "topic": "US announces $400m investment in Australian rare earth mine",
+      "summary": "Deal aims to secure scandium supply as China restricts exports for defence products.",
       "category": "news",
       "momentum": 69,
       "phase": "fading",
-      "firstSeen": "2026-08-08T07:43:14.495Z",
-      "sourceCount": 1,
-      "engagement": 57,
-      "ageHours": 2.2,
-      "links": [
-        {
-          "title": "Rest in pepperoni",
-          "url": "https://lemmy.world/pictrs/image/379ae010-4a65-4b7b-8c90-43acf4b5382d.jpeg",
-          "source": "Lemmy · lemmyshitpost",
-          "kind": "lemmy",
-          "score": 39,
-          "comments": 6
-        }
-      ]
-    },
-    {
-      "id": "managing coding costs scale",
-      "topic": "Managing AI Coding Costs at Scale",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 66,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T18:25:17.000Z",
-      "sourceCount": 1,
-      "engagement": 845,
-      "ageHours": 15.5,
-      "links": [
-        {
-          "title": "Managing AI Coding Costs at Scale",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 236,
-          "comments": 203
-        }
-      ]
-    },
-    {
-      "id": "horoscope saturday august 2026 chicago sun times",
-      "topic": "Horoscope for Saturday, August 08, 2026 - Chicago Sun-Times",
-      "summary": "Horoscope for Saturday, August 08, 2026 Chicago Sun-Times Horoscopes Today, August 8, 2026 USA Today Daily Horoscope: August 8: Be Careful with Your Words Peopl",
-      "category": "news",
-      "momentum": 65,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T05:01:00.000Z",
-      "sourceCount": 1,
-      "engagement": 113,
-      "ageHours": 4.9,
-      "links": [
-        {
-          "title": "Horoscope for Saturday, August 08, 2026 - Chicago Sun-Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVc2RC0tdXhhZzdsVzlDTklxQkFLdld2WUxoLV83eUpqQ3V3Y3NCS2N3djl3bmpselJoWUQ2RTNsN1NQYUJhamw0Rm1BYmExbTdyRnl5M0NnQjdwV1MzcURycWtJWmJpYjMwU1FtcTBRN3JKNzFlY0dXZzh6aXhja05nbDJSbXNJN3Nkd3BkQUZ4bUFOekE?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "data centers political issue crossing party lines driving",
-      "topic": "Data centers are a political issue crossing party lines, driving voters to candidates",
-      "summary": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as",
-      "category": "news",
-      "momentum": 65,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
+      "firstSeen": "2026-08-08T09:30:12.000Z",
       "sourceCount": 1,
       "engagement": 48,
-      "ageHours": 0.9,
+      "ageHours": 0.8,
       "links": [
         {
-          "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
-          "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-          "source": "NPR",
+          "title": "US announces $400m investment in Australian rare earth mine",
+          "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
+          "source": "Al Jazeera",
           "kind": "rss",
           "score": 48,
           "comments": 0
@@ -1857,174 +1947,284 @@
       "topic": "2027 memory capacity is reportedly sold out",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 64,
+      "momentum": 65,
       "phase": "fading",
       "firstSeen": "2026-08-07T07:58:24.000Z",
       "sourceCount": 1,
-      "engagement": 1344,
-      "ageHours": 25.9,
+      "engagement": 1392,
+      "ageHours": 26.4,
       "links": [
         {
           "title": "2027 memory capacity is reportedly sold out",
           "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 366,
-          "comments": 326
+          "score": 369,
+          "comments": 341
         }
       ]
     },
     {
-      "id": "most divisive time travel movie century officially back",
-      "topic": "The Most Divisive Time-Travel Movie of the Century Is Officially Back on Free Streaming",
-      "summary": "Now free on Pluto TV, The Time Machine remains one of the smartest and most emotionally ambitious time-travel movies of the 2000s.",
-      "category": "entertainment",
-      "momentum": 61,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:12.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "The Most Divisive Time-Travel Movie of the Century Is Officially Back on Free Streaming",
-          "url": "https://www.polygon.com/time-machine-free-streaming-pluto-tv-doctor-who-fixed-points/",
-          "source": "Polygon",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "spokane shows what new era wildfires looks like",
-      "topic": "Spokane Shows What the New Era of Wildfires Looks Like",
-      "summary": "With rising temperatures and drier conditions, fires are more likely to explode. And with more people living next to forests, the results can be catastrophic.",
-      "category": "tech",
-      "momentum": 58,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "Spokane Shows What the New Era of Wildfires Looks Like",
-          "url": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
-          "source": "Wired",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "whatsapp gets handy all feature group chats",
-      "topic": "WhatsApp Gets a Handy @all Feature for Group Chats",
-      "summary": "A new software update builds on WhatsApp’s group chat chops by adding anonymous polls and introducing an easier way to start a smaller private chat away from th",
-      "category": "tech",
-      "momentum": 58,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
-          "url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
-          "source": "Wired",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "best solar generators off grid trips rvs home",
-      "topic": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
-      "summary": "If you want to capture the sun’s power with solar panels, these are the best solar generators I’ve tested.",
-      "category": "tech",
-      "momentum": 58,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
-          "url": "https://www.wired.com/story/best-solar-generators/",
-          "source": "Wired",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "philanthropy not neutral debate swirls university over controversial",
-      "topic": "‘Philanthropy is not neutral’: Debate swirls at university over controversial $35m scholarship program",
-      "summary": "University of Melbourne academics have voted against a university-backed plan to use $35 million for scholarships from the controversial Ramsay Centre for Weste",
+      "id": "what fuck that allowed",
+      "topic": "what the fuck is that allowed???",
+      "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "news",
-      "momentum": 58,
+      "momentum": 65,
       "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
+      "firstSeen": "2026-08-08T08:39:04.776Z",
       "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.9,
+      "engagement": 42,
+      "ageHours": 1.7,
       "links": [
         {
-          "title": "‘Philanthropy is not neutral’: Debate swirls at university over controversial $35m scholarship program",
-          "url": "https://www.smh.com.au/national/victoria/philanthropy-is-not-neutral-debate-swirls-at-university-over-controversial-35m-scholarship-program-20260806-p60m3p.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
+          "title": "what the fuck is that allowed???",
+          "url": "https://feddit.org/pictrs/image/b62080d6-6085-4634-9485-2a73bfc76a6a.png",
+          "source": "Lemmy · lemmyshitpost",
+          "kind": "lemmy",
+          "score": 33,
+          "comments": 3
         }
       ]
     },
     {
-      "id": "liberal andrew hastie faces mounting pressure one nation",
-      "topic": "Liberal Andrew Hastie faces mounting pressure from One Nation as party ramps up national expansion",
-      "summary": "Andrew Hastie’s Western Australian seat of Canning is firmly in One Nation’s sights, as its Victorian leader flags conspiracy theories will not form part of the",
-      "category": "news",
-      "momentum": 58,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "Liberal Andrew Hastie faces mounting pressure from One Nation as party ramps up national expansion",
-          "url": "https://www.smh.com.au/politics/federal/liberal-andrew-hastie-faces-mounting-pressure-from-one-nation-as-party-ramps-up-national-expansion-20260808-p60mkv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "nasa figured out how keep its voyager probe",
-      "topic": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "id": "managing coding costs scale",
+      "topic": "Managing AI Coding Costs at Scale",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 57,
+      "momentum": 63,
       "phase": "fading",
-      "firstSeen": "2026-08-08T01:49:11.000Z",
+      "firstSeen": "2026-08-07T18:25:17.000Z",
       "sourceCount": 1,
-      "engagement": 367,
-      "ageHours": 8.1,
+      "engagement": 847,
+      "ageHours": 15.9,
       "links": [
         {
-          "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-          "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+          "title": "Managing AI Coding Costs at Scale",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 235,
-          "comments": 44
+          "score": 238,
+          "comments": 203
+        }
+      ]
+    },
+    {
+      "id": "hairmax laserband comfortflex review putting down new roots",
+      "topic": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+      "summary": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
+      "category": "tech",
+      "momentum": 63,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:31:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+          "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+          "source": "Wired",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolphins star dodgy try saver",
+      "topic": "Dolphins star's dodgy try-saver",
+      "summary": "Kurt Donoghoe comes from an off-side position to prevent a Billy Walters try.",
+      "category": "news",
+      "momentum": 62,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:05.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Dolphins star's dodgy try-saver",
+          "url": "https://www.smh.com.au/sport/nrl/dolphins-stars-dodgy-try-saver-20260808-p60mmg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "obscure 000 item list medical devices costing patients",
+      "topic": "The obscure 10,000-item list of medical devices costing patients billions",
+      "summary": "A 2022 medical pricing deal has ended and has left a costly legacy, costing patients and taxpayers billions while industry pockets the profit.",
+      "category": "news",
+      "momentum": 61,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "The obscure 10,000-item list of medical devices costing patients billions",
+          "url": "https://www.smh.com.au/politics/federal/the-obscure-10-000-item-list-of-medical-devices-costing-patients-billions-20260717-p60gbc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "step outside your comfort zone rule",
+      "topic": "step outside of your comfort zone [rule]",
+      "summary": "joke's on them, i'm actually stepping *into* my comfort zone that way.",
+      "category": "news",
+      "momentum": 60,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T08:18:46.210Z",
+      "sourceCount": 1,
+      "engagement": 46,
+      "ageHours": 2,
+      "links": [
+        {
+          "title": "step outside of your comfort zone [rule]",
+          "url": "https://feddit.org/pictrs/image/8d1b13ec-f58d-4d6d-a6de-c045bd444aff.png",
+          "source": "Lemmy · onehundredninetysix",
+          "kind": "lemmy",
+          "score": 37,
+          "comments": 3
+        }
+      ]
+    },
+    {
+      "id": "curnow unstoppable swans power past port adelaide",
+      "topic": "Curnow unstoppable as Swans power past Port Adelaide",
+      "summary": "After a slow start, five goals from Coleman Medal leader Charlie Curnow helped propel the Swans to a thumping victory at the SCG.",
+      "category": "news",
+      "momentum": 59,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:27:58.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.9,
+      "links": [
+        {
+          "title": "Curnow unstoppable as Swans power past Port Adelaide",
+          "url": "https://www.smh.com.au/sport/afl/curnow-unstoppable-as-swans-power-past-port-adelaide-20260808-p60mld.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "market dead why arent flats england selling",
+      "topic": "The market is dead : why arent flats in England selling ?",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "business",
+      "momentum": 56,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 34,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "  The market is dead : why arent flats in England selling ? ",
+          "url": "https://www.aol.co.uk/articles/market-dead-why-aren-t-090042000.html",
+          "source": "GDELT · aol.co.uk",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "going bananas bandanas latest fashion trend that goes",
+      "topic": "Going bananas for bandanas : the latest fashion trend that goes back centuries",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 56,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 34,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Going bananas for bandanas : the latest fashion trend that goes back centuries",
+          "url": "https://www.aol.co.uk/articles/going-bananas-bandanas-latest-fashion-090042000.html",
+          "source": "GDELT · aol.co.uk",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "postman tracks down first world war soldier grandson",
+      "topic": "Postman tracks down First World War soldier grandson after find on eBay",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 56,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 34,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Postman tracks down First World War soldier grandson after find on eBay",
+          "url": "https://www.aol.co.uk/articles/postman-tracks-down-first-world-090003000.html",
+          "source": "GDELT · aol.co.uk",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "role west asia could reduced because pak saudi",
+      "topic": "US role in West Asia could be reduced because of Pak - Saudi - Turkiye defence pact : Experts",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 56,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 34,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "US role in West Asia could be reduced because of Pak - Saudi - Turkiye defence pact : Experts",
+          "url": "https://www.hindustantimes.com/world-news/us-news/us-role-in-west-asia-could-be-reduced-because-of-pak-saudi-turkiye-defence-pact-experts-101786178375237.html",
+          "source": "GDELT · hindustantimes.com",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "antisemitism canadian campuses students speak out",
+      "topic": "Antisemitism Canadian campuses : Students speak out",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 56,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 34,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Antisemitism Canadian campuses : Students speak out",
+          "url": "https://www.cp24.com/news/canada/2026/08/08/systemic-students-speak-out-about-antisemitism-on-canadian-campuses/",
+          "source": "GDELT · cp24.com",
+          "kind": "gdelt",
+          "score": 34,
+          "comments": 0
         }
       ]
     },
@@ -2037,60 +2237,104 @@
       "phase": "fading",
       "firstSeen": "2026-08-07T21:19:57.000Z",
       "sourceCount": 1,
-      "engagement": 572,
-      "ageHours": 12.5,
+      "engagement": 585,
+      "ageHours": 13,
       "links": [
         {
           "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
           "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 194,
-          "comments": 126
+          "score": 198,
+          "comments": 129
         }
       ]
     },
     {
-      "id": "typhoon dolphin hits japan heads towards china",
-      "topic": "Typhoon Dolphin hits Japan, heads towards China",
-      "summary": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
-      "category": "news",
-      "momentum": 55,
+      "id": "chapman could return next week after brain bleed",
+      "topic": "Chapman could return to UK next week after brain bleed",
+      "summary": "British boxer Raven Chapman could fly back to the UK next week after undergoing a second successful surgery on a brain bleed she suffered following a sparring s",
+      "category": "sports",
+      "momentum": 54,
       "phase": "fading",
-      "firstSeen": "2026-08-08T08:50:49.000Z",
+      "firstSeen": "2026-08-08T09:20:17.000Z",
       "sourceCount": 1,
-      "engagement": 48,
+      "engagement": 45,
       "ageHours": 1,
       "links": [
         {
-          "title": "Typhoon Dolphin hits Japan, heads towards China",
-          "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Chapman could return to UK next week after brain bleed",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cx2jyzgzv7jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
           "kind": "rss",
-          "score": 48,
+          "score": 45,
           "comments": 0
         }
       ]
     },
     {
-      "id": "sky watcher solarquest mount head review",
-      "topic": "Sky-Watcher SolarQuest mount head review",
-      "summary": "A brilliantly simple grab-and-go solar mount that finds and follows the sun for you, Sky-Watcher’s SolarQuest is perfect for small-scope solar astronomy and sol",
-      "category": "news",
-      "momentum": 54,
+      "id": "nasa figured out how keep its voyager probe",
+      "topic": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 53,
       "phase": "fading",
-      "firstSeen": "2026-08-08T09:00:00.000Z",
+      "firstSeen": "2026-08-08T01:49:11.000Z",
       "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 0.9,
+      "engagement": 374,
+      "ageHours": 8.5,
       "links": [
         {
-          "title": "Sky-Watcher SolarQuest mount head review",
-          "url": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review",
-          "source": "Space.com",
-          "kind": "rss",
-          "score": 40,
-          "comments": 0
+          "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+          "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 239,
+          "comments": 45
+        }
+      ]
+    },
+    {
+      "id": "department energy launches genesis open models initiative",
+      "topic": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 49,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T22:24:27.000Z",
+      "sourceCount": 1,
+      "engagement": 481,
+      "ageHours": 11.9,
+      "links": [
+        {
+          "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+          "url": "https://genesisopenmodels.anl.gov/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 235,
+          "comments": 82
+        }
+      ]
+    },
+    {
+      "id": "responding next frontier critical cyber capabilities",
+      "topic": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 48,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T16:39:36.000Z",
+      "sourceCount": 1,
+      "engagement": 710,
+      "ageHours": 17.7,
+      "links": [
+        {
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 185,
+          "comments": 175
         }
       ]
     },
@@ -2099,12 +2343,12 @@
       "topic": "Fright Club",
       "summary": "271 posts on Bluesky · hot.",
       "category": "entertainment",
-      "momentum": 52,
+      "momentum": 48,
       "phase": "fading",
       "firstSeen": "2026-08-08T04:01:33.493Z",
       "sourceCount": 1,
       "engagement": 254,
-      "ageHours": 5.9,
+      "ageHours": 6.3,
       "links": [
         {
           "title": "Fright Club",
@@ -2117,131 +2361,21 @@
       ]
     },
     {
-      "id": "senate votes confirm todd blanche attorney general",
-      "topic": "Senate votes to confirm Todd Blanche as attorney general",
-      "summary": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justi",
-      "category": "news",
-      "momentum": 52,
+      "id": "satyajit ray goopy gyne bagha byne making chronicled",
+      "topic": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
+      "summary": "Indian National Award-winning filmmaker Srijit Mukherji is bringing to screen the making of Satyajit Ray’s “Goopy Gyne Bagha Byne,” one of Indian cinema’s most",
+      "category": "entertainment",
+      "momentum": 46,
       "phase": "fading",
-      "firstSeen": "2026-08-08T08:46:39.000Z",
+      "firstSeen": "2026-08-08T09:13:41.000Z",
       "sourceCount": 1,
-      "engagement": 48,
+      "engagement": 43,
       "ageHours": 1.1,
       "links": [
         {
-          "title": "Senate votes to confirm Todd Blanche as attorney general",
-          "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-          "source": "NPR",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "trump loyalist todd blanche confirmed senate attorney general",
-      "topic": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
-      "summary": "Major win for president as former personal lawyer wins approval despite outcry over $1.8bn slush fund The US senate voted to confirm Todd Blanche as attorney ge",
-      "category": "news",
-      "momentum": 52,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T08:47:19.000Z",
-      "sourceCount": 1,
-      "engagement": 48,
-      "ageHours": 1.1,
-      "links": [
-        {
-          "title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
-          "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
-          "source": "Guardian US",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "department energy launches genesis open models initiative",
-      "topic": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 51,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T22:24:27.000Z",
-      "sourceCount": 1,
-      "engagement": 474,
-      "ageHours": 11.5,
-      "links": [
-        {
-          "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-          "url": "https://genesisopenmodels.anl.gov/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 234,
-          "comments": 80
-        }
-      ]
-    },
-    {
-      "id": "responding next frontier critical cyber capabilities",
-      "topic": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 49,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T16:39:36.000Z",
-      "sourceCount": 1,
-      "engagement": 709,
-      "ageHours": 17.2,
-      "links": [
-        {
-          "title": "Responding to the next frontier of critical cyber capabilities",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 184,
-          "comments": 175
-        }
-      ]
-    },
-    {
-      "id": "mortgage stress surges across australia",
-      "topic": "Mortgage stress surges across Australia",
-      "summary": "Experts are warning Australia has hit its highest risk of mortgage defaults in 25 years, with thousands of homeowners at risk of falling behind on repayments.",
-      "category": "news",
-      "momentum": 49,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T08:50:11.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "Mortgage stress surges across Australia",
-          "url": "https://www.smh.com.au/national/mortgage-stress-surges-across-australia-20260808-p60mme.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "former miss north carolina usa says conservative christian",
-      "topic": "Former Miss North Carolina USA says conservative Christian values played role in losing crown",
-      "summary": "Brittany Boltinhouse says she believes her conservative Christian values led to being stripped of her Miss North Carolina USA pageant crown.",
-      "category": "news",
-      "momentum": 49,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T08:50:28.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "Former Miss North Carolina USA says conservative Christian values played role in losing crown",
-          "url": "https://www.foxnews.com/lifestyle/former-miss-north-carolina-usa-says-conservative-christian-values-played-role-losing-crown",
-          "source": "Fox News",
+          "title": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
+          "url": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/",
+          "source": "Variety",
           "kind": "rss",
           "score": 43,
           "comments": 0
@@ -2251,14 +2385,14 @@
     {
       "id": "bb28",
       "topic": "BB28",
-      "summary": "466 posts on Bluesky.",
+      "summary": "471 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 47,
+      "momentum": 46,
       "phase": "fading",
       "firstSeen": "2026-08-08T02:03:32.988Z",
       "sourceCount": 1,
-      "engagement": 311,
-      "ageHours": 7.8,
+      "engagement": 314,
+      "ageHours": 8.3,
       "links": [
         {
           "title": "BB28",
@@ -2266,7 +2400,7 @@
           "source": "Bluesky",
           "kind": "bluesky",
           "score": 137,
-          "comments": 58
+          "comments": 59
         }
       ]
     },
@@ -2275,63 +2409,85 @@
       "topic": "Assembly Hall of Shame",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 46,
+      "momentum": 44,
       "phase": "fading",
       "firstSeen": "2026-08-07T18:01:30.000Z",
       "sourceCount": 1,
-      "engagement": 599,
-      "ageHours": 15.9,
+      "engagement": 601,
+      "ageHours": 16.3,
       "links": [
         {
           "title": "Assembly Hall of Shame",
           "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 344,
+          "score": 346,
           "comments": 85
         }
       ]
     },
     {
-      "id": "snooze",
-      "topic": "Snooze",
+      "id": "they don make like sublime text anymore",
+      "topic": "They don’t make ’em like Sublime Text anymore",
       "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 46,
+      "category": "tech",
+      "momentum": 43,
       "phase": "fading",
-      "firstSeen": "2026-08-08T08:50:14.329Z",
+      "firstSeen": "2026-08-08T08:57:33.462Z",
       "sourceCount": 1,
-      "engagement": 35,
-      "ageHours": 1,
+      "engagement": 20,
+      "ageHours": 1.4,
       "links": [
         {
-          "title": "Snooze",
-          "url": "https://lemmy.world/pictrs/image/7d3bcabc-acbc-4b16-8ec6-a6d13bafd4f8.jpeg",
-          "source": "Lemmy · lemmyshitpost",
-          "kind": "lemmy",
-          "score": 32,
-          "comments": 1
+          "title": "They don’t make ’em like Sublime Text anymore",
+          "url": "https://dbushell.com/2026/08/07/sublime-text/",
+          "source": "Lobsters",
+          "kind": "lobsters",
+          "score": 20,
+          "comments": 0
         }
       ]
     },
     {
-      "id": "andrew dillon stands afl chairman drummond amid geelong",
-      "topic": "Andrew Dillon stands by AFL chairman Drummond amid Geelong scandal",
-      "summary": "Craig Drummond, who was Geelong’s president when the Jake Kolodjashnij waiver was signed, says he won’t be involved in any future deliberations by the AFL over",
-      "category": "sports",
-      "momentum": 44,
+      "id": "models behaving unexpectedly experts warn really bumpy road",
+      "topic": "AI models are behaving unexpectedly. Experts warn of \"a really bumpy road\" ahead.",
+      "summary": "submitted by /u/Gari_305 to r/Futurology [link] [comments]",
+      "category": "tech",
+      "momentum": 42,
       "phase": "fading",
-      "firstSeen": "2026-08-08T08:43:32.000Z",
+      "firstSeen": "2026-08-08T09:14:58.000Z",
       "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 1.2,
+      "engagement": 33,
+      "ageHours": 1.1,
       "links": [
         {
-          "title": "Andrew Dillon stands by AFL chairman Drummond amid Geelong scandal",
-          "url": "https://www.smh.com.au/sport/afl/the-club-went-too-far-afl-chairman-apologises-over-concussion-contract-saga-20260808-p60mkf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
+          "title": "AI models are behaving unexpectedly. Experts warn of \"a really bumpy road\" ahead.",
+          "url": "https://www.reddit.com/r/Futurology/comments/1virax4/ai_models_are_behaving_unexpectedly_experts_warn/",
+          "source": "r/Futurology",
+          "kind": "reddit",
+          "score": 33,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "most divisive time travel movie century officially back",
+      "topic": "The Most Divisive Time-Travel Movie of the Century Is Officially Back on Free Streaming",
+      "summary": "Now free on Pluto TV, The Time Machine remains one of the smartest and most emotionally ambitious time-travel movies of the 2000s.",
+      "category": "entertainment",
+      "momentum": 40,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T09:00:12.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "The Most Divisive Time-Travel Movie of the Century Is Officially Back on Free Streaming",
+          "url": "https://www.polygon.com/time-machine-free-streaming-pluto-tv-doctor-who-fixed-points/",
+          "source": "Polygon",
           "kind": "rss",
-          "score": 43,
+          "score": 45,
           "comments": 0
         }
       ]
@@ -2341,12 +2497,12 @@
       "topic": "BMovieManiacs",
       "summary": "293 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 42,
+      "momentum": 40,
       "phase": "fading",
       "firstSeen": "2026-08-08T03:07:33.284Z",
       "sourceCount": 1,
       "engagement": 240,
-      "ageHours": 6.8,
+      "ageHours": 7.2,
       "links": [
         {
           "title": "BMovieManiacs",
@@ -2359,95 +2515,21 @@
       ]
     },
     {
-      "id": "petah what does this mean",
-      "topic": "Petah what does this mean",
-      "summary": "submitted by /u/sunboy6009 to r/PeterExplainsTheJoke [link] [comments]",
-      "category": "news",
-      "momentum": 41,
+      "id": "spokane shows what new era wildfires looks like",
+      "topic": "Spokane Shows What the New Era of Wildfires Looks Like",
+      "summary": "With rising temperatures and drier conditions, fires are more likely to explode. And with more people living next to forests, the results can be catastrophic.",
+      "category": "tech",
+      "momentum": 38,
       "phase": "fading",
-      "firstSeen": "2026-08-08T07:11:27.000Z",
-      "sourceCount": 1,
-      "engagement": 42,
-      "ageHours": 2.7,
-      "links": [
-        {
-          "title": "Petah what does this mean",
-          "url": "https://www.reddit.com/r/PeterExplainsTheJoke/comments/1vip9wm/petah_what_does_this_mean/",
-          "source": "r/PeterExplainsTheJoke",
-          "kind": "reddit",
-          "score": 42,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "thune trump senate conservatives reach deal set aside",
-      "topic": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
-      "summary": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse The Hill Republicans face likely year-end test after punting Trump s",
-      "category": "news",
-      "momentum": 40,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T03:17:00.000Z",
-      "sourceCount": 1,
-      "engagement": 94,
-      "ageHours": 6.6,
-      "links": [
-        {
-          "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjRFMkl1WHF4eHdvSTEtM2JhalhCS2JrZUx5TTlJZjlQOUhOZ1p4OV9yQ0VmY3pFblpWZjhmWDN6QVU2Tl9XaG1GREMwcWc1UzZ0dmR6aFhLVkFDTGZ6X2RsaVBsT0tYTUk2OHgwR1F5Um8tNEtkcVlsRk9lbWxsUUIwWXNLRWs3U2dDRGFESlVqd9IBlwFBVV95cUxNMi1uLVNzVzJiWkJySG40OFExcjM2bXZsZWhkZVZSeTRlaHpWWU9ZclVZaFJYT3RHUURfQTJGajZvbmx1R2lQNmlyeU9zb3RrcWpYV3JoQkFPeUNNSHFsdXZ2TDB4VEN4N3dXdFNxLW5zdHJzWGp1cExiUE9NQ1JtdGlrVlBJMWdGSXRaOE1ISlZJa1l1TzYw?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "promises 1bn security aid colombia new rightwing president",
-      "topic": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "summary": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown The Guardian Colombia's new president reflects Latin America's r",
-      "category": "news",
-      "momentum": 40,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T04:08:00.000Z",
-      "sourceCount": 2,
-      "engagement": 168,
-      "ageHours": 5.7,
-      "links": [
-        {
-          "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhQRTZQRThHZlhpTGJwRE5Db3pueVV5U2F1VEs2MU1VQkRKcGljT0JkMndGNk1HN1ZwU3NRaFRCSFRTTHh3LWVHNlk4LU5BRm11ZGhWMTd2Wnd1ei1LZUd2cUdTR0drRmc0NnNET1A4X1VaRTVKNU95VGxWV1QtUEs2amFMZ0NzWFZCRkRoX2tWZnZBVE9QUGR2M1hZUkxxRG01ZUd5cXdrR0FvT1lnM3ZMSEV6QWtNWFY0RjIyV1ppWGN4M011Nlp0Z2R5LWVST0FtWWh0TQ?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        },
-        {
-          "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-          "source": "Guardian World",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "locals demand tougher bail laws following shopkeeper death",
-      "topic": "Locals demand tougher bail laws following shopkeeper's death",
-      "summary": "Residents plan to rally after youths who were allegedly involved in a Melbourne shopkeeper's death were bailed.",
-      "category": "news",
-      "momentum": 40,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T08:36:29.000Z",
+      "firstSeen": "2026-08-08T09:00:00.000Z",
       "sourceCount": 1,
       "engagement": 43,
       "ageHours": 1.3,
       "links": [
         {
-          "title": "Locals demand tougher bail laws following shopkeeper's death",
-          "url": "https://www.smh.com.au/national/locals-demand-tougher-bail-laws-following-shopkeepers-death-20260808-p60mm9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
+          "title": "Spokane Shows What the New Era of Wildfires Looks Like",
+          "url": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
+          "source": "Wired",
           "kind": "rss",
           "score": 43,
           "comments": 0
@@ -2455,46 +2537,24 @@
       ]
     },
     {
-      "id": "marca plot assasinate lionel messi during world cup",
-      "topic": "[MARCA] A plot to assasinate Lionel Messi during the World Cup has been revealed. A US police report has revealed that Lionel Messi was the player who received the most threats during the 2026 World Cup, including an alleged threat of a suicide attack.",
-      "summary": "They reveal the plan to try to kill Messi during the World Cup: \"I'm going to blow up Messi with four bombs stuck to my body\" A US police report reveals securit",
-      "category": "sports",
-      "momentum": 39,
+      "id": "music challenge",
+      "topic": "Music Challenge",
+      "summary": "721 posts on Bluesky.",
+      "category": "entertainment",
+      "momentum": 38,
       "phase": "fading",
-      "firstSeen": "2026-08-08T08:43:33.000Z",
+      "firstSeen": "2026-08-07T21:11:33.672Z",
       "sourceCount": 1,
-      "engagement": 33,
-      "ageHours": 1.2,
+      "engagement": 415,
+      "ageHours": 13.1,
       "links": [
         {
-          "title": "[MARCA] A plot to assasinate Lionel Messi during the World Cup has been revealed. A US police report has revealed that Lionel Messi was the player who received the most threats during the 2026 World Cup, including an alleged threat of a suicide attack.",
-          "url": "https://www.reddit.com/r/soccer/comments/1viqsin/marca_a_plot_to_assasinate_lionel_messi_during/",
-          "source": "r/soccer",
-          "kind": "reddit",
-          "score": 33,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "here when apple will reveal its iphone pro",
-      "topic": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event",
-      "summary": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event Forbes Apple Gears Up for September iPhone Launch With Retail Employee Lottery Bloomberg.com Leake",
-      "category": "tech",
-      "momentum": 39,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T08:11:00.000Z",
-      "sourceCount": 1,
-      "engagement": 55,
-      "ageHours": 1.7,
-      "links": [
-        {
-          "title": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3RTQ290bUNOUnhidlZmRWxDNFRabHZ5UjFqN0lwZDI3cWE4S1dMOFBfcDFSYUlTajBQUGxiaHlNSHhDdjQtdVZNVG9YaHoyNDV1enNZMFc3WjRXaURURzlDbllrYzBiVGxyMVZyWFJSdlZKd1ZqNGQ3MHZLSzVkWGpOSkxmcU9RcGNJQkZkeEFGMVV4clAyUF9FRi1iRGhSVENDb2FpUWUwUjJqekE2U0dNVFhPdnRJckE?oc=5",
-          "source": "Google News Tech",
-          "kind": "rss",
-          "score": 55,
-          "comments": 0
+          "title": "Music Challenge",
+          "url": "https://bsky.app/search?q=Music%20Challenge",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 145,
+          "comments": 90
         }
       ]
     },
@@ -2503,12 +2563,12 @@
       "topic": "Big Brother 28",
       "summary": "342 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 39,
+      "momentum": 37,
       "phase": "fading",
       "firstSeen": "2026-08-08T01:53:34.393Z",
       "sourceCount": 1,
       "engagement": 261,
-      "ageHours": 8,
+      "ageHours": 8.4,
       "links": [
         {
           "title": "Big Brother 28",
@@ -2521,104 +2581,38 @@
       ]
     },
     {
-      "id": "music challenge",
-      "topic": "Music Challenge",
-      "summary": "703 posts on Bluesky.",
-      "category": "entertainment",
-      "momentum": 39,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T21:11:33.672Z",
-      "sourceCount": 1,
-      "engagement": 408,
-      "ageHours": 12.7,
-      "links": [
-        {
-          "title": "Music Challenge",
-          "url": "https://bsky.app/search?q=Music%20Challenge",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 144,
-          "comments": 88
-        }
-      ]
-    },
-    {
-      "id": "making postgres 300x faster analytics batching operator fusion",
-      "topic": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 37,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T11:00:35.000Z",
-      "sourceCount": 1,
-      "engagement": 703,
-      "ageHours": 22.9,
-      "links": [
-        {
-          "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-          "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 286,
-          "comments": 139
-        }
-      ]
-    },
-    {
-      "id": "movie night",
-      "topic": "Movie night!",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "entertainment",
+      "id": "wnba",
+      "topic": "WNBA",
+      "summary": "306 posts on Bluesky.",
+      "category": "sports",
       "momentum": 36,
       "phase": "fading",
-      "firstSeen": "2026-08-08T07:44:40.431Z",
+      "firstSeen": "2026-08-08T02:01:32.920Z",
       "sourceCount": 1,
-      "engagement": 52,
-      "ageHours": 2.1,
+      "engagement": 244,
+      "ageHours": 8.3,
       "links": [
         {
-          "title": "Movie night!",
-          "url": "https://lemmy.world/pictrs/image/7c97cf9d-6106-4da8-a8a5-c06525367d34.jpeg",
-          "source": "Lemmy · lemmyshitpost",
-          "kind": "lemmy",
-          "score": 49,
-          "comments": 1
-        }
-      ]
-    },
-    {
-      "id": "ancient library 060 greek latin texts click any",
-      "topic": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 33,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T18:51:14.000Z",
-      "sourceCount": 1,
-      "engagement": 405,
-      "ageHours": 15,
-      "links": [
-        {
-          "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-          "url": "https://ancientlibrary.net/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 207,
-          "comments": 66
+          "title": "WNBA",
+          "url": "https://bsky.app/search?q=WNBA",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 130,
+          "comments": 38
         }
       ]
     },
     {
       "id": "nyc posts",
       "topic": "NYC Posts",
-      "summary": "451 posts on Bluesky.",
+      "summary": "455 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 33,
+      "momentum": 32,
       "phase": "fading",
       "firstSeen": "2026-08-07T22:36:33.566Z",
       "sourceCount": 1,
-      "engagement": 305,
-      "ageHours": 11.3,
+      "engagement": 308,
+      "ageHours": 11.7,
       "links": [
         {
           "title": "NYC Posts",
@@ -2626,7 +2620,7 @@
           "source": "Bluesky",
           "kind": "bluesky",
           "score": 137,
-          "comments": 56
+          "comments": 57
         }
       ]
     },
@@ -2635,12 +2629,12 @@
       "topic": "Owens vs Punk",
       "summary": "318 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 32,
+      "momentum": 31,
       "phase": "fading",
       "firstSeen": "2026-08-08T00:35:32.897Z",
       "sourceCount": 1,
       "engagement": 251,
-      "ageHours": 9.3,
+      "ageHours": 9.7,
       "links": [
         {
           "title": "Owens vs Punk",
@@ -2657,12 +2651,12 @@
       "topic": "Writers Chat",
       "summary": "316 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 32,
+      "momentum": 30,
       "phase": "fading",
       "firstSeen": "2026-08-08T00:23:33.985Z",
       "sourceCount": 1,
       "engagement": 251,
-      "ageHours": 9.5,
+      "ageHours": 9.9,
       "links": [
         {
           "title": "Writers Chat",
@@ -2675,16 +2669,60 @@
       ]
     },
     {
+      "id": "haynes king american football",
+      "topic": "Haynes King (American football)",
+      "summary": "86,519 Wikipedia views (rank #22).",
+      "category": "sports",
+      "momentum": 19,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T12:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 162,
+      "ageHours": 22.3,
+      "links": [
+        {
+          "title": "Haynes King (American football)",
+          "url": "https://en.wikipedia.org/wiki/Haynes_King_(American_football)",
+          "source": "Wikipedia",
+          "kind": "wikipedia",
+          "score": 162,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "chase utley",
+      "topic": "Chase Utley",
+      "summary": "96 posts on Bluesky.",
+      "category": "sports",
+      "momentum": 18,
+      "phase": "fading",
+      "firstSeen": "2026-08-08T00:43:33.149Z",
+      "sourceCount": 1,
+      "engagement": 147,
+      "ageHours": 9.6,
+      "links": [
+        {
+          "title": "Chase Utley",
+          "url": "https://bsky.app/search?q=Chase%20Utley",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 111,
+          "comments": 12
+        }
+      ]
+    },
+    {
       "id": "what all playing this weekend",
       "topic": "What are we all playing this weekend?",
       "summary": "It’s been a manageable, some might even say calm week for Team RPS, so we’re rewarding ourselves for a productive five days of PC games with some PC games. Or b",
       "category": "games",
-      "momentum": 18,
+      "momentum": 15,
       "phase": "fading",
       "firstSeen": "2026-08-08T07:01:00.000Z",
       "sourceCount": 1,
       "engagement": 43,
-      "ageHours": 2.9,
+      "ageHours": 3.3,
       "links": [
         {
           "title": "What are we all playing this weekend?",
@@ -2697,21 +2735,21 @@
       ]
     },
     {
-      "id": "wins games red sox rare air",
-      "topic": "With 27 wins in 30 games, Red Sox in rare air",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "games",
-      "momentum": 15,
+      "id": "goals galore",
+      "topic": "Goals galore",
+      "summary": "BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.",
+      "category": "sports",
+      "momentum": 14,
       "phase": "fading",
-      "firstSeen": "2026-08-08T06:18:12.000Z",
+      "firstSeen": "2026-08-08T06:37:37.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 3.6,
+      "ageHours": 3.7,
       "links": [
         {
-          "title": "With 27 wins in 30 games, Red Sox in rare air",
-          "url": "https://www.mlb.com/news/red-sox-on-historic-27-3-hot-streak",
-          "source": "MLB.com",
+          "title": "Goals galore",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -2719,133 +2757,23 @@
       ]
     },
     {
-      "id": "watch espn stream live sports espn originals",
-      "topic": "Watch ESPN - Stream Live Sports & ESPN Originals",
-      "summary": "Watch ESPN - Stream Live Sports & ESPN Originals ESPN",
-      "category": "games",
-      "momentum": 15,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T05:53:36.000Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 4,
-      "links": [
-        {
-          "title": "Watch ESPN - Stream Live Sports & ESPN Originals",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBOaDRLZTZaOWFGWk5QX0lUYlZiQVoyUGVaRUpmcEM5Z05OUzRCNmlJbXV1R3BndU9FTGJCb0FxY0c?oc=5",
-          "source": "Google News Games",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "where you heard rigby voice actor william salyers",
-      "topic": "Where You've Heard Rigby Voice Actor William Salyers In Video Games",
-      "summary": "Where You've Heard Rigby Voice Actor William Salyers In Video Games IGN",
+      "id": "wins games red sox rare air",
+      "topic": "With 27 wins in 30 games, Red Sox in rare air",
+      "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "games",
       "momentum": 13,
       "phase": "fading",
-      "firstSeen": "2026-08-08T05:21:22.000Z",
+      "firstSeen": "2026-08-08T06:18:12.000Z",
       "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 4.5,
+      "engagement": 45,
+      "ageHours": 4,
       "links": [
         {
-          "title": "Where You've Heard Rigby Voice Actor William Salyers In Video Games",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHdqdmpEd1BwQk9uVmJSYWZfdFpyYVAtblMzSGNVaXMwT2tFckdIVzV4NHphTmZOamJNLTUyZ1I3am10V1ZxOGJBVDh1Q3pvaHFWZGNmY3MxTWxfWFRid1ZzU3hmQXJuT1Y2NnhYYlFpcWNOZlppV2MzY0R2YzRnYkh5SXFuZ1c0T2huQzBFVnptTFcyWVNtRw?oc=5",
-          "source": "Google News Games",
+          "title": "With 27 wins in 30 games, Red Sox in rare air",
+          "url": "https://www.mlb.com/news/red-sox-on-historic-27-3-hot-streak",
+          "source": "MLB.com",
           "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "cleary cats still can explain why waiver wasn",
-      "topic": "[Cleary] Cats still can’t explain why the waiver wasn’t lodged to AFL. Still calling in a “misstep”. Kolodjashnij’s agent also not present and therefore PA avoided. Hard to argue Cats weren’t purposely working in the shadows. Steve Hocking on Krock pre-game: “I wouldn’t change too much.”",
-      "summary": "submitted by /u/SlatsAttack to r/AFL [link] [comments]",
-      "category": "games",
-      "momentum": 12,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T06:47:43.000Z",
-      "sourceCount": 1,
-      "engagement": 27,
-      "ageHours": 3.1,
-      "links": [
-        {
-          "title": "[Cleary] Cats still can’t explain why the waiver wasn’t lodged to AFL. Still calling in a “misstep”. Kolodjashnij’s agent also not present and therefore PA avoided. Hard to argue Cats weren’t purposely working in the shadows. Steve Hocking on Krock pre-game: “I wouldn’t change too much.”",
-          "url": "https://www.reddit.com/r/AFL/comments/1viov6l/cleary_cats_still_cant_explain_why_the_waiver/",
-          "source": "r/AFL",
-          "kind": "reddit",
-          "score": 27,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "cincinnati reds washington nationals game delayed friday",
-      "topic": "Cincinnati Reds vs. Washington Nationals Game Delayed on Friday",
-      "summary": "Cincinnati Reds vs. Washington Nationals Game Delayed on Friday Sports Illustrated ⚾ NatCast for Friday @ 6:45 p.m. Capital Weather The Reds Come To DC As The N",
-      "category": "games",
-      "momentum": 10,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T22:07:23.000Z",
-      "sourceCount": 1,
-      "engagement": 44,
-      "ageHours": 11.8,
-      "links": [
-        {
-          "title": "Cincinnati Reds vs. Washington Nationals Game Delayed on Friday",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDdDTUlKcENCM28yaERXdkQzcFdyWFRiRkt1bmdYekdqVEdsOVNYUzVWZ0ZET2hWdHMzNEJnTXdVLTY4RzQ4ckVXSUNUdlBkMjNCVDdpYnNSMGpuMHNZWnFpT2x1czBoV1UwMk9udWhwS3NVZHoweHlpV2VYX2IxNzExNDFLdDRSMmpiTEdha3RnVkM3S0p3a0dsTEdUNE5YT0JSUDdCTEVjdmZC?oc=5",
-          "source": "Google News Sports",
-          "kind": "rss",
-          "score": 44,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "markets rally surprise job losses airbnb soars trade",
-      "topic": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7",
-      "summary": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 WSJ U.S. economy unexpectedly lost 23,000 jobs in July CN",
-      "category": "business",
-      "momentum": 9,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T20:33:00.000Z",
-      "sourceCount": 1,
-      "engagement": 92,
-      "ageHours": 13.3,
-      "links": [
-        {
-          "title": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ROelQ5Z0tQSWRfa0oySmhyNUR5Q2lDYzNIZTNoRUhBX3B2YURTU0g4c0c2cnJOQlVLc3ZMTEoxNUVDOEY2QzFKZEVmSE5XRU9BQnUtX21BTlFVZU84elBGajJjd2s5U3RDZnJ5Q20xZUNhQmdZUVN2LXl3RXdicXNRdXZFT1BpeldwQw?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "team mid hudson drops pair games bcany tourney",
-      "topic": "Team Mid-Hudson drops a pair of games at BCANY tourney (VIDEO)",
-      "summary": "Team Mid-Hudson drops a pair of games at BCANY tourney (VIDEO) Mid Hudson News",
-      "category": "games",
-      "momentum": 6,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T02:15:59.000Z",
-      "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 7.6,
-      "links": [
-        {
-          "title": "Team Mid-Hudson drops a pair of games at BCANY tourney (VIDEO)",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc084Z0N5bkQ1T0ZUMFdWT2Z2MkJXLUE1eHV4X2V0YmNjVWNqS1hTRk0zZlVGeDZIcnBSMWxkck9oazFKOEx2N2pEQVVjYkQ2UlBBVDJ0TEktMmJtbmRNemFQVGs4cG5HM3k1SlBBRUxmZ0VQMW5xdERQWVJMSGI3b3Bla1VsMUN3cjlueXU3WWZrUU5tbXNMTEhoN3o3OU0?oc=5",
-          "source": "Google News Games",
-          "kind": "rss",
-          "score": 40,
+          "score": 45,
           "comments": 0
         }
       ]
@@ -2860,7 +2788,7 @@
       "firstSeen": "2026-08-06T22:27:33.743Z",
       "sourceCount": 1,
       "engagement": 191,
-      "ageHours": 35.4,
+      "ageHours": 35.9,
       "links": [
         {
           "title": "Super Mario Derivations",
@@ -2869,124 +2797,6 @@
           "kind": "lobsters",
           "score": 164,
           "comments": 9
-        }
-      ]
-    },
-    {
-      "id": "trump renews push fire fed governor lisa cook",
-      "topic": "Trump renews push to fire Fed Governor Lisa Cook",
-      "summary": "Trump renews push to fire Fed Governor Lisa Cook NPR Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook The New York Times Trump renews effort to fire",
-      "category": "business",
-      "momentum": 5,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T19:35:35.000Z",
-      "sourceCount": 2,
-      "engagement": 84,
-      "ageHours": 14.3,
-      "links": [
-        {
-          "title": "Trump renews push to fire Fed Governor Lisa Cook",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXdjZ3RZRGdWTU5VRTdsUFE5a3VQVHQ2TU9WeGM5cGlxRHZBeEthSm0wSkJCNnA1cUZkVU5WN0dEekp0bk9OQVhGRUppa3NhODRBaGhsNUxiUnVpdy1UYS1XUzBXazZvTHBBYjB1SUxGWnNCemltLUJIaVdIelE1RHNB?oc=5",
-          "source": "Google News US",
-          "kind": "rss",
-          "score": 46,
-          "comments": 0
-        },
-        {
-          "title": "Trump renews push to fire Fed Governor Lisa Cook",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-          "source": "NPR",
-          "kind": "rss",
-          "score": 38,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "trump renews effort fire fed governor lisa cook",
-      "topic": "Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling",
-      "summary": "Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling The Washington Post Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook T",
-      "category": "business",
-      "momentum": 5,
-      "phase": "fading",
-      "firstSeen": "2026-08-08T02:25:36.000Z",
-      "sourceCount": 1,
-      "engagement": 44,
-      "ageHours": 7.5,
-      "links": [
-        {
-          "title": "Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHV6QkY1anVqMi1FVnVua1ZldlVkbHJROERfUFItOF8tOG9KT3cxOEJadlJ5emhRZHRHaGtPWlNOUXZ0Rm5uLTdpNjlTR3k2TFFhQkw1c0UyTVNtd2FfVE9laXRNZHhkRk55NkVJTEZfeUdBSk5RT0drcTZpSFZBZU9ZZlRwcnFRdUlVTURIQVRobHlVeDVoLUtWeGUzTlNPSzlEcTRuRDRKSmVyeFlGRGRQa0RTLTZ2?oc=5",
-          "source": "Google News Business",
-          "kind": "rss",
-          "score": 44,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "health department investigating after seeing more than increase",
-      "topic": "Health department investigating after seeing more than 5x increase in cyclosporiasis cases in McHenry County",
-      "summary": "Health department investigating after seeing more than 5x increase in cyclosporiasis cases in McHenry County lakemchenryscanner.com Lettuce is back on the menu",
-      "category": "business",
-      "momentum": 4,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T22:14:04.000Z",
-      "sourceCount": 1,
-      "engagement": 44,
-      "ageHours": 11.6,
-      "links": [
-        {
-          "title": "Health department investigating after seeing more than 5x increase in cyclosporiasis cases in McHenry County",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSjI3b1R2YVYzVGRoQUNleEtnQXk5VlhZa3V5NFdXNDdidkZXVkpFU3gxVGJpa1Q4MGQxcVBWaUwzd1doOVRmUVpTek5qVllNWDU2eTNCY3hseEQxeVJNbDMxanhDN1lWNjYxdkRsZ080UXhnaVBxVy1xZnJPZ1M3aGlHd2VLOUc1UzdlSldSaG10NTRBMEFVRWl3N0ZITHB1WFFyRWFadlM3eXAyQXRlV09tMVVnRXVDUlFQMG1pLU1hNHJwZmMwSUlzSGlhV1lTWUlwQ3lZOEstVUY0NVpTeGtBNVlWalBMY29v?oc=5",
-          "source": "Google News Business",
-          "kind": "rss",
-          "score": 44,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "foodborne illnesses rising what not eat right now",
-      "topic": "Foodborne illnesses are rising. What not to eat right now.",
-      "summary": "Foodborne illnesses are rising. What not to eat right now. Sun Sentinel What to know about the latest food outbreaks in the US linked to lettuce, jalapeños ABC",
-      "category": "business",
-      "momentum": 4,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T21:32:52.000Z",
-      "sourceCount": 1,
-      "engagement": 44,
-      "ageHours": 12.3,
-      "links": [
-        {
-          "title": "Foodborne illnesses are rising. What not to eat right now.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSV9YaHU1TTEwRGpudUN5LU5yY3B0dUI1RGg5eE5xeEVzcThDcWhGVk9xU2dMMjRIdHBCeUFid2dtb0d0NmVlSVR2TG9nOGRwQnFsZTFLdWJCWllBcU5sNWJtbF9WWGZVRENTVjVtZDB5WjVqNHhGQ1d3aFBXUFI0cEliTkp6UDFtMmRoRXNNRVBUMkNUSHRWYTc0bG4wQQ?oc=5",
-          "source": "Google News Business",
-          "kind": "rss",
-          "score": 44,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "replimune wins fda skin cancer drug approval third",
-      "topic": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling.",
-      "summary": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling. Barron's FDA Approves Replimune’s Melanoma Drug on Third Attempt WSJ UPDAT",
-      "category": "business",
-      "momentum": 4,
-      "phase": "fading",
-      "firstSeen": "2026-08-07T19:33:00.000Z",
-      "sourceCount": 1,
-      "engagement": 44,
-      "ageHours": 14.3,
-      "links": [
-        {
-          "title": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling.",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamVMXzZ1LW5WMjBnVXAyRTZBVFpGZVppUkRjRHhHX0dlZGNMdWVCcEVIVElEX012NzN6OWhXaVFYbm5OdjlTYTA4c25tbHZGaUd5ODNiUFdGZnQ0cG1taWtXV2xzbGszTjRNREE3SVlnOXh5Sm9EaFVSeEIxSjBGUk9Tdmc?oc=5",
-          "source": "Google News Business",
-          "kind": "rss",
-          "score": 44,
-          "comments": 0
         }
       ]
     },
@@ -3000,7 +2810,7 @@
       "firstSeen": "2026-08-07T21:38:57.000Z",
       "sourceCount": 1,
       "engagement": 38,
-      "ageHours": 12.2,
+      "ageHours": 12.7,
       "links": [
         {
           "title": "Prediction markets take center stage in latest round of quarterly earnings reports",
@@ -3013,21 +2823,21 @@
       ]
     },
     {
-      "id": "trump trying fire lisa cook again still wants",
-      "topic": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-      "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an eff",
-      "category": "business",
+      "id": "2025 best soulslike you missed officially sleeper hit",
+      "topic": "2025's Best Soulslike You Missed Is Officially a Sleeper Hit on Xbox Game Pass",
+      "summary": "Hell Is Us is a must-play 2025 Soulslike saddled with terrible release day luck, now getting a second chance on Xbox Game Pass.",
+      "category": "games",
       "momentum": 4,
       "phase": "fading",
-      "firstSeen": "2026-08-07T22:05:00.000Z",
+      "firstSeen": "2026-08-08T00:00:12.000Z",
       "sourceCount": 1,
       "engagement": 36,
-      "ageHours": 11.8,
+      "ageHours": 10.3,
       "links": [
         {
-          "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-          "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
-          "source": "MarketWatch",
+          "title": "2025's Best Soulslike You Missed Is Officially a Sleeper Hit on Xbox Game Pass",
+          "url": "https://www.polygon.com/hell-is-us-game-pass-hit/",
+          "source": "Polygon",
           "kind": "rss",
           "score": 36,
           "comments": 0
@@ -3035,21 +2845,87 @@
       ]
     },
     {
-      "id": "smart way invest gold right now dollar slips",
-      "topic": "The smart way to invest in gold right now as the dollar slips",
-      "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
-      "category": "business",
+      "id": "memoirium combines dark souls inception backrooms steam coolest",
+      "topic": "Memoirium combines Dark Souls, Inception, and Backrooms in Steam's Coolest New Action RPG",
+      "summary": "New action game Memoirium on Steam combines Dark Souls, Inception, and Backrooms",
+      "category": "games",
       "momentum": 4,
       "phase": "fading",
-      "firstSeen": "2026-08-07T21:58:00.000Z",
+      "firstSeen": "2026-08-07T23:00:12.000Z",
       "sourceCount": 1,
       "engagement": 36,
-      "ageHours": 11.9,
+      "ageHours": 11.3,
       "links": [
         {
-          "title": "The smart way to invest in gold right now as the dollar slips",
-          "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
-          "source": "MarketWatch",
+          "title": "Memoirium combines Dark Souls, Inception, and Backrooms in Steam's Coolest New Action RPG",
+          "url": "https://www.polygon.com/new-soulslike-memoirium-on-steam/",
+          "source": "Polygon",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "sega auctioning off shadow hedgehog real life motorcycle",
+      "topic": "Sega Is Auctioning Off Shadow The Hedgehog's Real-Life Motorcycle For a Good Cause",
+      "summary": "Sega is auctioning off Shadow the Hedgehog’s real-life Dark Rider motorcycle and giving the proceeds to charity.",
+      "category": "games",
+      "momentum": 4,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T23:40:30.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 10.7,
+      "links": [
+        {
+          "title": "Sega Is Auctioning Off Shadow The Hedgehog's Real-Life Motorcycle For a Good Cause",
+          "url": "https://www.ign.com/articles/sega-is-auctioning-off-shadow-the-hedgehogs-real-life-motorcycle-for-a-good-cause",
+          "source": "IGN",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "jeff vandermeer reveals annihilation sequel abdication final part",
+      "topic": "Jeff VanderMeer Reveals Annihilation Sequel Abdication, the Final Part of the Southern Reach Series",
+      "summary": "Southern Reach creator Jeff VanderMeer has revealed Abdication, the fifth and final book in the series that began with 2014's Annihilation.",
+      "category": "games",
+      "momentum": 4,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T23:33:30.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 10.8,
+      "links": [
+        {
+          "title": "Jeff VanderMeer Reveals Annihilation Sequel Abdication, the Final Part of the Southern Reach Series",
+          "url": "https://www.ign.com/articles/jeff-vandermeer-reveals-annihilation-sequel-abdication-the-final-part-of-the-southern-reach-series",
+          "source": "IGN",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "marvel tokon stumbles mixed steam reviews miserable port",
+      "topic": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
+      "summary": "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and oth",
+      "category": "games",
+      "momentum": 4,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T23:31:38.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 10.8,
+      "links": [
+        {
+          "title": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
+          "url": "https://www.ign.com/articles/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-arc-system-works",
+          "source": "IGN",
           "kind": "rss",
           "score": 36,
           "comments": 0
@@ -3066,7 +2942,7 @@
       "firstSeen": "2026-08-07T18:47:25.000Z",
       "sourceCount": 1,
       "engagement": 38,
-      "ageHours": 15.1,
+      "ageHours": 15.5,
       "links": [
         {
           "title": "Trump renews bid to fire Fed governor Lisa Cook despite supreme court ruling",
@@ -3088,7 +2964,7 @@
       "firstSeen": "2026-08-07T18:40:07.000Z",
       "sourceCount": 1,
       "engagement": 38,
-      "ageHours": 15.2,
+      "ageHours": 15.7,
       "links": [
         {
           "title": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
@@ -3101,23 +2977,155 @@
       ]
     },
     {
-      "id": "jalape linked salmonella outbreak tracked mexican farm distributor",
-      "topic": "Jalapeños linked to a U.S. salmonella outbreak are tracked to a Mexican farm and a distributor",
-      "summary": "Jalapeños linked to a U.S. salmonella outbreak are tracked to a Mexican farm and a distributor PBS Where People Got Sick: Salmonella Outbreak, August 2026 Cente",
+      "id": "trump teased iran deal that didn come but",
+      "topic": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+      "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
       "category": "business",
       "momentum": 3,
       "phase": "fading",
-      "firstSeen": "2026-08-07T15:17:17.000Z",
+      "firstSeen": "2026-08-07T17:50:12.000Z",
       "sourceCount": 1,
-      "engagement": 44,
-      "ageHours": 18.6,
+      "engagement": 38,
+      "ageHours": 16.5,
       "links": [
         {
-          "title": "Jalapeños linked to a U.S. salmonella outbreak are tracked to a Mexican farm and a distributor",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUlTY0R6YWJGcDVSYmVSRlhqX0ZsbHl5bFBCMVE0RUdNd3Bvd2xyOWdjcGIzRDFrRXlkOVB6SjVvcl9hRmNRZjNYdF9IMGJTcHRWa3JPTFd0RXNRbVhNcmFsblh5TWJIWHlFZS1JTkRTdFl5OWhaVDR1Z3IyamFsZ3ZtQjVNa3pRRFZLWEdWUGx5QlBwaWlyZlE0QmtZVjc5Q09qV1BvYkVnMjF4c1ZXZHpSZmJ3VzBJaDFJNmtrX3BUQ3haaExQUg?oc=5",
-          "source": "Google News Business",
+          "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+          "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+          "source": "CNBC",
           "kind": "rss",
-          "score": 44,
+          "score": 38,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "here three key takeaways disappointing july jobs report",
+      "topic": "Here are three key takeaways from the disappointing July jobs report",
+      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+      "category": "business",
+      "momentum": 3,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T18:09:18.000Z",
+      "sourceCount": 1,
+      "engagement": 38,
+      "ageHours": 16.2,
+      "links": [
+        {
+          "title": "Here are three key takeaways from the disappointing July jobs report",
+          "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+          "source": "CNBC",
+          "kind": "rss",
+          "score": 38,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "trump trying fire lisa cook again still wants",
+      "topic": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+      "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an eff",
+      "category": "business",
+      "momentum": 3,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T22:05:00.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 12.2,
+      "links": [
+        {
+          "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+          "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+          "source": "MarketWatch",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "smart way invest gold right now dollar slips",
+      "topic": "The smart way to invest in gold right now as the dollar slips",
+      "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
+      "category": "business",
+      "momentum": 3,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T21:58:00.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 12.4,
+      "links": [
+        {
+          "title": "The smart way to invest in gold right now as the dollar slips",
+          "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
+          "source": "MarketWatch",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "two reasons why nvidia stock saw its biggest",
+      "topic": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+      "summary": "The chip maker recorded its largest-ever weekly increase in market capitalization.",
+      "category": "business",
+      "momentum": 3,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T20:41:00.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 13.6,
+      "links": [
+        {
+          "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+          "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+          "source": "MarketWatch",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "should wealthier americans forgo their social security benefits",
+      "topic": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+      "category": "business",
+      "momentum": 3,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T20:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 36,
+      "ageHours": 13.8,
+      "links": [
+        {
+          "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+          "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+          "source": "MarketWatch",
+          "kind": "rss",
+          "score": 36,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "trump renews push fire fed governor lisa cook",
+      "topic": "Trump renews push to fire Fed Governor Lisa Cook",
+      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme C",
+      "category": "business",
+      "momentum": 2,
+      "phase": "fading",
+      "firstSeen": "2026-08-07T19:35:35.000Z",
+      "sourceCount": 1,
+      "engagement": 38,
+      "ageHours": 14.7,
+      "links": [
+        {
+          "title": "Trump renews push to fire Fed Governor Lisa Cook",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+          "source": "NPR",
+          "kind": "rss",
+          "score": 38,
           "comments": 0
         }
       ]
@@ -3127,14 +3135,14 @@
     "sourceCounts": {
       "hackernews": 56,
       "reddit": 56,
-      "rss": 698,
-      "gdelt": 0,
+      "rss": 553,
+      "gdelt": 40,
       "googletrends": 30,
       "bluesky": 10,
       "mastodon": 10,
       "wikipedia": 30,
       "lobsters": 25,
-      "lemmy": 10
+      "lemmy": 11
     },
     "note": "Ranked by acceleration across free news/RSS, HN, Reddit, Google Trends, Bluesky, Mastodon, Wikipedia, Lobsters, Lemmy, and GDELT."
   }
