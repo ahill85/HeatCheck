@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:59:30.341Z",
+  "generatedAt": "2026-08-09T21:25:49.473Z",
   "windowHint": "24h",
   "items": [
     {
@@ -7,11 +7,11 @@
       "topic": "Bristol artist Banksy's works cost taxpayers nearly £150k",
       "summary": "FOI requests reveal Banksy artworks have cost taxpayers almost £150,000, with costs still rising.",
       "category": "news",
-      "momentum": 2723,
+      "momentum": 2819,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:57:49.375Z",
+      "firstSeen": "2026-08-09T21:24:08.867Z",
       "sourceCount": 1,
-      "engagement": 573,
+      "engagement": 583,
       "ageHours": 0.3,
       "links": [
         {
@@ -19,139 +19,389 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
           "source": "Mastodon · BBC News",
           "kind": "mastodon",
-          "score": 108,
-          "comments": 155
+          "score": 109,
+          "comments": 158
         }
       ]
     },
     {
-      "id": "philadelphia phillies",
-      "topic": "philadelphia phillies",
+      "id": "derek hill",
+      "topic": "derek hill",
       "summary": "Trending search interest (US).",
       "category": "news",
-      "momentum": 1294,
+      "momentum": 2728,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:40:00.000Z",
-      "sourceCount": 1,
-      "engagement": 161,
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 2,
+      "engagement": 248,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "philadelphia phillies",
+          "title": "derek hill",
+          "url": "https://sports.yahoo.com/articles/phillies-don-mattingly-shares-good-154400765.html",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        },
+        {
+          "title": "Derek Hill",
+          "url": "https://bsky.app/search?q=Derek%20Hill",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 102,
+          "comments": 7
+        }
+      ]
+    },
+    {
+      "id": "phillies standings",
+      "topic": "phillies standings",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 1457,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 147,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "phillies standings",
+          "url": "https://www.mlb.com/news/aaron-nola-exits-start-after-being-struck-on-right-knee",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 147,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "london police seized ferrari drive",
+      "topic": "london police seized ferrari drive",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 1457,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 147,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "london police seized ferrari drive",
+          "url": "https://www.telegraph.co.uk/news/2026/08/09/met-officer-drives-seized-ferrari-london/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 147,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "darwin nunez",
+      "topic": "darwin nunez",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 1348,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 136,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "darwin nunez",
+          "url": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 136,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "alianza bucaramanga",
+      "topic": "alianza - bucaramanga",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 1239,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "alianza - bucaramanga",
+          "url": "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-alianza-valledupar-vs-bucaramanga-minuto-a-minuto-y-goles-fecha-4-453143",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "bragantino corinthians",
+      "topic": "bragantino vs corinthians",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 1239,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "bragantino vs corinthians",
+          "url": "https://ca.sports.yahoo.com/news/corinthians-named-face-rb-bragantino-203500828.html",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "santos paranaense",
+      "topic": "santos - paranaense",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 1239,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "santos - paranaense",
+          "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/noticia/2026/08/09/santos-x-athletico-pr-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "silver alert",
+      "topic": "silver alert",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 826,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 136,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "silver alert",
+          "url": "https://fox59.com/news/indiana-state-police-issue-silver-alert-for-missing-greenwood-man/",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 136,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "manny pacquiao",
+      "topic": "manny pacquiao",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 759,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "manny pacquiao",
+          "url": "https://boxingnewsonline.net/news/ex-champ-says-he-would-have-ko-pacquiao/",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "hagen smith",
+      "topic": "hagen smith",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 759,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "hagen smith",
+          "url": "https://www.espn.com/mlb/story/_/id/49562577/chicago-white-sox-call-hagen-smith-tanner-mcdougal",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "benfica",
+      "topic": "benfica",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 704,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "benfica",
+          "url": "https://www.abola.pt/noticias/o-onze-do-benfica-para-a-estreia-na-liga-2026080916090595588",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "kylie jenner",
+      "topic": "kylie jenner",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 704,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "kylie jenner",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a73385003/kylie-jenner-pink-dress-gucci-feather-heels-29-birthday-party-photos/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "ketel marte",
+      "topic": "ketel marte",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 500,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "ketel marte",
+          "url": "https://arizonasports.com/mlb/arizona-diamondbacks/diamondbacks-keep-winning-while-best-players-are-slumping-when-will-corbin-carroll-and-ketel-marte-get-hot",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "phillies",
+      "topic": "phillies",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 475,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 172,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "phillies",
           "url": "https://www.espn.com/mlb/odds/_/gameId/401816444",
           "source": "Google Trends US",
           "kind": "googletrends",
-          "score": 161,
+          "score": 172,
           "comments": 0
         }
       ]
     },
     {
-      "id": "seattle seahawks",
-      "topic": "seattle seahawks",
-      "summary": "Trending search interest (US).",
+      "id": "live bulk billing rates rise",
+      "topic": "Live: Bulk-billing rates on the rise",
+      "summary": "The federal government says the number of Australians seeing a GP for free is on the rise. Follow live.",
       "category": "news",
-      "momentum": 1294,
+      "momentum": 470,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:40:00.000Z",
+      "firstSeen": "2026-08-09T21:17:23.000Z",
       "sourceCount": 1,
-      "engagement": 161,
+      "engagement": 45,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "seattle seahawks",
-          "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/what-stood-out-seattle-seahawks-annual-lumen-field-practice",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 161,
+          "title": "Live: Bulk-billing rates on the rise",
+          "url": "https://www.abc.net.au/news/2026-08-10/federal-politics-live-blog-august-10/107015492",
+          "source": "ABC News AU",
+          "kind": "rss",
+          "score": 45,
           "comments": 0
         }
       ]
     },
     {
-      "id": "phillies score",
-      "topic": "phillies score",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 697,
+      "id": "boyd goes cubs romp royals",
+      "topic": "Boyd goes 7 in Cubs' romp vs. Royals",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "sports",
+      "momentum": 470,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:40:00.000Z",
+      "firstSeen": "2026-08-09T21:11:00.000Z",
       "sourceCount": 1,
-      "engagement": 161,
+      "engagement": 45,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "phillies score",
-          "url": "https://www.mlb.com/news/max-scherzer-enters-top-10-all-time-strikeout-leaderboard",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 161,
+          "title": "Boyd goes 7 in Cubs' romp vs. Royals",
+          "url": "https://www.mlb.com/news/matthew-boyd-ian-happ-lead-cubs-win-vs-royals",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
           "comments": 0
         }
       ]
     },
     {
-      "id": "grahaap",
-      "topic": "GrahaAP",
-      "summary": "123 posts on Bluesky · hot.",
-      "category": "entertainment",
-      "momentum": 672,
+      "id": "chris sale who wasn pitching today ejected before",
+      "topic": "Chris Sale -- who wasn't pitching today -- ejected before game vs. Yankees",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "games",
+      "momentum": 470,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:16:32.975Z",
+      "firstSeen": "2026-08-09T21:17:00.000Z",
       "sourceCount": 1,
-      "engagement": 184,
-      "ageHours": 0.7,
+      "engagement": 45,
+      "ageHours": 0.3,
       "links": [
         {
-          "title": "GrahaAP",
-          "url": "https://bsky.app/search?q=GrahaAP",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 139,
-          "comments": 15
-        }
-      ]
-    },
-    {
-      "id": "tyler reddick",
-      "topic": "tyler reddick",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 590,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "tyler reddick",
-          "url": "https://www.nascar.com/news-media/2026/08/09/2026-cup-series-iowa-tyler-reddick-erik-jones-crash/",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "radar melbourne",
-      "topic": "radar melbourne",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 590,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "radar melbourne",
-          "url": "https://www.adelaidenow.com.au/news/south-australia/weather/adelaide-south-australia-brace-for-extreme-weather-with-damaging-winds-and-heavy-rain/news-story/54544fc5e665d6f048a65e3f1f9baea1",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
+          "title": "Chris Sale -- who wasn't pitching today -- ejected before game vs. Yankees",
+          "url": "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
           "comments": 0
         }
       ]
@@ -161,39 +411,39 @@
       "topic": "Ask HN: What are you working on? (August 2026)",
       "summary": "What are you working on?  What have you been curious about lately?",
       "category": "tech",
-      "momentum": 551,
+      "momentum": 465,
       "phase": "rising",
       "firstSeen": "2026-08-09T17:23:22.000Z",
       "sourceCount": 1,
-      "engagement": 1334,
-      "ageHours": 3.6,
+      "engagement": 1453,
+      "ageHours": 4,
       "links": [
         {
           "title": "Ask HN: What are you working on? (August 2026)",
           "url": "https://news.ycombinator.com/item?id=49233423",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 110,
-          "comments": 408
+          "score": 121,
+          "comments": 444
         }
       ]
     },
     {
-      "id": "louisiana gulf coast vibrio bacteria",
-      "topic": "louisiana gulf coast vibrio bacteria",
-      "summary": "Trending search interest (US).",
+      "id": "heatwaves",
+      "topic": "uk heatwaves",
+      "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 540,
+      "momentum": 460,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:20:00.000Z",
+      "firstSeen": "2026-08-09T21:00:00.000Z",
       "sourceCount": 1,
       "engagement": 136,
-      "ageHours": 0.7,
+      "ageHours": 0.4,
       "links": [
         {
-          "title": "louisiana gulf coast vibrio bacteria",
-          "url": "https://www.nytimes.com/2026/08/08/us/louisiana-vibrio-vulnificus-outbreak-flesh-eating-bacteria.html",
-          "source": "Google Trends US",
+          "title": "uk heatwaves",
+          "url": "https://news.sky.com/story/uk-record-for-number-of-days-above-30c-broken-as-new-heatwave-approaches-13571390",
+          "source": "Google Trends UK",
           "kind": "googletrends",
           "score": 136,
           "comments": 0
@@ -201,174 +451,20 @@
       ]
     },
     {
-      "id": "keanu reeves",
-      "topic": "keanu reeves",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 514,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:40:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "keanu reeves",
-          "url": "https://collider.com/keanu-reeves-fantasy-constantine-streaming-success-hbo-max-hulu-prime-video-august-2026/",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 125,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "hwan bae",
-      "topic": "ji hwan bae",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 496,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "ji hwan bae",
-          "url": "https://www.cbssports.com/fantasy/baseball/news/brewers-ji-hwan-bae-signs-with-milwaukee/",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 125,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "don nelson former nba coach time champion player",
-      "topic": "Don Nelson, former NBA coach and 5-time champion as a player, dies at 86",
-      "summary": "Don Nelson was one of two coaches in NBA history to have at least 250 wins with three different franchises — Milwaukee, Dallas and Golden State.",
-      "category": "sports",
-      "momentum": 470,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:48:13.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Don Nelson, former NBA coach and 5-time champion as a player, dies at 86",
-          "url": "https://www.cbsnews.com/news/don-nelson-nba-coach-champion-die/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "phillies give former players their moonlight moment ode",
-      "topic": "Phillies give 4 former players their 'Moonlight' moment in ode to Field of Dreams",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "sports",
-      "momentum": 470,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:46:44.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Phillies give 4 former players their 'Moonlight' moment in ode to Field of Dreams",
-          "url": "https://www.mlb.com/news/phillies-host-former-players-in-ode-to-moonlight-graham-from-field-of-dreams",
-          "source": "MLB.com",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "jack weisenburger",
-      "topic": "jack weisenburger",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 466,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 147,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "jack weisenburger",
-          "url": "https://www.yardbarker.com/mlb/articles/mets_demote_player_after_shutout_loss_to_pirates/s1_17615_44156457",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 147,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "poland now 6th largest economy ahead switzerland belgium",
-      "topic": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "business",
-      "momentum": 465,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:13:38.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
-          "url": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 37,
-          "comments": 33
-        }
-      ]
-    },
-    {
-      "id": "how use llms learn complex topics",
-      "topic": "How I use LLMs to learn complex topics",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 464,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T19:16:49.000Z",
-      "sourceCount": 1,
-      "engagement": 359,
-      "ageHours": 1.7,
-      "links": [
-        {
-          "title": "How I use LLMs to learn complex topics",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 143,
-          "comments": 72
-        }
-      ]
-    },
-    {
-      "id": "australia news live frydenberg reveals will not appear",
-      "topic": "Australia news LIVE: Frydenberg reveals he will not appear before Royal Commission; Coalition accuses Labor of funding ‘ghettoisation’ of migrant communities",
-      "summary": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "id": "four more teens charged murder after death house",
+      "topic": "Four more teens charged with murder after death at house party",
+      "summary": "Eight teenagers have now been charged over the alleged bashing death of a 21-year-old at an out-of-control party last month.",
       "category": "news",
       "momentum": 450,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:45:54.000Z",
+      "firstSeen": "2026-08-09T21:12:38.000Z",
       "sourceCount": 1,
       "engagement": 43,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "Australia news LIVE: Frydenberg reveals he will not appear before Royal Commission; Coalition accuses Labor of funding ‘ghettoisation’ of migrant communities",
-          "url": "https://www.smh.com.au/national/australia-news-live-frydenberg-reveals-he-will-not-appear-before-royal-commission-coalition-accuses-labor-of-funding-ghettoisation-of-migrant-communities-20260810-p60mt0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "title": "Four more teens charged with murder after death at house party",
+          "url": "https://www.smh.com.au/national/queensland/four-more-teens-charged-with-murder-after-death-at-house-party-20260810-p60mtb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
           "source": "SMH",
           "kind": "rss",
           "score": 43,
@@ -377,42 +473,20 @@
       ]
     },
     {
-      "id": "ukraine russia war latest kyiv unleashes wave nearly",
-      "topic": "Ukraine-Russia war latest: Kyiv unleashes wave of nearly 300 drones in 12 hours, says Moscow",
-      "summary": "Ukraine and Russia accused each other of deadly attacks on Sunday",
+      "id": "wnba media defends dijonai carrington after dangerous sophie",
+      "topic": "WNBA media defends DiJonai Carrington after dangerous Sophie Cunningham hit reveals glaring bias",
+      "summary": "DiJonai Carrington posted \"WHITE PRIVILEGE\" after her Flagrant 2 ejection for hitting Sophie Cunningham, yet WNBA media rushed to her defense.",
       "category": "news",
-      "momentum": 450,
+      "momentum": 354,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:46:01.000Z",
+      "firstSeen": "2026-08-09T21:06:46.000Z",
       "sourceCount": 1,
       "engagement": 43,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "Ukraine-Russia war latest: Kyiv unleashes wave of nearly 300 drones in 12 hours, says Moscow",
-          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-nato-drone-strikes-b3029907.html",
-          "source": "Independent",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "cyclospora fears sending shoppers farmers markets local produce",
-      "topic": "Cyclospora fears are sending shoppers to farmers markets for local produce",
-      "summary": "Ohio farmers markets are selling out of locally grown lettuce within minutes as the cyclospora outbreak drives shoppers away from grocery stores.",
-      "category": "business",
-      "momentum": 450,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:45:16.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Cyclospora fears are sending shoppers to farmers markets for local produce",
-          "url": "https://www.foxnews.com/food-drink/cyclospora-fears-sending-shoppers-farmers-markets-local-produce",
+          "title": "WNBA media defends DiJonai Carrington after dangerous Sophie Cunningham hit reveals glaring bias",
+          "url": "https://www.foxnews.com/outkick-sports/wnba-media-defends-dijonai-carrington-dangerous-sophie-cunningham-hit-reveals-glaring-bias",
           "source": "Fox News",
           "kind": "rss",
           "score": 43,
@@ -421,219 +495,21 @@
       ]
     },
     {
-      "id": "anthony bourdain biopic top 2026 limited opening jane",
-      "topic": "Anthony Bourdain Biopic Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
-      "summary": "Independents posted impressive numbers this weekend, another good one for moviegoing but competitive with blockbuster commercial films in the marketplace. Tony",
-      "category": "entertainment",
-      "momentum": 450,
+      "id": "villa interested endrick loan",
+      "topic": "Villa interested in Endrick loan",
+      "summary": "Aston Villa interested in Endrick loan, Harry Kane expected to extend Bayern Munich deal and Arsenal make Bradley Barcola contact, plus more.",
+      "category": "sports",
+      "momentum": 336,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:45:00.000Z",
+      "firstSeen": "2026-08-09T21:04:49.000Z",
       "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Anthony Bourdain Biopic Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
-          "url": "https://deadline.com/2026/08/indie-film-box-office-bourdain-biopic-top-2026-limited-opening-1237029670/",
-          "source": "Deadline",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "ivanka trump family vacation iceland",
-      "topic": "ivanka trump family vacation iceland",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 431,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "ivanka trump family vacation iceland",
-          "url": "https://www.foxnews.com/travel/ivanka-trump-shares-intimate-look-cool-weather-iceland-getaway-jared-kushner-kids",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 136,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "israel rejects trump point plan gaza stoking tensions",
-      "topic": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US",
-      "summary": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US Al Jazeera Netanyahu Rejects Trump’s Plan to Disarm Hamas The New York Times Netanyahu r",
-      "category": "news",
-      "momentum": 428,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:37:30.000Z",
-      "sourceCount": 1,
-      "engagement": 60,
+      "engagement": 45,
       "ageHours": 0.4,
       "links": [
         {
-          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "woman body found suitcase nsw bush",
-      "topic": "Woman's body found in suitcase in NSW bush",
-      "summary": "An investigation is underway after a suitcase was found near Oallen in the NSW Southern Highlands, holding a body believed to be that of a woman.",
-      "category": "news",
-      "momentum": 421,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:43:30.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Woman's body found in suitcase in NSW bush",
-          "url": "https://www.smh.com.au/national/womans-body-found-in-suitcase-in-nsw-bush-20260810-p60mt3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "israel rejects peace plan gaza",
-      "topic": "Israel rejects US peace plan for Gaza",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu says the national government will not adhere to a peace plan for Gaza proposed by the US.",
-      "category": "news",
-      "momentum": 405,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:42:52.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Israel rejects US peace plan for Gaza",
-          "url": "https://www.smh.com.au/world/israel-rejects-us-peace-plan-for-gaza-20260810-p60mt4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "jaden newman",
-      "topic": "jaden newman",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 397,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "jaden newman",
-          "url": "https://www.tmz.com/2026/08/07/julian-newman-addresses-alleged-jaden-newman-leak/",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "weather",
-      "topic": "weather",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 391,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 172,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "weather",
-          "url": "https://www.cairnspost.com.au/news/cairns/hyperlocal/heres-what-you-can-expect-with-todays-cairns-weather/news-story/bfca084acb258362ad56b709cbc5d9a8",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 172,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "four more arrested after house party death",
-      "topic": "Four more arrested after house party death",
-      "summary": "Four more people have been arrested after a man sustained fatal wounds at a house party in Bahrs Scrub, Brisbane.",
-      "category": "news",
-      "momentum": 366,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:41:04.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Four more arrested after house party death",
-          "url": "https://www.smh.com.au/national/four-more-arrested-after-house-party-death-20260810-p60mt1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "driver restrained bystanders after melbourne crash",
-      "topic": "Driver restrained by bystanders after Melbourne crash",
-      "summary": "A 23-year-old man has been arrested after a car crashed into a building in the Melbourne CBD.",
-      "category": "news",
-      "momentum": 365,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:41:03.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Driver restrained by bystanders after Melbourne crash",
-          "url": "https://www.smh.com.au/national/driver-restrained-by-bystanders-after-melbourne-crash-20260810-p60mt2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "mets bats break out hit run outburst keep",
-      "topic": "Mets' bats break out for 15-hit, 11-run outburst to keep rolling",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "sports",
-      "momentum": 360,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:39:54.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Mets' bats break out for 15-hit, 11-run outburst to keep rolling",
-          "url": "https://www.mlb.com/news/mets-score-11-runs-to-win-series-vs-pirates",
-          "source": "MLB.com",
+          "title": "Villa interested in Endrick loan",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -641,95 +517,175 @@
       ]
     },
     {
-      "id": "wagner moura compares netflix last house his hope",
-      "topic": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
-      "summary": "SPOILERS: This post contains details about the Netflix movie The Last House As Wagner Moura traps fans at home with his new movie The Last House, he can’t help",
-      "category": "entertainment",
-      "momentum": 340,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:39:40.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
-          "url": "https://deadline.com/2026/08/wagner-moura-the-last-house-hope-world-change-covid-1237029686/",
-          "source": "Deadline",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "off clunky start kyle sandilands new show begins",
-      "topic": "‘We’re off to a clunky start’: Kyle Sandilands new show begins … with tech issues",
-      "summary": "The much heralded show began made its debut on Monday morning.",
+      "id": "new rental bond scheme starts today nsw but",
+      "topic": "New rental bond scheme starts today in NSW, but only in select suburbs",
+      "summary": "The NSW government's portable rental bond system starts today and will cost renters who want to use the online service $25.",
       "category": "news",
-      "momentum": 333,
+      "momentum": 332,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:39:15.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "‘We’re off to a clunky start’: Kyle Sandilands new show begins … with tech issues",
-          "url": "https://www.smh.com.au/culture/tv-and-radio/we-re-off-to-a-clunky-start-kyle-sandilands-new-show-begins-with-tech-issues-20260810-p60msz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "netanyahu rejects trump backed gaza plan hamas disarmament",
-      "topic": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
-      "summary": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal The Washington Post Netanyahu Rejects Trump’s Plan to Disarm Hamas The New Yo",
-      "category": "news",
-      "momentum": 311,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:01:50.000Z",
-      "sourceCount": 2,
-      "engagement": 106,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHJIQ1JLMkZjdHl3bWRsWlFvV0JHdWt2S2xvYU40dV90MDNpRHBqUWY1LS1uVGRKRnJsTko4TFhZOEJ3NHNlTzljSzQ4Mm9YN2JaQnA5R2dSak1sUDctRDd4T1dlUjZFMF9UelkyOFh1RllaMENfM2ZOcTg2bnlRZWszZ2JzeVRXLXYxVkxucHBFODlFU3BuSUFZei1LQndaY2RMZGl3ZFc5ZThCQVpvRUlVUk9idw?oc=5",
-          "source": "Google News World",
-          "kind": "rss",
-          "score": 58,
-          "comments": 0
-        },
-        {
-          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
-          "url": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/",
-          "source": "Washington Post",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "embattled hedge fund situational awareness invests 400m chip",
-      "topic": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "category": "tech",
-      "momentum": 291,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:35:17.000Z",
+      "firstSeen": "2026-08-09T21:04:33.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.4,
       "links": [
         {
-          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-          "source": "TechCrunch",
+          "title": "New rental bond scheme starts today in NSW, but only in select suburbs",
+          "url": "https://www.abc.net.au/news/2026-08-10/nsw-portable-rental-bond-system-is-live/107014380",
+          "source": "ABC News AU",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "marvel tokon players trying weird solutions fix bad",
+      "topic": "Marvel Tokon players are trying weird solutions to fix the bad PC port",
+      "summary": "Marvel Tokon: Fighting Souls players on PC are resorting to running the Epic Games Store in the background, using framerate limiters, and more.",
+      "category": "games",
+      "momentum": 328,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:04:17.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Marvel Tokon players are trying weird solutions to fix the bad PC port",
+          "url": "https://www.polygon.com/marvel-tokons-pc-issues-egs-store/",
+          "source": "Polygon",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "push memorial two men killed sea mine tragedy",
+      "topic": "Push for memorial to two men killed in sea mine tragedy on home soil",
+      "summary": "The granddaughter of Able Seaman Thomas Todd, who was killed at Beachport by an exploding German sea mine, is calling for a memorial to him and another man kill",
+      "category": "news",
+      "momentum": 324,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:04:02.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Push for memorial to two men killed in sea mine tragedy on home soil",
+          "url": "https://www.abc.net.au/news/2026-08-10/beachport-sea-mine-tragedy-world-war-ii-memorial/107003700",
+          "source": "ABC News AU",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "how use llms learn complex topics",
+      "topic": "How I use LLMs to learn complex topics",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 321,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T19:16:49.000Z",
+      "sourceCount": 1,
+      "engagement": 457,
+      "ageHours": 2.2,
+      "links": [
+        {
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 169,
+          "comments": 96
+        }
+      ]
+    },
+    {
+      "id": "cnn guest suffers air disaster but chokes his",
+      "topic": "CNN guest suffers on-air disaster but chokes his way through interview",
+      "summary": "Host Omar Jimenez attempted to keep the segment moving with a question about interest rates while his guest struggled to clear his throat after mishap",
+      "category": "news",
+      "momentum": 308,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:03:54.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "CNN guest suffers on-air disaster but chokes his way through interview",
+          "url": "https://www.independent.co.uk/news/world/americas/cnn-guest-swallows-fly-interview-b3029995.html",
+          "source": "Independent",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "suspected crime boss daniel kinahan appears court after",
+      "topic": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "category": "news",
+      "momentum": 302,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T20:58:18.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+          "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "toowoomba weather",
+      "topic": "toowoomba weather",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 281,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T20:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.9,
+      "links": [
+        {
+          "title": "toowoomba weather",
+          "url": "https://www.couriermail.com.au/questnews/hyperlocal/heres-what-you-can-expect-with-todays-toowoomba-weather/news-story/b0e1cfc709cb5b1ed0197bbd0eacdec0",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "years later men greatest redemption arc finally making",
+      "topic": "47 Years Later, X-Men's Greatest Redemption Arc Is Finally Making the Leap From Comics to Movies",
+      "summary": "As Samara Weaving's Emma Frost prepares to hit the MCU, let's look back at the character's history and speculate on which version of Emma we're about to get.",
+      "category": "games",
+      "momentum": 275,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T21:00:12.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "47 Years Later, X-Men's Greatest Redemption Arc Is Finally Making the Leap From Comics to Movies",
+          "url": "https://www.polygon.com/emma-frost-marvel-historu-comics-villain-hero-x-men/",
+          "source": "Polygon",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -741,82 +697,60 @@
       "topic": "Mea Culpa – Dark Hours",
       "summary": "Surfacing across 2 channels with rising engagement.",
       "category": "tech",
-      "momentum": 290,
+      "momentum": 268,
       "phase": "peaking",
       "firstSeen": "2026-08-09T13:20:43.000Z",
       "sourceCount": 1,
-      "engagement": 1249,
-      "ageHours": 7.6,
+      "engagement": 1276,
+      "ageHours": 8.1,
       "links": [
         {
           "title": "Mea Culpa – Dark Hours",
           "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 478,
-          "comments": 220
+          "score": 492,
+          "comments": 222
         }
       ]
     },
     {
-      "id": "music challenge",
-      "topic": "Music Challenge",
-      "summary": "97 posts on Bluesky.",
-      "category": "entertainment",
-      "momentum": 284,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:11:35.286Z",
-      "sourceCount": 1,
-      "engagement": 147,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "Music Challenge",
-          "url": "https://bsky.app/search?q=Music%20Challenge",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 111,
-          "comments": 12
-        }
-      ]
-    },
-    {
-      "id": "ransomware gangs skip ceo head straight something manager",
-      "topic": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "business",
-      "momentum": 268,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T19:20:40.000Z",
-      "sourceCount": 1,
-      "engagement": 84,
-      "ageHours": 1.6,
-      "links": [
-        {
-          "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-          "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 39,
-          "comments": 15
-        }
-      ]
-    },
-    {
-      "id": "chase dreams vollering wins second tour france femmes",
-      "topic": "'Go chase the dreams': Vollering wins second Tour de France Femmes",
-      "summary": "Dutch rider Demi Vollering has won the 2026 Tour de France Femmes, the second time she has won the famous tour.",
+      "id": "teen burglary ring linked nearly bay area break",
+      "topic": "Teen burglary ring linked to nearly 80 Bay Area break-ins dismantled after months-long investigation: PD",
+      "summary": "Surveillance video shows teenage suspects pointing a stolen firearm at a garage door, waiting for a homeowner during a brazen Bay Area burglary spree.",
       "category": "news",
-      "momentum": 256,
+      "momentum": 266,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:31:54.000Z",
+      "firstSeen": "2026-08-09T21:00:31.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Teen burglary ring linked to nearly 80 Bay Area break-ins dismantled after months-long investigation: PD",
+          "url": "https://www.foxnews.com/us/teen-burglary-ring-linked-nearly-80-bay-area-break-ins-dismantled-months-long-investigation-pd",
+          "source": "Fox News",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "live asx set lift after wall hit another",
+      "topic": "Live: ASX set to lift after Wall St hit another record close",
+      "summary": "The ASX is expected to hit a fresh record high after Wall Street's S&P 500 also closed at a record. Follow the day's events and insights from our business repor",
+      "category": "news",
+      "momentum": 253,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T20:57:56.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.5,
       "links": [
         {
-          "title": "'Go chase the dreams': Vollering wins second Tour de France Femmes",
-          "url": "https://www.abc.net.au/news/2026-08-10/demi-vollering-wins-tour-de-france-femmes/107014760",
+          "title": "Live: ASX set to lift after Wall St hit another record close",
+          "url": "https://www.abc.net.au/news/2026-08-10/asx-markets-business-live-news/107014540",
           "source": "ABC News AU",
           "kind": "rss",
           "score": 45,
@@ -825,67 +759,97 @@
       ]
     },
     {
-      "id": "taiwan annual war games underway amid tensions china",
-      "topic": "Taiwan annual war games underway amid tensions with China",
-      "summary": "Taiwan annual war games underway amid tensions with China Fox News",
-      "category": "games",
-      "momentum": 256,
+      "id": "man arrested after boat capsizes near statue liberty",
+      "topic": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "summary": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant bbc.com Mother, child killed when boat overturns off Liberty Island ABC7 New Yo",
+      "category": "news",
+      "momentum": 250,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:28:54.000Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 0.5,
+      "firstSeen": "2026-08-09T19:40:09.000Z",
+      "sourceCount": 2,
+      "engagement": 221,
+      "ageHours": 1.8,
       "links": [
         {
-          "title": "Taiwan annual war games underway amid tensions with China",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TQXlTSG1Ecm5OTWxtU1p1azJ3ZGMzRmN5VEJ6ckF0Q3NEU2IwSTQwdXFqZXJOdkZrU1FWUnVJSDVfdmRUTlFWdzdBQ1BVUkxKdnJqNTN3?oc=5",
-          "source": "Google News Games",
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wRFZRWjR4ZFVkSW00eXlCbVhpekxGX1RNRmlmSnJCdzUza3FPWVIxczVCeTB2SUhRRjZ2R1FpazNLOXR5Y2lXMDVNZDh3U0ttMlVqVndmZzYtZw?oc=5",
+          "source": "Google News",
           "kind": "rss",
-          "score": 50,
+          "score": 60,
+          "comments": 0
+        },
+        {
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
           "comments": 0
         }
       ]
     },
     {
-      "id": "kayla mcbride",
-      "topic": "kayla mcbride",
-      "summary": "Trending search interest (US).",
+      "id": "weather",
+      "topic": "weather",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 249,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T20:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 183,
+      "ageHours": 0.9,
+      "links": [
+        {
+          "title": "weather",
+          "url": "https://www.goldcoastbulletin.com.au/news/gold-coast/hyperlocal/heres-what-you-can-expect-with-todays-gold-coast-weather/news-story/6a525b04c5dcef9cbe45992a1f8b0e7b",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 183,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "gtrends-AU-날씨",
+      "topic": "날씨",
+      "summary": "Trending search interest (AU).",
       "category": "news",
       "momentum": 245,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:20:00.000Z",
+      "firstSeen": "2026-08-09T20:50:00.000Z",
       "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 0.7,
+      "engagement": 111,
+      "ageHours": 0.6,
       "links": [
         {
-          "title": "kayla mcbride",
-          "url": "https://www.espn.com/wnba/story/_/id/49562916/minnesota-lynx-top-las-vegas-aces-improve-wnba-best-26-7",
-          "source": "Google Trends US",
+          "title": "날씨",
+          "url": "https://www.khan.co.kr/article/202608082020001",
+          "source": "Google Trends AU",
           "kind": "googletrends",
-          "score": 136,
+          "score": 111,
           "comments": 0
         }
       ]
     },
     {
-      "id": "braves win inning pitchers duel avoid bronx sweep",
-      "topic": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "sports",
-      "momentum": 243,
+      "id": "james gray told his wife would get award",
+      "topic": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
+      "summary": "The U.S. auteur also mentioned the Beatles and said, \"I have many good films, hopefully, left,\" as he received the Swiss fest's Career Leopard before an outdoor",
+      "category": "entertainment",
+      "momentum": 244,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:30:29.000Z",
+      "firstSeen": "2026-08-09T20:58:12.000Z",
       "sourceCount": 1,
-      "engagement": 45,
+      "engagement": 43,
       "ageHours": 0.5,
       "links": [
         {
-          "title": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
-          "url": "https://www.mlb.com/news/grant-holmes-pitches-6-scoreless-innings-in-win-over-yankees",
-          "source": "MLB.com",
+          "title": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gray-locarno-award-wife-reminded-him-of-the-trash-1236669782/",
+          "source": "Hollywood Reporter",
           "kind": "rss",
-          "score": 45,
+          "score": 43,
           "comments": 0
         }
       ]
@@ -897,7 +861,7 @@
       "category": "news",
       "momentum": 238,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:57:49.574Z",
+      "firstSeen": "2026-08-09T21:24:08.862Z",
       "sourceCount": 1,
       "engagement": 50,
       "ageHours": 0.3,
@@ -913,21 +877,21 @@
       ]
     },
     {
-      "id": "blizzard reportedly leads xbox top performing studio thanks",
-      "topic": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "summary": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
-      "category": "games",
-      "momentum": 234,
+      "id": "hundreds cars stolen melbourne gyms six month period",
+      "topic": "Hundreds of cars stolen from Melbourne gyms in six-month-period",
+      "summary": "Police say young offenders are sneaking into gyms and stealing the keys to vehicles which are then used to commit other crimes.",
+      "category": "news",
+      "momentum": 227,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:29:23.000Z",
+      "firstSeen": "2026-08-09T20:54:41.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.5,
       "links": [
         {
-          "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-          "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
-          "source": "IGN",
+          "title": "Hundreds of cars stolen from Melbourne gyms in six-month-period",
+          "url": "https://www.abc.net.au/news/2026-08-10/vic-police-warning-over-gym-thefts/107015468",
+          "source": "ABC News AU",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -935,21 +899,65 @@
       ]
     },
     {
-      "id": "dogs space music history podcast true obsessives",
-      "topic": "No Dogs in Space is a music history podcast for true obsessives",
-      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three,",
+      "id": "democratic socialists leader sounds completely lost after very",
+      "topic": "Democratic Socialists leader sounds completely lost after a very simple question",
+      "summary": "DSA co-chair Megan Romer struggled to explain the group’s policy for taxing millionaires when pressed on the matter by New Yorker editor David Remnick on the ma",
+      "category": "news",
+      "momentum": 227,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T20:56:07.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "Democratic Socialists leader sounds completely lost after a very simple question",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/democratic-socialists-megan-romer-millionaire-tax-questions-b3030055.html",
+          "source": "Independent",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "grahaap",
+      "topic": "GrahaAP",
+      "summary": "153 posts on Bluesky · hot.",
       "category": "entertainment",
-      "momentum": 228,
+      "momentum": 221,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:28:31.000Z",
+      "firstSeen": "2026-08-09T20:16:32.975Z",
+      "sourceCount": 1,
+      "engagement": 199,
+      "ageHours": 1.2,
+      "links": [
+        {
+          "title": "GrahaAP",
+          "url": "https://bsky.app/search?q=GrahaAP",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 142,
+          "comments": 19
+        }
+      ]
+    },
+    {
+      "id": "not ready compete sinner pulls out tournament ahead",
+      "topic": "'Not ready to compete': Sinner pulls out of tournament ahead of US Open",
+      "summary": "Men's tennis world number one Jannik Sinner pulls out of the Cincinnati Open with a right knee injury, handing the Italian a blow in his preparations for this m",
+      "category": "news",
+      "momentum": 220,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T20:53:45.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.5,
       "links": [
         {
-          "title": "No Dogs in Space is a music history podcast for true obsessives",
-          "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-          "source": "The Verge",
+          "title": "'Not ready to compete': Sinner pulls out of tournament ahead of US Open",
+          "url": "https://www.abc.net.au/news/2026-08-10/jannik-sinner-pulls-out-of-cincinnati-open/107015540",
+          "source": "ABC News AU",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -957,108 +965,402 @@
       ]
     },
     {
-      "id": "111 games zero errors wilson sets mlb record",
-      "topic": "111 games, zero errors: Wilson sets MLB record at shortstop",
+      "id": "deletes all instances microsoft gdid prevents minting new",
+      "topic": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
       "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "games",
-      "momentum": 225,
+      "category": "tech",
+      "momentum": 214,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:28:06.000Z",
+      "firstSeen": "2026-08-09T20:06:51.000Z",
       "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
+      "engagement": 83,
+      "ageHours": 1.3,
       "links": [
         {
-          "title": "111 games, zero errors: Wilson sets MLB record at shortstop",
-          "url": "https://www.mlb.com/news/jacob-wilson-mlb-error-free-shortstop-record",
-          "source": "MLB.com",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "anyone wants print their own playstation discs they",
-      "topic": "If Anyone Wants To Print Their Own PlayStation Discs They’ll Need To Overcome Sony’s Wall Of Silence",
-      "summary": "While PlayStation seems committed to ending their physical copies, I wouldn’t hold my breath for a massive homebrew scene to fill the void in the immediate futu",
-      "category": "games",
-      "momentum": 219,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:51:08.000Z",
-      "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "If Anyone Wants To Print Their Own PlayStation Discs They’ll Need To Overcome Sony’s Wall Of Silence",
-          "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
-          "source": "Kotaku",
-          "kind": "rss",
-          "score": 40,
-          "comments": 0
+          "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+          "url": "https://github.com/yegors/deGDID",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 32,
+          "comments": 17
         }
       ]
     },
     {
       "id": "sayed",
       "topic": "El-Sayed",
-      "summary": "2,674 posts on Bluesky.",
+      "summary": "2,785 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 215,
+      "momentum": 204,
       "phase": "peaking",
       "firstSeen": "2026-08-09T14:07:34.278Z",
       "sourceCount": 1,
-      "engagement": 1169,
-      "ageHours": 6.9,
+      "engagement": 1212,
+      "ageHours": 7.3,
       "links": [
         {
           "title": "El-Sayed",
           "url": "https://bsky.app/search?q=El-Sayed",
           "source": "Bluesky",
           "kind": "bluesky",
-          "score": 167,
-          "comments": 334
+          "score": 168,
+          "comments": 348
         }
       ]
     },
     {
-      "id": "best deals today civilization vii airpods pro spider",
-      "topic": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "id": "disc drive needed",
+      "topic": "Disc drive needed",
       "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "games",
-      "momentum": 215,
+      "category": "news",
+      "momentum": 191,
       "phase": "rising",
-      "firstSeen": "2026-08-09T20:26:42.000Z",
+      "firstSeen": "2026-08-09T20:52:06.956Z",
       "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
+      "engagement": 41,
+      "ageHours": 0.6,
       "links": [
         {
-          "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-          "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
-          "source": "IGN",
+          "title": "Disc drive needed",
+          "url": "https://lemmy.world/pictrs/image/75cec115-a63a-49c5-8367-3179dbe73b51.jpeg",
+          "source": "Lemmy · lemmyshitpost",
+          "kind": "lemmy",
+          "score": 32,
+          "comments": 3
+        }
+      ]
+    },
+    {
+      "id": "spider man brand new day keeps record pace",
+      "topic": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan",
+      "summary": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan AP News Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Seco",
+      "category": "news",
+      "momentum": 183,
+      "phase": "rising",
+      "firstSeen": "2026-08-09T19:42:00.000Z",
+      "sourceCount": 1,
+      "engagement": 113,
+      "ageHours": 1.7,
+      "links": [
+        {
+          "title": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDRXM1E2Z25Ta2tVMlJGVVFmbUFzLXRMc09IR1NWN3F2ZFNubFlVUERBcHliSEFQZFNEYUdRS29NdDc3NUFoclg1VmlEWTdUczY1NlpOQkszcVlTODRuX0dDa1NVeU5NRVVzRU90SlYwWVJxa2wyVENwNy10TmtHNlNJZ2JkUV9xbkFQY0pESFpWdjY1RUR4XzBwTmx4dDRZSHVsaUNmQTZXUQ?oc=5",
+          "source": "Google News",
           "kind": "rss",
-          "score": 45,
+          "score": 60,
           "comments": 0
         }
       ]
     },
     {
-      "id": "bob mortimer",
-      "topic": "bob mortimer",
+      "id": "windows built weather app wastes more than ram",
+      "topic": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 175,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T15:11:20.000Z",
+      "sourceCount": 1,
+      "engagement": 842,
+      "ageHours": 6.2,
+      "links": [
+        {
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 242,
+          "comments": 200
+        }
+      ]
+    },
+    {
+      "id": "claudia winkleman",
+      "topic": "claudia winkleman",
       "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 203,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:10:00.000Z",
+      "momentum": 173,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:40:00.000Z",
       "sourceCount": 1,
-      "engagement": 125,
+      "engagement": 111,
       "ageHours": 0.8,
       "links": [
         {
-          "title": "bob mortimer",
-          "url": "https://uk.news.yahoo.com/bob-mortimer-shares-heartfelt-wish-125400632.html",
+          "title": "claudia winkleman",
+          "url": "https://www.express.co.uk/showbiz/tv-radio/2237542/the-piano-claudia-winkleman-family-admission-channel-4",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "don answer questions",
+      "topic": "\"I don't answer questions\"",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 172,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:40:18.559Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "\"I don't answer questions\"",
+          "url": "https://lemmy.world/pictrs/image/6c7a49cb-05d5-420c-aaa1-45ccaba4c665.jpeg",
+          "source": "Lemmy · lemmyshitpost",
+          "kind": "lemmy",
+          "score": 32,
+          "comments": 6
+        }
+      ]
+    },
+    {
+      "id": "music challenge",
+      "topic": "Music Challenge",
+      "summary": "123 posts on Bluesky.",
+      "category": "entertainment",
+      "momentum": 167,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:11:35.286Z",
+      "sourceCount": 1,
+      "engagement": 160,
+      "ageHours": 1.2,
+      "links": [
+        {
+          "title": "Music Challenge",
+          "url": "https://bsky.app/search?q=Music%20Challenge",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 115,
+          "comments": 15
+        }
+      ]
+    },
+    {
+      "id": "germany warns daily hybrid warfare after explosive laden",
+      "topic": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "summary": "Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.",
+      "category": "news",
+      "momentum": 166,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:40:25.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+          "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+          "source": "Al Jazeera",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "saying",
+      "topic": "Saying No",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 154,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T18:51:06.000Z",
+      "sourceCount": 1,
+      "engagement": 287,
+      "ageHours": 2.6,
+      "links": [
+        {
+          "title": "Saying No",
+          "url": "https://rozumem.xyz/posts/19",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 86,
+          "comments": 67
+        }
+      ]
+    },
+    {
+      "id": "keanu reeves",
+      "topic": "keanu reeves",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 153,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "keanu reeves",
+          "url": "https://collider.com/keanu-reeves-fantasy-constantine-streaming-success-hbo-max-hulu-prime-video-august-2026/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "radar melbourne",
+      "topic": "radar melbourne",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 142,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.9,
+      "links": [
+        {
+          "title": "radar melbourne",
+          "url": "https://www.adelaidenow.com.au/news/south-australia/weather/adelaide-south-australia-brace-for-extreme-weather-with-damaging-winds-and-heavy-rain/news-story/54544fc5e665d6f048a65e3f1f9baea1",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "iran taps longtime commander mohsen rezaei top security",
+      "topic": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+      "summary": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post The New York Times Iran's Khamenei appoints Rezaee, Zolghadr to senior positions The Je",
+      "category": "news",
+      "momentum": 141,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T18:18:22.000Z",
+      "sourceCount": 2,
+      "engagement": 221,
+      "ageHours": 3.1,
+      "links": [
+        {
+          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTBPR3o2SktiSEZibkJVOERvb3hxZTlOWWFkWjlEUU1sMmlTY3NXd3MxM293N3RGOHN0LTJLclBfRGJDX3drdzlBbExzLW83bTBlQVo3V2dMN1pjN1lFdUkxVEFoT3I0MThrRG9ZUFRIMVRFVHlKRWszcEwtNFFTMDRDdEN0VFpiOUF5ZGNwZVVRek1QTnMxVkJxNA?oc=5",
+          "source": "Google News",
+          "kind": "rss",
+          "score": 60,
+          "comments": 0
+        },
+        {
+          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "diamondbacks dodgers",
+      "topic": "diamondbacks vs dodgers",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 140,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "diamondbacks vs dodgers",
+          "url": "https://www.espn.com.au/video/clip/_/id/49565418/game-highlights",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "white house plan golden age science ignores structures",
+      "topic": "White House plan for a ‘golden age’ of science ignores the structures that made the US a scientific superpower",
+      "summary": "> Federal mission agencies, including the [Centers for Disease Control and Prevention](https://doi.org/10.1172/JCI96941), [Department of Energy](https://www.ene",
+      "category": "news",
+      "momentum": 139,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:36:19.249Z",
+      "sourceCount": 1,
+      "engagement": 44,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "White House plan for a ‘golden age’ of science ignores the structures that made the US a scientific superpower",
+          "url": "https://theconversation.com/white-house-plan-for-a-golden-age-of-science-ignores-the-structures-that-made-the-us-a-scientific-superpower-288254",
+          "source": "Lemmy · science",
+          "kind": "lemmy",
+          "score": 26,
+          "comments": 6
+        }
+      ]
+    },
+    {
+      "id": "body woman found suitcase regional nsw",
+      "topic": "Body of woman found in suitcase in regional NSW",
+      "summary": "Police were called to a rural road south of Goulburn on Sunday afternoon following reports a body had been found.",
+      "category": "news",
+      "momentum": 137,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T21:03:28.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Body of woman found in suitcase in regional NSW",
+          "url": "https://www.smh.com.au/national/nsw/body-of-woman-found-in-suitcase-in-regional-nsw-20260809-p60mrj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "archers",
+      "topic": "The Archers",
+      "summary": "517 posts on Bluesky.",
+      "category": "entertainment",
+      "momentum": 132,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T18:10:32.921Z",
+      "sourceCount": 1,
+      "engagement": 334,
+      "ageHours": 3.3,
+      "links": [
+        {
+          "title": "The Archers",
+          "url": "https://bsky.app/search?q=The%20Archers",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 139,
+          "comments": 65
+        }
+      ]
+    },
+    {
+      "id": "mel gibson",
+      "topic": "mel gibson",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 132,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "mel gibson",
+          "url": "https://collider.com/mel-gibson-passion-of-the-christ-2-sequel-update/",
           "source": "Google Trends UK",
           "kind": "googletrends",
           "score": 125,
@@ -1071,379 +1373,63 @@
       "topic": "superannuation in australia",
       "summary": "Trending search interest (AU).",
       "category": "news",
-      "momentum": 200,
-      "phase": "rising",
+      "momentum": 132,
+      "phase": "peaking",
       "firstSeen": "2026-08-09T20:00:00.000Z",
       "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 1,
+      "engagement": 147,
+      "ageHours": 1.4,
       "links": [
         {
           "title": "superannuation in australia",
           "url": "https://www.abc.net.au/news/2026-08-10/superannuation-death-benefit-nominations-survey-finds-funds-fail/106991968",
           "source": "Google Trends AU",
           "kind": "googletrends",
-          "score": 136,
+          "score": 147,
           "comments": 0
         }
       ]
     },
     {
-      "id": "windows built weather app wastes more than ram",
-      "topic": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 198,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T15:11:20.000Z",
-      "sourceCount": 1,
-      "engagement": 773,
-      "ageHours": 5.8,
-      "links": [
-        {
-          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 215,
-          "comments": 186
-        }
-      ]
-    },
-    {
-      "id": "were signs always there that vrancken hearts would",
-      "topic": "Were signs always there that Vrancken's Hearts would come good?",
-      "summary": "Heart of Midlothian have at last secured their first win under new head coach Wouter Vrancken, but statistics suggested it was only a matter of time.",
-      "category": "sports",
-      "momentum": 196,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:23:31.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Were signs always there that Vrancken's Hearts would come good?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdew452xgyko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "don nelson second winningest nba coach who won",
-      "topic": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86",
-      "summary": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86 AP NewsSee more headlines & perspectives on Google News",
-      "category": "sports",
-      "momentum": 195,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T19:39:00.000Z",
-      "sourceCount": 1,
-      "engagement": 118,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEhpV2ZGcF9TOGdsV3FOc2pLVGt6d3ZPSmhlWS1CVjVyLXhHRVdMRHBmckhRRDRINm83bHJnbDg5eXJhRDlrSXdISDkxVHRRN1UwOURvX2FiWW5vOFRUbWt2RUpQM3NPOWFQT2NvelZveXZ2dWlQMDREUy1NanI5MGRtbDRrNzlvbDVDZUhB?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "jessica shepard",
-      "topic": "jessica shepard",
-      "summary": "Trending search interest (US).",
+      "id": "back business baby",
+      "topic": "Back in business, baby!",
+      "summary": "TNG s2e19 \"Manhunt\"",
       "category": "news",
-      "momentum": 181,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:10:00.000Z",
+      "momentum": 131,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:26:41.779Z",
       "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 0.8,
+      "engagement": 59,
+      "ageHours": 1,
       "links": [
         {
-          "title": "jessica shepard",
-          "url": "https://trends.google.com/trends/explore?geo=US&q=jessica%20shepard",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 136,
-          "comments": 0
+          "title": "Back in business, baby!",
+          "url": "https://lemmy.world/pictrs/image/a5ba3fc1-4817-466a-93ac-aec64478cf8e.gif",
+          "source": "Lemmy · tenforward",
+          "kind": "lemmy",
+          "score": 38,
+          "comments": 7
         }
       ]
     },
     {
-      "id": "epl",
-      "topic": "epl",
+      "id": "wyndham championship",
+      "topic": "wyndham championship",
       "summary": "Trending search interest (AU).",
       "category": "news",
-      "momentum": 180,
-      "phase": "rising",
-      "firstSeen": "2026-08-09T20:20:00.000Z",
+      "momentum": 128,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:30:00.000Z",
       "sourceCount": 1,
       "engagement": 100,
-      "ageHours": 0.7,
+      "ageHours": 0.9,
       "links": [
         {
-          "title": "epl",
-          "url": "https://www.thedraftsociety.com/post/26-27-draft-fantasy-premier-league-value-per-round-analysis",
+          "title": "wyndham championship",
+          "url": "https://golf.com/news/tour-players-playoffs-hopes-dashed-dq-wyndham/",
           "source": "Google Trends AU",
           "kind": "googletrends",
           "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "iran says strait won open until corrects behavior",
-      "topic": "Iran says strait won't open until the U.S. \"corrects\" behavior",
-      "summary": "The United Arab Emirates' Abu Dhabi National Oil Company said one of its ships was targeted while transiting the strait.",
-      "category": "news",
-      "momentum": 170,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:18:57.000Z",
-      "sourceCount": 1,
-      "engagement": 90,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "Iran says strait won't open until the U.S. \"corrects\" behavior",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "saying",
-      "topic": "Saying No",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 170,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T18:51:06.000Z",
-      "sourceCount": 1,
-      "engagement": 247,
-      "ageHours": 2.1,
-      "links": [
-        {
-          "title": "Saying No",
-          "url": "https://rozumem.xyz/posts/19",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 73,
-          "comments": 58
-        }
-      ]
-    },
-    {
-      "id": "asx",
-      "topic": "asx",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 163,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "asx",
-          "url": "https://www.fool.com.au/2026/08/09/3-asx-dividend-shares-i-would-load-up-on-this-month/",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 136,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "teddy bridgewater retires lions opens huge question backup",
-      "topic": "Teddy Bridgewater retires from Lions, opens huge question at backup QB",
-      "summary": "Teddy Bridgewater retires from Lions, opens huge question at backup QB Detroit Free Press Teddy Bridgewater leaves Lions to retire again, coach says ESPN Lions",
-      "category": "sports",
-      "momentum": 161,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:06:00.000Z",
-      "sourceCount": 1,
-      "engagement": 55,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "Teddy Bridgewater retires from Lions, opens huge question at backup QB",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDdTUkZwSXdxNXVLUTd3NGJiazBLTHhPUS1LbzdBZ2s0VXJILWk3cEg0OVJFOE4tbzBJSDA0c1lwM0VXZjhvTl9lRnFGVDk2amF0cGFTT2RCNl9xZC1WUkZPRDlfVUNCdTVfS0tSYlBqTENtdm5la3NsVFh1SVRHbXFYbzlWV1hlcGZfaWREazFTZFhpS0pCbnl6bEw2NEdlbTJEZzhxSzFtUDhhVDdRd0pPWWItNW92X296TEFSc3B1eUNH?oc=5",
-          "source": "Google News Sports",
-          "kind": "rss",
-          "score": 55,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "mel gibson",
-      "topic": "mel gibson",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 160,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "mel gibson",
-          "url": "https://www.thescottishsun.co.uk/news/16660181/scots-conman-unmasked-flogging-tickets-mel-gibson-al-pacino/",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "florida james uthmeier says fauci probe could uncover",
-      "topic": "Florida AG James Uthmeier says Fauci probe could uncover grounds for criminal liability despite pardon",
-      "summary": "Florida Attorney General James Uthmeier says his office is examining fraud, deceptive trade practices, and public nuisance claims against Anthony Fauci.",
-      "category": "news",
-      "momentum": 159,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:17:02.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "Florida AG James Uthmeier says Fauci probe could uncover grounds for criminal liability despite pardon",
-          "url": "https://www.foxnews.com/media/florida-ag-james-uthmeier-says-fauci-probe-could-uncover-grounds-criminal-liability-despite-pardon",
-          "source": "Fox News",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "made google 2026 launch live pixel pixel pro",
-      "topic": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news",
-      "summary": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news androidcentral.com How Google’s Pixel 11 Pro Will Change S",
-      "category": "tech",
-      "momentum": 155,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:02:36.000Z",
-      "sourceCount": 1,
-      "engagement": 115,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnNFYXB1WDJabkZxOTFYcThHWmFjRzhLMHowQVA3ZWNQaU1mUDBldWd0TnRqVUpTZUJyYXB4dDh0azBBSnNtQ2dFeTFyQlFwLU1CdUJld1BQX0JPU2lJVTl3dU9CcGxUc1hCc2QwTEd1Rld0b0ZEQmtBUUQ2cnNfRENxMzNaaDMtaXdiaVVka1l3NjdOaF9qR1hRQmhGUjRaOENMUTlheFhtb3ZCOUQxOE5HYkZibEczQnpENmRZdExUMmJBaV85Ui1PRWlVOERxUFF6NEFB?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "zuckerberg faces questions over why superyacht reportedly declined",
-      "topic": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
-      "summary": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat The Guardian Cruise ship helps stranded skiff and crew in Southeast Ala",
-      "category": "business",
-      "momentum": 150,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:06:23.000Z",
-      "sourceCount": 2,
-      "engagement": 103,
-      "ageHours": 1.9,
-      "links": [
-        {
-          "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3FXUGcxTmNNNU0zUEVYNERpTGJyWThONjFVOVVlMG5OeF9TUzJmLXZISVNjUTNWLWFXdnhNYWlCVEMxREMwLVZ3dGNWY0RTSjZpV0NsdDVZcFh5ZTg5cmFQUmh2WXNNS3NrT21zcFBCQklXbm51NldDVWhDVXY0VDZ0a0dsb0RC?oc=5",
-          "source": "Google News Business",
-          "kind": "rss",
-          "score": 55,
-          "comments": 0
-        },
-        {
-          "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
-          "url": "https://www.theguardian.com/us-news/2026/aug/09/zuckerberg-superyacht-boat-alaska",
-          "source": "Guardian US",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "liv golf",
-      "topic": "liv golf",
-      "summary": "Trending search interest (AU).",
-      "category": "sports",
-      "momentum": 148,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "liv golf",
-          "url": "https://www.canberratimes.com.au/story/9326527/niemann-cools-off-in-new-york-but-hangs-on-to-liv-lead/",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "archers",
-      "topic": "The Archers",
-      "summary": "455 posts on Bluesky.",
-      "category": "entertainment",
-      "momentum": 146,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T18:10:32.921Z",
-      "sourceCount": 1,
-      "engagement": 308,
-      "ageHours": 2.8,
-      "links": [
-        {
-          "title": "The Archers",
-          "url": "https://bsky.app/search?q=The%20Archers",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 137,
-          "comments": 57
-        }
-      ]
-    },
-    {
-      "id": "brisbane weather",
-      "topic": "brisbane weather",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 144,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "brisbane weather",
-          "url": "https://www.couriermail.com.au/questnews/redlands/hyperlocal/heres-what-you-can-expect-with-todays-redlands-coast-weather/news-story/d34aa7239c2ffc77ac24bef180f64042",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 125,
           "comments": 0
         }
       ]
@@ -1451,360 +1437,110 @@
     {
       "id": "wildflowers",
       "topic": "Wildflowers",
-      "summary": "253 posts on Bluesky.",
+      "summary": "265 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 139,
+      "momentum": 123,
       "phase": "peaking",
       "firstSeen": "2026-08-09T19:11:33.212Z",
       "sourceCount": 1,
-      "engagement": 223,
-      "ageHours": 1.8,
+      "engagement": 227,
+      "ageHours": 2.2,
       "links": [
         {
           "title": "Wildflowers",
           "url": "https://bsky.app/search?q=Wildflowers",
           "source": "Bluesky",
           "kind": "bluesky",
-          "score": 127,
-          "comments": 32
+          "score": 128,
+          "comments": 33
         }
       ]
     },
     {
-      "id": "palestinians say netanyahu decision leaves clear path peace",
-      "topic": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-      "summary": "‘We're going backwards.’",
+      "id": "ukraine russia war latest zelensky accuses putin targeting",
+      "topic": "Ukraine-Russia war latest: Zelensky accuses Putin of targeting global food supplies with Odesa strike",
+      "summary": "Ukraine-Russia war latest: Zelensky accuses Putin of targeting global food supplies with Odesa strike The Independent Russian forces kill several in Ukraine, la",
       "category": "news",
-      "momentum": 133,
+      "momentum": 118,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:02:57.000Z",
+      "firstSeen": "2026-08-09T20:38:26.000Z",
       "sourceCount": 1,
-      "engagement": 48,
+      "engagement": 58,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Ukraine-Russia war latest: Zelensky accuses Putin of targeting global food supplies with Odesa strike",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFZWZDYyQUtoX0JtNVpYZl9KY2xNZ3dLLXdkZmZKOGdRenNtY3c0WWEzMDQxQXpBeDNjMEJLX09Rb0xOUllqTDlzVWdkVDJjNVZtUU1SVElqWm1takhZcm9MR0VGNmhoVXBkcmpDR29qUXlBaWNjdkZBUjRqVlJwczN6LS10M09Zczdranpuc183dXg3cFIxd2dHMkN0Y2JUa2FjVEhCT280T2t2YVBKa0RDYmc?oc=5",
+          "source": "Google News World",
+          "kind": "rss",
+          "score": 58,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "bob mortimer",
+      "topic": "bob mortimer",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 118,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "bob mortimer",
+          "url": "https://uk.news.yahoo.com/bob-mortimer-shares-heartfelt-wish-125400632.html",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "all just vapourware",
+      "topic": "Is it all just vapourware?",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 115,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T21:03:43.000Z",
+      "sourceCount": 1,
+      "engagement": 31,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Is it all just vapourware?",
+          "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 19,
+          "comments": 4
+        }
+      ]
+    },
+    {
+      "id": "phillies blue jays",
+      "topic": "phillies vs blue jays",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 115,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
       "ageHours": 0.9,
       "links": [
         {
-          "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-          "source": "Al Jazeera",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "van der valk season",
-      "topic": "van der valk season 4",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 133,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "van der valk season 4",
-          "url": "https://www.tvguide.co.uk/articles/van-der-valk-series-4-episode-2-cast-hope-in-amsterdam-downton-abbey-grace-stars/",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "student debt",
-      "topic": "student debt",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 133,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "student debt",
-          "url": "https://www.independent.co.uk/us/money/settlement-student-loan-borrower-defense-b3029575.html",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "video games 2010s that still look amazing today",
-      "topic": "10 Video Games From the 2010s That Still Look Amazing Today",
-      "summary": "10 Video Games From the 2010s That Still Look Amazing Today imdb.com",
-      "category": "games",
-      "momentum": 133,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:38.000Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "10 Video Games From the 2010s That Still Look Amazing Today",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GenRpaEx5Y1dyVE93eEdncEhkVUd1WGdvNWt6R3JJazF6cXhyY1cxNWg1VU53MWluaDZ3YTEyNjVZM1h3SS1OZHYwdFVXNGlwbkYwdkhHZ2dBcC1hbnAzOGRsdTRPZFE?oc=5",
-          "source": "Google News Games",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "plug solar panels starting sprout backyards",
-      "topic": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 126,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T18:51:57.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 2.1,
-      "links": [
-        {
-          "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
-          "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 46,
-          "comments": 30
-        }
-      ]
-    },
-    {
-      "id": "plus streaming steam deck",
-      "topic": "ps plus streaming steam deck",
-      "summary": "Trending search interest (GB).",
-      "category": "games",
-      "momentum": 126,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "ps plus streaming steam deck",
-          "url": "https://videocardz.com/newz/steam-deck-gets-one-of-ps-portals-key-features",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "climate scientist",
-      "topic": "Climate Scientist",
-      "summary": "134 posts on Bluesky.",
-      "category": "news",
-      "momentum": 122,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:05:33.609Z",
-      "sourceCount": 1,
-      "engagement": 167,
-      "ageHours": 1.9,
-      "links": [
-        {
-          "title": "Climate Scientist",
-          "url": "https://bsky.app/search?q=Climate%20Scientist",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 116,
-          "comments": 17
-        }
-      ]
-    },
-    {
-      "id": "what know about perez hilton hospitalization surgery needed",
-      "topic": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’",
-      "summary": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’ forbes.com Jared Padalecki Responds to Backlash for Perez Hilton",
-      "category": "news",
-      "momentum": 121,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:48:00.000Z",
-      "sourceCount": 1,
-      "engagement": 113,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ0QUdiV3BrQnpiVVFIREdjcHp1ZnI1OTlvMnk5Vy1lNlM0VFk3V1hjZ3FYMThCZFVuSkVfYkhxa3pDcXpEY3Q3WWpHbXE5VXlvaFlQczFGN2tkN0dJVkZ1LU96Z0pja1dRSFMyZk16T0hVMWFQcUNNeEM1M2xsb1pzY0JFd2JySjlMeE1kX0NNX09oSXRYZWVULWtNRDNCRjI2dkdnTWt0Q3dsdlE0bTBDR0Znbk9UV3VJVERlbjRGQ3dnUmI3dlhldXBydw?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "who dijonai carrington wnba star who smacked sophie",
-      "topic": "Who is DiJonai Carrington? WNBA star who smacked Sophie Cunningham, got ejected and blamed 'White privilege'",
-      "summary": "Who is DiJonai Carrington? WNBA star who smacked Sophie Cunningham, got ejected and blamed 'White privilege' Fox News Sky's Carrington tossed after hard foul on",
-      "category": "sports",
-      "momentum": 121,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T18:38:08.000Z",
-      "sourceCount": 2,
-      "engagement": 98,
-      "ageHours": 2.4,
-      "links": [
-        {
-          "title": "Who is DiJonai Carrington? WNBA star who smacked Sophie Cunningham, got ejected and blamed 'White privilege'",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHc0eXo5a0QtS0JOSV80OXVWcG5Malhuek9MTXkxc3lha2RubURkVG8yUVR6T2gtandySXNFSGt1a0pJWk9kQ2VFZTBIQkJJV1FINVJYc2Z3dDZYZEJMdXpQZklwVXN5NHBrRmFKa0RqRmpNcFNCLXNrTEV2bXVkaUlnY2thcjR0Y2xBR1dNOHVzTlBfdWpfd1c3UG9fTURYYURWd1BoellvdFp2NzJYc2k0aTJmTGpKQnloNkx4bl9DZw?oc=5",
-          "source": "Google News Sports",
-          "kind": "rss",
-          "score": 55,
-          "comments": 0
-        },
-        {
-          "title": "Who is DiJonai Carrington? WNBA star who smacked Sophie Cunningham, got ejected and blamed 'White privilege'",
-          "url": "https://www.foxnews.com/outkick-sports/dijonai-carrington-wnba-star-smacked-sophie-cunningham-ejected-blamed-white-privilege",
-          "source": "Fox News",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "news headlines",
-      "topic": "news headlines",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 120,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "news headlines",
-          "url": "https://www.abc.net.au/news/2026-08-10/gusty-winds-short-storms-for-south-east-qld/107014130",
+          "title": "phillies vs blue jays",
+          "url": "https://www.espn.com.au/video/clip/_/id/49564908/game-highlights",
           "source": "Google Trends AU",
           "kind": "googletrends",
           "score": 100,
           "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "wnba",
-      "topic": "wnba",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 118,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "wnba",
-          "url": "https://www.news.com.au/sport/basketball/nba/exnba-player-to-declare-for-wnba-draft-after-identifying-as-transgender/news-story/3236d8e1fb714136e637e9f6e2fb1c15",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "alina korneeva",
-      "topic": "alina korneeva",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 114,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "alina korneeva",
-          "url": "https://www.wtatennis.com/news/4555332/crafts-fan-alina-korneeva-is-rebuilding-her-career-after-injury-setbacks",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "karl urban",
-      "topic": "karl urban",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 114,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "karl urban",
-          "url": "https://screenrant.com/karl-urban-priest-movie-tubi-streaming-free-august-2026/",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "israel rejects trump point plan disarm hamas",
-      "topic": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
-      "category": "news",
-      "momentum": 112,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:48:53.000Z",
-      "sourceCount": 1,
-      "engagement": 103,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "miss north carolina usa said she lost her",
-      "topic": "Miss North Carolina USA said she lost her crown due to her faith. Then the racist posts surfaced.",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 110,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:40:58.026Z",
-      "sourceCount": 1,
-      "engagement": 55,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "Miss North Carolina USA said she lost her crown due to her faith. Then the racist posts surfaced.",
-          "url": "https://www.friendlyatheist.com/p/miss-north-carolina-usa-said-she",
-          "source": "Lemmy · atheism",
-          "kind": "lemmy",
-          "score": 34,
-          "comments": 7
         }
       ]
     },
@@ -1815,7 +1551,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1837,7 +1573,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1859,7 +1595,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1881,7 +1617,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1903,7 +1639,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1925,7 +1661,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1947,7 +1683,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1969,7 +1705,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -1991,7 +1727,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2013,7 +1749,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2035,7 +1771,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2051,35 +1787,13 @@
       ]
     },
     {
-      "id": "liverpool throw away another lead iraola loses first",
-      "topic": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
-      "summary": "Liverpool threw away another pre-season lead as Monaco came from behind to win 3-2 in Andoni Iraola's first game in charge at Anfield.",
-      "category": "games",
-      "momentum": 109,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
-      "sourceCount": 1,
-      "engagement": 23,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
-          "url": "https://www.skysports.com/football/liverpool-vs-monaco/report/556109",
-          "source": "Sky Sports",
-          "kind": "rss",
-          "score": 23,
-          "comments": 0
-        }
-      ]
-    },
-    {
       "id": "can miss hogh running rampant first half hat",
       "topic": "'He can't miss!' | Hogh running rampant with first-half hat-trick",
       "summary": "Hogh runs rampant with first-half hat-trick for Celtic.",
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:57:49.760Z",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2095,23 +1809,185 @@
       ]
     },
     {
-      "id": "ocasio cortez says she freezing her eggs still",
-      "topic": "Ocasio-Cortez Says She Is Freezing Her Eggs and Still Mulling a Presidential Run",
-      "summary": "In a TV interview, Representative Alexandria Ocasio-Cortez distanced herself from positions like “defund the police” and indicated she hasn’t ruled out a presid",
-      "category": "news",
-      "momentum": 104,
+      "id": "plug solar panels starting sprout backyards",
+      "topic": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-09T20:23:19.000Z",
+      "firstSeen": "2026-08-09T18:51:57.000Z",
       "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 0.6,
+      "engagement": 179,
+      "ageHours": 2.6,
       "links": [
         {
-          "title": "Ocasio-Cortez Says She Is Freezing Her Eggs and Still Mulling a Presidential Run",
-          "url": "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html",
-          "source": "NYTimes",
+          "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+          "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 56,
+          "comments": 41
+        }
+      ]
+    },
+    {
+      "id": "liverpool throw away another lead iraola loses first",
+      "topic": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
+      "summary": "Liverpool threw away another pre-season lead as Monaco came from behind to win 3-2 in Andoni Iraola's first game in charge at Anfield.",
+      "category": "games",
+      "momentum": 109,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T21:24:09.592Z",
+      "sourceCount": 1,
+      "engagement": 23,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
+          "url": "https://www.skysports.com/football/liverpool-vs-monaco/report/556109",
+          "source": "Sky Sports",
           "kind": "rss",
-          "score": 53,
+          "score": 23,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "jaden newman",
+      "topic": "jaden newman",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 108,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:20:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "jaden newman",
+          "url": "https://www.tmz.com/2026/08/07/julian-newman-addresses-alleged-jaden-newman-leak/",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "epl",
+      "topic": "epl",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 108,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:20:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "epl",
+          "url": "https://www.thedraftsociety.com/post/26-27-draft-fantasy-premier-league-value-per-round-analysis",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "made google 2026 launch live pixel pixel pro",
+      "topic": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news",
+      "summary": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news Android Central How Google’s Pixel 11 Pro Will Change Smar",
+      "category": "tech",
+      "momentum": 106,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:02:36.000Z",
+      "sourceCount": 1,
+      "engagement": 115,
+      "ageHours": 1.4,
+      "links": [
+        {
+          "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnNFYXB1WDJabkZxOTFYcThHWmFjRzhLMHowQVA3ZWNQaU1mUDBldWd0TnRqVUpTZUJyYXB4dDh0azBBSnNtQ2dFeTFyQlFwLU1CdUJld1BQX0JPU2lJVTl3dU9CcGxUc1hCc2QwTEd1Rld0b0ZEQmtBUUQ2cnNfRENxMzNaaDMtaXdiaVVka1l3NjdOaF9qR1hRQmhGUjRaOENMUTlheFhtb3ZCOUQxOE5HYkZibEczQnpENmRZdExUMmJBaV85Ui1PRWlVOERxUFF6NEFB?oc=5",
+          "source": "Google News",
+          "kind": "rss",
+          "score": 60,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "iran says strait won open until corrects behavior",
+      "topic": "Iran says strait won't open until the U.S. \"corrects\" behavior",
+      "summary": "The United Arab Emirates' Abu Dhabi National Oil Company said one of its ships was targeted while transiting the strait.",
+      "category": "news",
+      "momentum": 103,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:18:57.000Z",
+      "sourceCount": 1,
+      "engagement": 90,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "Iran says strait won't open until the U.S. \"corrects\" behavior",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "climate scientist",
+      "topic": "Climate Scientist",
+      "summary": "167 posts on Bluesky.",
+      "category": "news",
+      "momentum": 102,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T19:05:33.609Z",
+      "sourceCount": 1,
+      "engagement": 183,
+      "ageHours": 2.3,
+      "links": [
+        {
+          "title": "Climate Scientist",
+          "url": "https://bsky.app/search?q=Climate%20Scientist",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 120,
+          "comments": 21
+        }
+      ]
+    },
+    {
+      "id": "netanyahu rejects trump backed gaza plan hamas disarmament",
+      "topic": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+      "summary": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal The Washington Post Israel Rejects Trump’s 15-Point Plan to Disarm Hamas The",
+      "category": "news",
+      "momentum": 97,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:01:50.000Z",
+      "sourceCount": 2,
+      "engagement": 106,
+      "ageHours": 1.4,
+      "links": [
+        {
+          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHJIQ1JLMkZjdHl3bWRsWlFvV0JHdWt2S2xvYU40dV90MDNpRHBqUWY1LS1uVGRKRnJsTko4TFhZOEJ3NHNlTzljSzQ4Mm9YN2JaQnA5R2dSak1sUDctRDd4T1dlUjZFMF9UelkyOFh1RllaMENfM2ZOcTg2bnlRZWszZ2JzeVRXLXYxVkxucHBFODlFU3BuSUFZei1LQndaY2RMZGl3ZFc5ZThCQVpvRUlVUk9idw?oc=5",
+          "source": "Google News World",
+          "kind": "rss",
+          "score": 58,
+          "comments": 0
+        },
+        {
+          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+          "url": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/",
+          "source": "Washington Post",
+          "kind": "rss",
+          "score": 48,
           "comments": 0
         }
       ]
@@ -2119,88 +1995,198 @@
     {
       "id": "don nelson",
       "topic": "Don Nelson",
-      "summary": "273 posts on Bluesky.",
+      "summary": "302 posts on Bluesky.",
       "category": "sports",
-      "momentum": 102,
+      "momentum": 93,
       "phase": "peaking",
       "firstSeen": "2026-08-09T18:06:33.852Z",
       "sourceCount": 1,
-      "engagement": 230,
-      "ageHours": 2.9,
+      "engagement": 244,
+      "ageHours": 3.3,
       "links": [
         {
           "title": "Don Nelson",
           "url": "https://bsky.app/search?q=Don%20Nelson",
           "source": "Bluesky",
           "kind": "bluesky",
-          "score": 128,
-          "comments": 34
-        }
-      ]
-    },
-    {
-      "id": "everything you being recorded",
-      "topic": "Everything you do is being recorded",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 100,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T11:30:48.000Z",
-      "sourceCount": 1,
-      "engagement": 467,
-      "ageHours": 9.5,
-      "links": [
-        {
-          "title": "Everything you do is being recorded",
-          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 122,
-          "comments": 115
-        }
-      ]
-    },
-    {
-      "id": "fcc moves ban lidar equipped foreign drones",
-      "topic": "FCC moves to ban Lidar-equipped foreign drones from US",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 100,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T16:24:59.000Z",
-      "sourceCount": 1,
-      "engagement": 301,
-      "ageHours": 4.6,
-      "links": [
-        {
-          "title": "FCC moves to ban Lidar-equipped foreign drones from US",
-          "url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 94,
-          "comments": 69
+          "score": 130,
+          "comments": 38
         }
       ]
     },
     {
       "id": "todd blanche",
       "topic": "Todd Blanche",
-      "summary": "313 posts on Bluesky.",
+      "summary": "343 posts on Bluesky.",
       "category": "entertainment",
-      "momentum": 99,
+      "momentum": 89,
       "phase": "peaking",
       "firstSeen": "2026-08-09T17:45:33.624Z",
       "sourceCount": 1,
-      "engagement": 247,
-      "ageHours": 3.2,
+      "engagement": 261,
+      "ageHours": 3.7,
       "links": [
         {
           "title": "Todd Blanche",
           "url": "https://bsky.app/search?q=Todd%20Blanche",
           "source": "Bluesky",
           "kind": "bluesky",
-          "score": 130,
-          "comments": 39
+          "score": 132,
+          "comments": 43
+        }
+      ]
+    },
+    {
+      "id": "israel rejects trump point plan gaza stoking tensions",
+      "topic": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US",
+      "summary": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US Al Jazeera Netanyahu Rejects Trump’s Plan to Disarm Hamas The New York Times Netanyahu r",
+      "category": "news",
+      "momentum": 89,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:37:30.000Z",
+      "sourceCount": 1,
+      "engagement": 60,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
+          "source": "Google News",
+          "kind": "rss",
+          "score": 60,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "what know about perez hilton hospitalization surgery needed",
+      "topic": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’",
+      "summary": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’ forbes.com Jared Padalecki apologizes for supporting Perez Hilton",
+      "category": "news",
+      "momentum": 88,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T19:48:00.000Z",
+      "sourceCount": 1,
+      "engagement": 113,
+      "ageHours": 1.6,
+      "links": [
+        {
+          "title": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ0QUdiV3BrQnpiVVFIREdjcHp1ZnI1OTlvMnk5Vy1lNlM0VFk3V1hjZ3FYMThCZFVuSkVfYkhxa3pDcXpEY3Q3WWpHbXE5VXlvaFlQczFGN2tkN0dJVkZ1LU96Z0pja1dRSFMyZk16T0hVMWFQcUNNeEM1M2xsb1pzY0JFd2JySjlMeE1kX0NNX09oSXRYZWVULWtNRDNCRjI2dkdnTWt0Q3dsdlE0bTBDR0Znbk9UV3VJVERlbjRGQ3dnUmI3dlhldXBydw?oc=5",
+          "source": "Google News",
+          "kind": "rss",
+          "score": 60,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "ukraine russia war latest kyiv unleashes wave nearly",
+      "topic": "Ukraine-Russia war latest: Kyiv unleashes wave of nearly 300 drones in 12 hours, says Moscow",
+      "summary": "Ukraine and Russia accused each other of deadly attacks on Sunday",
+      "category": "news",
+      "momentum": 87,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:50:46.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "Ukraine-Russia war latest: Kyiv unleashes wave of nearly 300 drones in 12 hours, says Moscow",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-nato-drone-strikes-b3029907.html",
+          "source": "Independent",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "aspiruletions",
+      "topic": "Aspiruletions",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 87,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:29:26.238Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.9,
+      "links": [
+        {
+          "title": "Aspiruletions",
+          "url": "https://crazypeople.online/pictrs/image/a653eb34-a4d7-4e0d-8d84-6520fadcca95.png",
+          "source": "Lemmy · onehundredninetysix",
+          "kind": "lemmy",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "don nelson second winningest nba coach who won",
+      "topic": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86",
+      "summary": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86 AP News Don Nelson, second-winningest coach in NBA history, dies at 86",
+      "category": "sports",
+      "momentum": 85,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T19:39:00.000Z",
+      "sourceCount": 1,
+      "engagement": 118,
+      "ageHours": 1.8,
+      "links": [
+        {
+          "title": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEhpV2ZGcF9TOGdsV3FOc2pLVGt6d3ZPSmhlWS1CVjVyLXhHRVdMRHBmckhRRDRINm83bHJnbDg5eXJhRDlrSXdISDkxVHRRN1UwOURvX2FiWW5vOFRUbWt2RUpQM3NPOWFQT2NvelZveXZ2dWlQMDREUy1NanI5MGRtbDRrNzlvbDVDZUhB?oc=5",
+          "source": "Google News",
+          "kind": "rss",
+          "score": 60,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "don nelson former nba coach time champion player",
+      "topic": "Don Nelson, former NBA coach and 5-time champion as a player, dies at 86",
+      "summary": "Don Nelson was one of two coaches in NBA history to have at least 250 wins with three different franchises — Milwaukee, Dallas and Golden State.",
+      "category": "sports",
+      "momentum": 85,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:48:13.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "Don Nelson, former NBA coach and 5-time champion as a player, dies at 86",
+          "url": "https://www.cbsnews.com/news/don-nelson-nba-coach-champion-die/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "kyle sandilands",
+      "topic": "kyle sandilands",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 85,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "kyle sandilands",
+          "url": "https://www.domain.com.au/news/kyle-sandilands-weighs-offers-on-5m-estate-amid-portfolio-reset-1541592/",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
         }
       ]
     },
@@ -2209,12 +2195,12 @@
       "topic": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
       "summary": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary The New York Times Abdul El-Sayed embraces Trump claim he represents ‘very differe",
       "category": "news",
-      "momentum": 99,
+      "momentum": 83,
       "phase": "peaking",
       "firstSeen": "2026-08-09T18:38:03.000Z",
       "sourceCount": 2,
       "engagement": 171,
-      "ageHours": 2.4,
+      "ageHours": 2.8,
       "links": [
         {
           "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
@@ -2235,227 +2221,21 @@
       ]
     },
     {
-      "id": "definitely cares rule",
-      "topic": "Definitely cares rule",
+      "id": "phillies give former players their moonlight moment ode",
+      "topic": "Phillies give 4 former players their 'Moonlight' moment in ode to Field of Dreams",
       "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 88,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T19:31:41.583Z",
-      "sourceCount": 1,
-      "engagement": 49,
-      "ageHours": 1.5,
-      "links": [
-        {
-          "title": "Definitely cares rule",
-          "url": "https://discuss.online/pictrs/image/467cdda7-1f59-426c-8f84-b076882f3958.jpeg",
-          "source": "Lemmy · onehundredninetysix",
-          "kind": "lemmy",
-          "score": 46,
-          "comments": 1
-        }
-      ]
-    },
-    {
-      "id": "taxi drivers rarely die alzheimer",
-      "topic": "Taxi drivers rarely die of Alzheimer's",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 81,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T15:21:46.000Z",
-      "sourceCount": 1,
-      "engagement": 281,
-      "ageHours": 5.6,
-      "links": [
-        {
-          "title": "Taxi drivers rarely die of Alzheimer's",
-          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 74,
-          "comments": 69
-        }
-      ]
-    },
-    {
-      "id": "man arrested after boat capsizes near statue liberty",
-      "topic": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "summary": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant BBC Mother, child killed when boat overturns off Liberty Island ABC7 New York W",
-      "category": "news",
-      "momentum": 81,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T16:46:18.000Z",
-      "sourceCount": 2,
-      "engagement": 161,
-      "ageHours": 4.2,
-      "links": [
-        {
-          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wRFZRWjR4ZFVkSW00eXlCbVhpekxGX1RNRmlmSnJCdzUza3FPWVIxczVCeTB2SUhRRjZ2R1FpazNLOXR5Y2lXMDVNZDh3U0ttMlVqVndmZzYtZw?oc=5",
-          "source": "Google News US",
-          "kind": "rss",
-          "score": 58,
-          "comments": 0
-        },
-        {
-          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-          "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "back business baby",
-      "topic": "Back in business, baby!",
-      "summary": "TNG s2e19 \"Manhunt\"",
-      "category": "news",
-      "momentum": 80,
-      "phase": "peaking",
-      "firstSeen": "2026-08-09T20:26:41.779Z",
-      "sourceCount": 1,
-      "engagement": 32,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Back in business, baby!",
-          "url": "https://lemmy.world/pictrs/image/a5ba3fc1-4817-466a-93ac-aec64478cf8e.gif",
-          "source": "Lemmy · tenforward",
-          "kind": "lemmy",
-          "score": 26,
-          "comments": 2
-        }
-      ]
-    },
-    {
-      "id": "book discussions",
-      "topic": "Book Discussions",
-      "summary": "875 posts on Bluesky.",
-      "category": "entertainment",
-      "momentum": 79,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T13:26:32.806Z",
-      "sourceCount": 1,
-      "engagement": 475,
-      "ageHours": 7.5,
-      "links": [
-        {
-          "title": "Book Discussions",
-          "url": "https://bsky.app/search?q=Book%20Discussions",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 148,
-          "comments": 109
-        }
-      ]
-    },
-    {
-      "id": "openchamber agentic development environment",
-      "topic": "OpenChamber: An Agentic Development Environment",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 76,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T17:27:16.000Z",
-      "sourceCount": 1,
-      "engagement": 188,
-      "ageHours": 3.5,
-      "links": [
-        {
-          "title": "OpenChamber: An Agentic Development Environment",
-          "url": "https://openchamber.dev/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 65,
-          "comments": 41
-        }
-      ]
-    },
-    {
-      "id": "coco gauff",
-      "topic": "coco gauff",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 75,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T20:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "coco gauff",
-          "url": "https://www.flashscore.co.uk/match/tennis/gauff-coco-f5BXmEH6/korneeva-alina-OlQsiYlU/",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 125,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "aspiruletions",
-      "topic": "Aspiruletions",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 74,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T20:29:26.238Z",
-      "sourceCount": 1,
-      "engagement": 27,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Aspiruletions",
-          "url": "https://crazypeople.online/pictrs/image/a653eb34-a4d7-4e0d-8d84-6520fadcca95.png",
-          "source": "Lemmy · onehundredninetysix",
-          "kind": "lemmy",
-          "score": 27,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "iran says oman deal final stages but must",
-      "topic": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-      "summary": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz Reuters Iran, Holding Firm to Hormuz, Pushes for Return to June MOU The New York Times I",
-      "category": "news",
-      "momentum": 73,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T18:55:32.000Z",
-      "sourceCount": 1,
-      "engagement": 118,
-      "ageHours": 2.1,
-      "links": [
-        {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "sunrisers thump fire close qualification",
-      "topic": "Sunrisers thump Fire to close in on qualification",
-      "summary": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a 71-run win over Welsh Fire, while a 101-run partnership helps Lon",
       "category": "sports",
-      "momentum": 73,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T20:15:45.000Z",
+      "momentum": 82,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:46:44.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.7,
       "links": [
         {
-          "title": "Sunrisers thump Fire to close in on qualification",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport",
+          "title": "Phillies give 4 former players their 'Moonlight' moment in ode to Field of Dreams",
+          "url": "https://www.mlb.com/news/phillies-host-former-players-in-ode-to-moonlight-graham-from-field-of-dreams",
+          "source": "MLB.com",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -2463,45 +2243,155 @@
       ]
     },
     {
-      "id": "greeting ceo",
-      "topic": "greeting a CEO",
-      "summary": "cross-posted from: https://sh.itjust.works/post/64780888 > Cross posted from https://lemmy.blahaj.zone/post/46398896",
-      "category": "business",
-      "momentum": 72,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T19:23:16.761Z",
+      "id": "anyone wants print their own playstation discs they",
+      "topic": "If Anyone Wants To Print Their Own PlayStation Discs They’ll Need To Overcome Sony’s Wall Of Silence",
+      "summary": "While PlayStation seems committed to ending their physical copies, I wouldn’t hold my breath for a massive homebrew scene to fill the void in the immediate futu",
+      "category": "games",
+      "momentum": 82,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:51:08.000Z",
       "sourceCount": 1,
-      "engagement": 59,
+      "engagement": 40,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "If Anyone Wants To Print Their Own PlayStation Discs They’ll Need To Overcome Sony’s Wall Of Silence",
+          "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
+          "source": "Kotaku",
+          "kind": "rss",
+          "score": 40,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "israel rejects trump point plan disarm hamas",
+      "topic": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
+      "category": "news",
+      "momentum": 81,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T19:48:53.000Z",
+      "sourceCount": 1,
+      "engagement": 103,
       "ageHours": 1.6,
       "links": [
         {
-          "title": "greeting a CEO",
-          "url": "https://lemmy.blahaj.zone/pictrs/image/72c389e8-fe9e-458f-9098-29f1b7f8d885.webp",
-          "source": "Lemmy · programmer_humor",
-          "kind": "lemmy",
-          "score": 50,
-          "comments": 3
+          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "america deserved meet press host pushes sayed hasan",
+      "topic": "‘America deserved 9/11?’: Meet the Press host pushes El-Sayed on Hasan Piker",
+      "summary": "After Michigan primary win, Abdul El-Sayed knocks ‘cancel culture’ attempts to force him to disavow controversial ally Hasan Piker",
+      "category": "news",
+      "momentum": 81,
+      "phase": "peaking",
+      "firstSeen": "2026-08-09T20:47:48.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "‘America deserved 9/11?’: Meet the Press host pushes El-Sayed on Hasan Piker",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/nbc-abdul-el-sayed-hasan-michigan-b3030054.html",
+          "source": "Independent",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "book discussions",
+      "topic": "Book Discussions",
+      "summary": "924 posts on Bluesky.",
+      "category": "entertainment",
+      "momentum": 77,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T13:26:32.806Z",
+      "sourceCount": 1,
+      "engagement": 497,
+      "ageHours": 8,
+      "links": [
+        {
+          "title": "Book Discussions",
+          "url": "https://bsky.app/search?q=Book%20Discussions",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 149,
+          "comments": 116
+        }
+      ]
+    },
+    {
+      "id": "australia news live frydenberg reveals will not appear",
+      "topic": "Australia news LIVE: Frydenberg reveals he will not appear before Royal Commission; Coalition accuses Labor of funding ‘ghettoisation’ of migrant communities",
+      "summary": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "category": "news",
+      "momentum": 77,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:45:54.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "Australia news LIVE: Frydenberg reveals he will not appear before Royal Commission; Coalition accuses Labor of funding ‘ghettoisation’ of migrant communities",
+          "url": "https://www.smh.com.au/national/australia-news-live-frydenberg-reveals-he-will-not-appear-before-royal-commission-coalition-accuses-labor-of-funding-ghettoisation-of-migrant-communities-20260810-p60mt0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "cyclospora fears sending shoppers farmers markets local produce",
+      "topic": "Cyclospora fears are sending shoppers to farmers markets for local produce",
+      "summary": "Ohio farmers markets are selling out of locally grown lettuce within minutes as the cyclospora outbreak drives shoppers away from grocery stores.",
+      "category": "business",
+      "momentum": 76,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:45:16.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "Cyclospora fears are sending shoppers to farmers markets for local produce",
+          "url": "https://www.foxnews.com/food-drink/cyclospora-fears-sending-shoppers-farmers-markets-local-produce",
+          "source": "Fox News",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
         }
       ]
     },
     {
       "id": "puerto rico rations water supplies due intense drought",
       "topic": "Puerto Rico rations water supplies due to intense drought",
-      "summary": "Puerto Rico rations water supplies due to intense drought BBC Hundreds of thousands of people in Puerto Rico wake up with no running water as rationing begins:",
+      "summary": "Puerto Rico rations water supplies due to intense drought bbc.com Hundreds of thousands of people in Puerto Rico wake up with no running water as rationing begi",
       "category": "news",
-      "momentum": 70,
+      "momentum": 76,
       "phase": "fading",
       "firstSeen": "2026-08-09T16:43:23.000Z",
       "sourceCount": 2,
-      "engagement": 108,
-      "ageHours": 4.3,
+      "engagement": 168,
+      "ageHours": 4.7,
       "links": [
         {
           "title": "Puerto Rico rations water supplies due to intense drought",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXLXZRN2dtN1dpQXk0V25TVlh4OWlqZWVTaTlTcC1UNnhta2swb0sxT2VHdHpURlI1VHMtRnBQanVnNkZVX2k1YUc2N2wxOTM0OHZzV2lobjh3Zw?oc=5",
-          "source": "Google News World",
+          "source": "Google News",
           "kind": "rss",
-          "score": 58,
+          "score": 60,
           "comments": 0
         },
         {
@@ -2515,86 +2405,86 @@
       ]
     },
     {
-      "id": "not every mount barker business reaping boom town",
-      "topic": "Not every Mount Barker business is reaping the boom town benefit",
-      "summary": "Mount Barker is one of South Australia's fastest-growing districts, but while some businesses are excited about the prospect of more customers, others are compe",
-      "category": "news",
-      "momentum": 70,
+      "id": "taxi drivers rarely die alzheimer",
+      "topic": "Taxi drivers rarely die of Alzheimer's",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 75,
       "phase": "fading",
-      "firstSeen": "2026-08-09T20:13:40.000Z",
+      "firstSeen": "2026-08-09T15:21:46.000Z",
       "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.8,
+      "engagement": 329,
+      "ageHours": 6.1,
       "links": [
         {
-          "title": "Not every Mount Barker business is reaping the boom town benefit",
-          "url": "https://www.abc.net.au/news/2026-08-10/mount-barker-is-growing-but-not-all-businesses-are-booming/107003234",
-          "source": "ABC News AU",
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 92,
+          "comments": 79
+        }
+      ]
+    },
+    {
+      "id": "anthony bourdain biopic top 2026 limited opening jane",
+      "topic": "Anthony Bourdain Biopic Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
+      "summary": "Independents posted impressive numbers this weekend, another good one for moviegoing but competitive with blockbuster commercial films in the marketplace. Tony",
+      "category": "entertainment",
+      "momentum": 75,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:45:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "Anthony Bourdain Biopic Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
+          "url": "https://deadline.com/2026/08/indie-film-box-office-bourdain-biopic-top-2026-limited-opening-1237029670/",
+          "source": "Deadline",
           "kind": "rss",
-          "score": 45,
+          "score": 43,
           "comments": 0
         }
       ]
     },
     {
-      "id": "pack poncho gusty winds short storms south east",
-      "topic": "'Pack a poncho': Gusty winds and short storms for south-east corner",
-      "summary": "South-eastern and central Queensland may see thunderstorms on Monday, with strong winds and short, sharp rainfall with \"meagre\" totals. With some regions enjoyi",
-      "category": "news",
-      "momentum": 70,
+      "id": "ransomware gangs skip ceo head straight something manager",
+      "topic": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "business",
+      "momentum": 71,
       "phase": "fading",
-      "firstSeen": "2026-08-09T20:13:34.000Z",
+      "firstSeen": "2026-08-09T19:20:40.000Z",
       "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.8,
+      "engagement": 102,
+      "ageHours": 2.1,
       "links": [
         {
-          "title": "'Pack a poncho': Gusty winds and short storms for south-east corner",
-          "url": "https://www.abc.net.au/news/2026-08-10/gusty-winds-short-storms-for-south-east-qld/107014130",
-          "source": "ABC News AU",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
+          "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+          "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 51,
+          "comments": 17
         }
       ]
     },
     {
-      "id": "warren buffett",
-      "topic": "warren buffett",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 70,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T19:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "warren buffett",
-          "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "schlittler rebounds worst start one his best braves",
-      "topic": "Schlittler rebounds from worst start of '26 with one of his best vs. Braves",
+      "id": "mets bats break out hit run outburst keep",
+      "topic": "Mets' bats break out for 15-hit, 11-run outburst to keep rolling",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "sports",
-      "momentum": 66,
+      "momentum": 70,
       "phase": "fading",
-      "firstSeen": "2026-08-09T20:11:00.000Z",
+      "firstSeen": "2026-08-09T20:39:54.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.8,
       "links": [
         {
-          "title": "Schlittler rebounds from worst start of '26 with one of his best vs. Braves",
-          "url": "https://www.mlb.com/news/cam-schlittler-pitches-7-strong-innings-against-braves",
+          "title": "Mets' bats break out for 15-hit, 11-run outburst to keep rolling",
+          "url": "https://www.mlb.com/news/mets-score-11-runs-to-win-series-vs-pirates",
           "source": "MLB.com",
           "kind": "rss",
           "score": 45,
@@ -2603,42 +2493,130 @@
       ]
     },
     {
-      "id": "experience goal then you always win",
-      "topic": "If experience is the goal, then you always win",
+      "id": "wagner moura compares netflix last house his hope",
+      "topic": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
+      "summary": "SPOILERS: This post contains details about the Netflix movie The Last House As Wagner Moura traps fans at home with his new movie The Last House, he can’t help",
+      "category": "entertainment",
+      "momentum": 66,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:39:40.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
+          "url": "https://deadline.com/2026/08/wagner-moura-the-last-house-hope-world-change-covid-1237029686/",
+          "source": "Deadline",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "embattled hedge fund situational awareness invests 400m chip",
+      "topic": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "category": "tech",
+      "momentum": 63,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:35:17.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "source": "TechCrunch",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "taiwan annual war games underway amid tensions china",
+      "topic": "Taiwan annual war games underway amid tensions with China",
+      "summary": "Taiwan annual war games underway amid tensions with China foxnews.com",
+      "category": "games",
+      "momentum": 63,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:28:54.000Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 0.9,
+      "links": [
+        {
+          "title": "Taiwan annual war games underway amid tensions with China",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TQXlTSG1Ecm5OTWxtU1p1azJ3ZGMzRmN5VEJ6ckF0Q3NEU2IwSTQwdXFqZXJOdkZrU1FWUnVJSDVfdmRUTlFWdzdBQ1BVUkxKdnJqNTN3?oc=5",
+          "source": "Google News Games",
+          "kind": "rss",
+          "score": 50,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "openchamber agentic development environment",
+      "topic": "OpenChamber: An Agentic Development Environment",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
       "momentum": 62,
       "phase": "fading",
-      "firstSeen": "2026-08-09T18:42:09.000Z",
+      "firstSeen": "2026-08-09T17:27:16.000Z",
       "sourceCount": 1,
-      "engagement": 54,
-      "ageHours": 2.3,
+      "engagement": 197,
+      "ageHours": 4,
       "links": [
         {
-          "title": "If experience is the goal, then you always win",
-          "url": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
+          "title": "OpenChamber: An Agentic Development Environment",
+          "url": "https://openchamber.dev/",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 36,
-          "comments": 6
+          "score": 71,
+          "comments": 42
         }
       ]
     },
     {
-      "id": "miz blazes his way 200 faster than all",
-      "topic": "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
+      "id": "everything you being recorded",
+      "topic": "Everything you do is being recorded",
       "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "sports",
+      "category": "tech",
       "momentum": 61,
       "phase": "fading",
-      "firstSeen": "2026-08-09T20:07:00.000Z",
+      "firstSeen": "2026-08-09T11:30:48.000Z",
+      "sourceCount": 1,
+      "engagement": 488,
+      "ageHours": 9.9,
+      "links": [
+        {
+          "title": "Everything you do is being recorded",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 131,
+          "comments": 119
+        }
+      ]
+    },
+    {
+      "id": "braves win inning pitchers duel avoid bronx sweep",
+      "topic": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "sports",
+      "momentum": 58,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:30:29.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.9,
       "links": [
         {
-          "title": "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
-          "url": "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
+          "title": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
+          "url": "https://www.mlb.com/news/grant-holmes-pitches-6-scoreless-innings-in-win-over-yankees",
           "source": "MLB.com",
           "kind": "rss",
           "score": 45,
@@ -2647,117 +2625,51 @@
       ]
     },
     {
-      "id": "most accounts posting about belfast southampton unrest were",
-      "topic": "Most X accounts posting about Belfast and Southampton unrest were based outside UK",
-      "summary": "Exclusive: Analysis shows 55% of accounts were overseas – and seven of 12 most-read posts came from US",
-      "category": "news",
-      "momentum": 61,
+      "id": "zuckerberg faces questions over why superyacht reportedly declined",
+      "topic": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
+      "summary": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat The Guardian Cruise ship helps stranded skiff and crew in Southeast Ala",
+      "category": "business",
+      "momentum": 57,
       "phase": "fading",
-      "firstSeen": "2026-08-09T14:00:55.000Z",
-      "sourceCount": 1,
-      "engagement": 283,
-      "ageHours": 7,
-      "links": [
-        {
-          "title": "Most X accounts posting about Belfast and Southampton unrest were based outside UK",
-          "url": "https://www.theguardian.com/world/2026/aug/09/x-accounts-posts-belfast-southampton-riots-june-2026-analysis",
-          "source": "Mastodon · The Guardian",
-          "kind": "mastodon",
-          "score": 97,
-          "comments": 62
-        }
-      ]
-    },
-    {
-      "id": "yemen houthis target saudi aramco facility amid iran",
-      "topic": "Yemen’s Houthis target Saudi Aramco facility amid Iran war",
-      "summary": "Yemen’s Houthis target Saudi Aramco facility amid Iran war Fox News Yemen's Houthis attack Saudi refinery after kingdom signs defence pact Reuters World in Brie",
-      "category": "news",
-      "momentum": 60,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T19:50:16.000Z",
-      "sourceCount": 1,
-      "engagement": 58,
-      "ageHours": 1.2,
-      "links": [
-        {
-          "title": "Yemen’s Houthis target Saudi Aramco facility amid Iran war",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04Y1dvM0R6LVdyRHBiakdGbEE0TUxyZGQ2ZzJ1TENwT3ZDSU9zVmVPdFNJZFhZdk9WazZjNzZ1bWp4NHBHb2ZLM00zdjZuakdEQWx3V2hpMVpodHhURi1vMDVuQUNMcUFFaktiRm45dHo5VFlhcm9Tc0pVaw?oc=5",
-          "source": "Google News World",
-          "kind": "rss",
-          "score": 58,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "iran taps longtime commander mohsen rezaei top security",
-      "topic": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
-      "summary": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post The New York Times Khamenei appoints two formational IRGC leaders to senior political p",
-      "category": "news",
-      "momentum": 60,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T18:18:22.000Z",
+      "firstSeen": "2026-08-09T19:06:23.000Z",
       "sourceCount": 2,
-      "engagement": 161,
-      "ageHours": 2.7,
+      "engagement": 103,
+      "ageHours": 2.3,
       "links": [
         {
-          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTBPR3o2SktiSEZibkJVOERvb3hxZTlOWWFkWjlEUU1sMmlTY3NXd3MxM293N3RGOHN0LTJLclBfRGJDX3drdzlBbExzLW83bTBlQVo3V2dMN1pjN1lFdUkxVEFoT3I0MThrRG9ZUFRIMVRFVHlKRWszcEwtNFFTMDRDdEN0VFpiOUF5ZGNwZVVRek1QTnMxVkJxNA?oc=5",
-          "source": "Google News World",
+          "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3FXUGcxTmNNNU0zUEVYNERpTGJyWThONjFVOVVlMG5OeF9TUzJmLXZISVNjUTNWLWFXdnhNYWlCVEMxREMwLVZ3dGNWY0RTSjZpV0NsdDVZcFh5ZTg5cmFQUmh2WXNNS3NrT21zcFBCQklXbm51NldDVWhDVXY0VDZ0a0dsb0RC?oc=5",
+          "source": "Google News Business",
           "kind": "rss",
-          "score": 58,
+          "score": 55,
           "comments": 0
         },
         {
-          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
-          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
-          "source": "NYTimes",
+          "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
+          "url": "https://www.theguardian.com/us-news/2026/aug/09/zuckerberg-superyacht-boat-alaska",
+          "source": "Guardian US",
           "kind": "rss",
-          "score": 53,
+          "score": 48,
           "comments": 0
         }
       ]
     },
     {
-      "id": "highlander star christopher lambert leaves pittsburgh fan convention",
-      "topic": "‘Highlander’ star Christopher Lambert leaves Pittsburgh fan convention early after health scare",
-      "summary": "‘Highlander’ star Christopher Lambert leaves Pittsburgh fan convention early after health scare NBC NewsSee more headlines & perspectives on Google News",
-      "category": "entertainment",
-      "momentum": 58,
+      "id": "blizzard reportedly leads xbox top performing studio thanks",
+      "topic": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+      "summary": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
+      "category": "games",
+      "momentum": 57,
       "phase": "fading",
-      "firstSeen": "2026-08-09T18:37:25.000Z",
-      "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 2.4,
-      "links": [
-        {
-          "title": "‘Highlander’ star Christopher Lambert leaves Pittsburgh fan convention early after health scare",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1FObzk0dldUTi1qMV8zWTlQQXYycVpOb1RLWVVIUmhxazdhc0lLU3pRNjgzTXlvanFldUY2aUxkV1pCaEpCTE1rOVp5UzBXM2pXdmtpbUJkaU9pMkp0V1JId1otU3V4SF8yQVRpd0J6NUgzTTl5VTNRS2F1LUpoekgxSmk3Y3VWYjNmRDdVcERJUXUzck5UeV94NXlJMW9wZFduOU1jRWFGS3NmRGxKejNRTVZfNVJhRDlVZ2JfZWJTWUpOdEVwejVzTHIzQzA?oc=5",
-          "source": "Google News Entertainment",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "licence play new wallabies coach backing players attack",
-      "topic": "'Licence to play': New Wallabies coach backing players in attack",
-      "summary": "The Wallabies commit to having a crack after being given a \"licence to play\" by new coach Les Kiss, having avoided an Osaka disaster.",
-      "category": "news",
-      "momentum": 58,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T20:04:33.000Z",
+      "firstSeen": "2026-08-09T20:29:23.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.9,
       "links": [
         {
-          "title": "'Licence to play': New Wallabies coach backing players in attack",
-          "url": "https://www.abc.net.au/news/2026-08-10/wallabies-encouraged-after-winning-first-test-japan/107014604",
-          "source": "ABC News AU",
+          "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+          "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
+          "source": "IGN",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -2765,112 +2677,112 @@
       ]
     },
     {
-      "id": "rare nintendo cartridges discovered waukesha storage box",
-      "topic": "Rare Nintendo cartridges discovered in Waukesha storage box",
-      "summary": "Rare Nintendo cartridges discovered in Waukesha storage box WISN Rare Super Mario games found in Wisconsin FOX6 News Milwaukee Rare Nintendo cartridges of Super",
-      "category": "games",
-      "momentum": 57,
+      "id": "dogs space music history podcast true obsessives",
+      "topic": "No Dogs in Space is a music history podcast for true obsessives",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three,",
+      "category": "entertainment",
+      "momentum": 56,
       "phase": "fading",
-      "firstSeen": "2026-08-09T16:29:00.000Z",
+      "firstSeen": "2026-08-09T20:28:31.000Z",
       "sourceCount": 1,
-      "engagement": 105,
-      "ageHours": 4.5,
+      "engagement": 45,
+      "ageHours": 1,
       "links": [
         {
-          "title": "Rare Nintendo cartridges discovered in Waukesha storage box",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWRxVXlpRzF6MDhZdTFNVEpqandkdzE4MXRieTNlS3pmRHA3OFB3c3UwSEZFWTVLM0UxTzJzV21LaXJ2dGprOFpmNVAzMnUzLWhPdU9tWXNKeUFVUG94aEFnUGdYNEcxYjQ1bUZsbW5LNnJhQk5RaERjRFIzbGt4d2Uzd1FMbW1uMVRqR0hhckFQRS16LXBHODBTaE9nUQ?oc=5",
-          "source": "Google News Tech",
+          "title": "No Dogs in Space is a music history podcast for true obsessives",
+          "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+          "source": "The Verge",
           "kind": "rss",
-          "score": 55,
+          "score": 45,
           "comments": 0
         }
       ]
     },
     {
-      "id": "irc technology news first half 2026",
-      "topic": "IRC technology news from the first half of 2026",
-      "summary": "Surfacing across 2 channels with rising engagement.",
-      "category": "tech",
-      "momentum": 55,
+      "id": "hill will die remove those earphones you blocking",
+      "topic": "The hill I will die on: Remove those earphones – you’re blocking out the music of humanity",
+      "summary": "Beyond the white noise lies a vibrant world of possibility, so take your headphones off and listen to your surroundings. It may even save your life, says author",
+      "category": "entertainment",
+      "momentum": 56,
       "phase": "fading",
-      "firstSeen": "2026-08-09T17:41:59.828Z",
+      "firstSeen": "2026-08-09T05:00:06.000Z",
       "sourceCount": 1,
-      "engagement": 83,
-      "ageHours": 3.3,
+      "engagement": 355,
+      "ageHours": 16.4,
       "links": [
         {
-          "title": "IRC technology news from the first half of 2026",
-          "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
-          "source": "Lobsters",
-          "kind": "lobsters",
-          "score": 76,
-          "comments": 1
+          "title": "The hill I will die on: Remove those earphones – you’re blocking out the music of humanity",
+          "url": "https://www.theguardian.com/commentisfree/2026/aug/09/the-hill-i-will-die-on-earphones-music-humanity-headphones",
+          "source": "Mastodon · The Guardian",
+          "kind": "mastodon",
+          "score": 100,
+          "comments": 85
         }
       ]
     },
     {
-      "id": "morrissey cancels las vegas residency shows days before",
-      "topic": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-      "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
-      "category": "entertainment",
+      "id": "111 games zero errors wilson sets mlb record",
+      "topic": "111 games, zero errors: Wilson sets MLB record at shortstop",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "games",
+      "momentum": 56,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:28:06.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 1,
+      "links": [
+        {
+          "title": "111 games, zero errors: Wilson sets MLB record at shortstop",
+          "url": "https://www.mlb.com/news/jacob-wilson-mlb-error-free-shortstop-record",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "greeting ceo",
+      "topic": "greeting a CEO",
+      "summary": "cross-posted from: https://sh.itjust.works/post/64780888 > Cross posted from https://lemmy.blahaj.zone/post/46398896",
+      "category": "business",
       "momentum": 54,
       "phase": "fading",
-      "firstSeen": "2026-08-09T20:06:17.000Z",
+      "firstSeen": "2026-08-09T19:23:16.761Z",
       "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 0.9,
+      "engagement": 74,
+      "ageHours": 2,
       "links": [
         {
-          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
-          "source": "Billboard",
+          "title": "greeting a CEO",
+          "url": "https://lemmy.blahaj.zone/pictrs/image/72c389e8-fe9e-458f-9098-29f1b7f8d885.webp",
+          "source": "Lemmy · programmer_humor",
+          "kind": "lemmy",
+          "score": 59,
+          "comments": 5
+        }
+      ]
+    },
+    {
+      "id": "best deals today civilization vii airpods pro spider",
+      "topic": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "games",
+      "momentum": 54,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:26:42.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 1,
+      "links": [
+        {
+          "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+          "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
+          "source": "IGN",
           "kind": "rss",
-          "score": 40,
+          "score": 45,
           "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "reviving four year old remarkable",
-      "topic": "Reviving a four year old reMarkable 2",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 53,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T11:39:25.000Z",
-      "sourceCount": 1,
-      "engagement": 330,
-      "ageHours": 9.3,
-      "links": [
-        {
-          "title": "Reviving a four year old reMarkable 2",
-          "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 96,
-          "comments": 78
-        }
-      ]
-    },
-    {
-      "id": "john lilly solid state intelligence elimination man 1978",
-      "topic": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 51,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T13:47:36.000Z",
-      "sourceCount": 1,
-      "engagement": 265,
-      "ageHours": 7.2,
-      "links": [
-        {
-          "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-          "url": "https://kibotronics.net/unlisted/lilly-machines/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 100,
-          "comments": 55
         }
       ]
     },
@@ -2879,42 +2791,42 @@
       "topic": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
       "summary": "The curious case of Guren “Bobby” Zhou shows the ease with which investors with shady backgrounds and unknown motivations can funnel money to the president.",
       "category": "tech",
-      "momentum": 48,
+      "momentum": 47,
       "phase": "fading",
       "firstSeen": "2026-08-09T09:00:28.000Z",
       "sourceCount": 1,
-      "engagement": 349,
-      "ageHours": 12,
+      "engagement": 350,
+      "ageHours": 12.4,
       "links": [
         {
           "title": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
           "url": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
           "source": "Mastodon · The New York Times",
           "kind": "mastodon",
-          "score": 97,
+          "score": 98,
           "comments": 70
         }
       ]
     },
     {
-      "id": "deletes all instances microsoft gdid prevents minting new",
-      "topic": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+      "id": "reviving four year old remarkable",
+      "topic": "Reviving a four year old reMarkable 2",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 45,
+      "momentum": 43,
       "phase": "fading",
-      "firstSeen": "2026-08-09T20:06:51.000Z",
+      "firstSeen": "2026-08-09T11:39:25.000Z",
       "sourceCount": 1,
-      "engagement": 29,
-      "ageHours": 0.9,
+      "engagement": 341,
+      "ageHours": 9.8,
       "links": [
         {
-          "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
-          "url": "https://github.com/yegors/deGDID",
+          "title": "Reviving a four year old reMarkable 2",
+          "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 17,
-          "comments": 4
+          "score": 98,
+          "comments": 81
         }
       ]
     },
@@ -2923,64 +2835,130 @@
       "topic": "Who Should Pay For Source Code Availability?",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 45,
+      "momentum": 43,
       "phase": "fading",
       "firstSeen": "2026-08-09T13:42:39.432Z",
       "sourceCount": 1,
-      "engagement": 265,
-      "ageHours": 7.3,
+      "engagement": 272,
+      "ageHours": 7.7,
       "links": [
         {
           "title": "Who Should Pay For Source Code Availability?",
           "url": "https://kristoff.it/blog/source-code-availability/",
           "source": "Lobsters",
           "kind": "lobsters",
-          "score": 172,
-          "comments": 31
+          "score": 176,
+          "comments": 32
         }
       ]
     },
     {
-      "id": "amazon new 65gw texas data center power plant",
-      "topic": "Amazon’s new 7.65GW Texas AI data center power plant could become the largest source of CO₂ pollution in the US — Custom 35-turbine gas plant permitted to emit 33 million tons of annual greenhouse gases",
-      "summary": "submitted by /u/marketrent to r/technology [link] [comments]",
+      "id": "john lilly solid state intelligence elimination man 1978",
+      "topic": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 38,
+      "momentum": 42,
       "phase": "fading",
-      "firstSeen": "2026-08-09T18:04:22.000Z",
+      "firstSeen": "2026-08-09T13:47:36.000Z",
       "sourceCount": 1,
-      "engagement": 42,
-      "ageHours": 2.9,
+      "engagement": 266,
+      "ageHours": 7.6,
       "links": [
         {
-          "title": "Amazon’s new 7.65GW Texas AI data center power plant could become the largest source of CO₂ pollution in the US — Custom 35-turbine gas plant permitted to emit 33 million tons of annual greenhouse gases",
-          "url": "https://www.reddit.com/r/technology/comments/1vjwpko/amazons_new_765gw_texas_ai_data_center_power/",
-          "source": "r/technology",
-          "kind": "reddit",
-          "score": 42,
+          "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+          "url": "https://kibotronics.net/unlisted/lilly-machines/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 101,
+          "comments": 55
+        }
+      ]
+    },
+    {
+      "id": "video games 2010s that still look amazing today",
+      "topic": "10 Video Games From the 2010s That Still Look Amazing Today",
+      "summary": "10 Video Games From the 2010s That Still Look Amazing Today IMDb",
+      "category": "games",
+      "momentum": 42,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T20:00:38.000Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 1.4,
+      "links": [
+        {
+          "title": "10 Video Games From the 2010s That Still Look Amazing Today",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GenRpaEx5Y1dyVE93eEdncEhkVUd1WGdvNWt6R3JJazF6cXhyY1cxNWg1VU53MWluaDZ3YTEyNjVZM1h3SS1OZHYwdFVXNGlwbkYwdkhHZ2dBcC1hbnAzOGRsdTRPZFE?oc=5",
+          "source": "Google News Games",
+          "kind": "rss",
+          "score": 50,
           "comments": 0
         }
       ]
     },
     {
-      "id": "asx set rise after jobs report boosts wall",
-      "topic": "ASX set to rise after jobs report boosts Wall Street; Sunrise Energy in focus after Pentagon deal",
-      "summary": "Stocks rose on Wall Street and Treasury yields fell after the government reported that employers unexpectedly cut 23,000 jobs last month.",
-      "category": "business",
-      "momentum": 32,
+      "id": "yet see any went rogue caused recognise workers",
+      "topic": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 40,
       "phase": "fading",
-      "firstSeen": "2026-08-09T19:25:10.000Z",
+      "firstSeen": "2026-08-09T21:01:31.000Z",
       "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 1.6,
+      "engagement": 12,
+      "ageHours": 0.4,
       "links": [
         {
-          "title": "ASX set to rise after jobs report boosts Wall Street; Sunrise Energy in focus after Pentagon deal",
-          "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-after-jobs-report-boosts-wall-street-20260810-p60msr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
+          "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+          "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 12,
           "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "rails done",
+      "topic": "Rails is done",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 40,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T07:14:28.028Z",
+      "sourceCount": 1,
+      "engagement": 287,
+      "ageHours": 14.2,
+      "links": [
+        {
+          "title": "Rails is done",
+          "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+          "source": "Lobsters",
+          "kind": "lobsters",
+          "score": 224,
+          "comments": 21
+        }
+      ]
+    },
+    {
+      "id": "cool uris don change 1998",
+      "topic": "Cool URIs Don't Change (1998)",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 39,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T14:32:53.000Z",
+      "sourceCount": 1,
+      "engagement": 192,
+      "ageHours": 6.9,
+      "links": [
+        {
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 123,
+          "comments": 23
         }
       ]
     },
@@ -2989,12 +2967,12 @@
       "topic": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
       "summary": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conque",
       "category": "business",
-      "momentum": 31,
+      "momentum": 25,
       "phase": "fading",
       "firstSeen": "2026-08-09T19:21:43.000Z",
       "sourceCount": 1,
       "engagement": 43,
-      "ageHours": 1.6,
+      "ageHours": 2.1,
       "links": [
         {
           "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
@@ -3011,12 +2989,12 @@
       "topic": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
       "summary": "For the first time in four years, the average stock is beating the stock market.",
       "category": "business",
-      "momentum": 30,
+      "momentum": 24,
       "phase": "fading",
       "firstSeen": "2026-08-09T19:11:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 1.8,
+      "ageHours": 2.2,
       "links": [
         {
           "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
@@ -3029,38 +3007,16 @@
       ]
     },
     {
-      "id": "years later game thrones finally redeems its biggest",
-      "topic": "7 Years Later, Game of Thrones Finally Redeems Its Biggest Failure With a Near-Perfect Prequel",
-      "summary": "Dominic Cooke and Duncan Macmillan's stage play following Aerys Targaryen's waning reign might have just added a new lease of life to Game of Thrones",
-      "category": "games",
-      "momentum": 27,
-      "phase": "fading",
-      "firstSeen": "2026-08-09T19:00:12.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 2,
-      "links": [
-        {
-          "title": "7 Years Later, Game of Thrones Finally Redeems Its Biggest Failure With a Near-Perfect Prequel",
-          "url": "https://www.polygon.com/the-mad-king-saved-game-of-thrones/",
-          "source": "Polygon",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
       "id": "max miller stays ohio house race gop ballot",
       "topic": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
       "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
       "category": "business",
-      "momentum": 24,
+      "momentum": 20,
       "phase": "fading",
       "firstSeen": "2026-08-09T18:38:23.000Z",
       "sourceCount": 1,
       "engagement": 48,
-      "ageHours": 2.4,
+      "ageHours": 2.8,
       "links": [
         {
           "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
@@ -3077,12 +3033,12 @@
       "topic": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
       "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
       "category": "business",
-      "momentum": 21,
+      "momentum": 18,
       "phase": "fading",
       "firstSeen": "2026-08-09T18:15:57.000Z",
       "sourceCount": 1,
       "engagement": 48,
-      "ageHours": 2.7,
+      "ageHours": 3.2,
       "links": [
         {
           "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
@@ -3099,12 +3055,12 @@
       "topic": "Verizon outage resolved after customers report service issues Saturday",
       "summary": "Verizon outage resolved after customers report service issues Saturday USA Today Verizon suffers outage in 'some parts of the US' with thousands of reports Fox",
       "category": "business",
-      "momentum": 14,
+      "momentum": 13,
       "phase": "fading",
       "firstSeen": "2026-08-09T16:23:00.000Z",
       "sourceCount": 1,
       "engagement": 55,
-      "ageHours": 4.6,
+      "ageHours": 5,
       "links": [
         {
           "title": "Verizon outage resolved after customers report service issues Saturday",
@@ -3117,16 +3073,38 @@
       ]
     },
     {
+      "id": "very little like wall street assesses surprise july",
+      "topic": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+      "summary": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump Yahoo Finance Labor Market Shifts Into Reverse as Employers Balk at Hiring",
+      "category": "business",
+      "momentum": 12,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T11:35:29.000Z",
+      "sourceCount": 1,
+      "engagement": 92,
+      "ageHours": 9.8,
+      "links": [
+        {
+          "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5",
+          "source": "Google News",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
       "id": "job market shrank july sharp reversal after months",
       "topic": "Job market shrank in July, a sharp reversal after months of growth",
       "summary": "The jobs report released last week showed the job market shrank in July, after months of growth. Employers shed 23,000 jobs that month, far below the 83,000 job",
       "category": "business",
-      "momentum": 13,
+      "momentum": 12,
       "phase": "fading",
       "firstSeen": "2026-08-09T16:59:23.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 4,
+      "ageHours": 4.4,
       "links": [
         {
           "title": "Job market shrank in July, a sharp reversal after months of growth",
@@ -3137,11 +3115,41 @@
           "comments": 0
         }
       ]
+    },
+    {
+      "id": "abel puts big chunk berkshire cash work",
+      "topic": "Abel puts a big chunk of Berkshire's cash to work",
+      "summary": "Abel puts a big chunk of Berkshire's cash to work CNBC Berkshire Hathaway, Under a New CEO, Starts to Spend Its Cash Pile WSJ Warren Buffett is out, and Berkshi",
+      "category": "business",
+      "momentum": 11,
+      "phase": "fading",
+      "firstSeen": "2026-08-09T12:00:33.000Z",
+      "sourceCount": 2,
+      "engagement": 82,
+      "ageHours": 9.4,
+      "links": [
+        {
+          "title": "Abel puts a big chunk of Berkshire's cash to work",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUs1bUp5RGRRZ0N2dHpkQklja25FRGhoQVVyTVV6SU5IVHZFU1pacHFwODZRNWhrdy1UYXVwNllBaFI4R0t6S1U5c25BTnJWRmc0WHlsc2J0NnNYU0s5NGxXelJ1YWFZcHNiMS1ZbVB6V1NhSXJ3ZkY3SlBLNkVWejFjYkV2LTZYMm50bHRB0gGTAUFVX3lxTE9tcTN5M0Fza2FmWmRQM01HSWN0aXgyRXgyZ0Z6bGQzSXhCSXBVZVcwWS1odkpCbVdMeTVUdHN6VkZlcW1RS0Nsc2IxVDc0Vms0bnRFYnU3VFpGUk1ERGZNR3djM2JyYUgzMzI0SlY4cXJTX3VyYldNX1BuS1poakk4TUFJTGtScGM0NDBPUmVNRXBkSQ?oc=5",
+          "source": "Google News Business",
+          "kind": "rss",
+          "score": 44,
+          "comments": 0
+        },
+        {
+          "title": "Abel puts a big chunk of Berkshire's cash to work",
+          "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
+          "source": "CNBC",
+          "kind": "rss",
+          "score": 38,
+          "comments": 0
+        }
+      ]
     }
   ],
   "meta": {
     "sourceCounts": {
-      "hackernews": 54,
+      "hackernews": 53,
       "reddit": 56,
       "rss": 695,
       "gdelt": 0,
@@ -3150,7 +3158,7 @@
       "mastodon": 10,
       "wikipedia": 30,
       "lobsters": 25,
-      "lemmy": 10
+      "lemmy": 20
     },
     "note": "Ranked by acceleration across free news/RSS, HN, Reddit, Google Trends, Bluesky, Mastodon, Wikipedia, Lobsters, Lemmy, and GDELT."
   }
