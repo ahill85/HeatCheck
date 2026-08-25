@@ -1,22 +1,44 @@
 {
-  "generatedAt": "2026-08-25T23:37:59.056Z",
+  "generatedAt": "2026-08-25T23:58:15.354Z",
   "windowHint": "24h",
   "items": [
     {
-      "id": "tyler glasnow",
-      "topic": "tyler glasnow",
+      "id": "comment new york times",
+      "topic": "JK's comment on The New York Times",
+      "summary": "Explore 3268 comments on this story",
+      "category": "news",
+      "momentum": 4966,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:56:31.181Z",
+      "sourceCount": 1,
+      "engagement": 475,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "JK's comment on The New York Times",
+          "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+          "source": "Mastodon",
+          "kind": "mastodon",
+          "score": 106,
+          "comments": 123
+        }
+      ]
+    },
+    {
+      "id": "project runway",
+      "topic": "project runway",
       "summary": "Trending search interest (US).",
       "category": "news",
-      "momentum": 1090,
+      "momentum": 1074,
       "phase": "rising",
-      "firstSeen": "2026-08-25T23:20:00.000Z",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
       "sourceCount": 1,
       "engagement": 125,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "tyler glasnow",
-          "url": "https://www.mlb.com/stories/game-preview/824881",
+          "title": "project runway",
+          "url": "https://people.com/project-runway-model-recalls-designer-dressing-her-in-a-dirty-trash-bag-12068138",
           "source": "Google Trends US",
           "kind": "googletrends",
           "score": 125,
@@ -25,23 +47,1279 @@
       ]
     },
     {
-      "id": "sec",
-      "topic": "sec",
+      "id": "darlene graham",
+      "topic": "darlene graham",
       "summary": "Trending search interest (US).",
       "category": "news",
-      "momentum": 1090,
+      "momentum": 1074,
       "phase": "rising",
-      "firstSeen": "2026-08-25T23:20:00.000Z",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
       "sourceCount": 1,
       "engagement": 125,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "sec",
-          "url": "https://www.espn.com/college-football/story/_/id/49721908/sources-big-ten-allow-players-return-nfl",
+          "title": "darlene graham",
+          "url": "https://slate.com/news-and-politics/2026/08/darline-graham-debate-taiwan-china-immigration-gaffe.html",
           "source": "Google Trends US",
           "kind": "googletrends",
           "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "canada imposes tariffs billions imports",
+      "topic": "Canada imposes tariffs of up to 50% on billions in U.S. imports",
+      "summary": "A deepening trade war between the U.S. and Canada is once again driving up the cost of goods crossing the northern border. After the Trump administration impose",
+      "category": "business",
+      "momentum": 1011,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:44:12.000Z",
+      "sourceCount": 1,
+      "engagement": 90,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Canada imposes tariffs of up to 50% on billions in U.S. imports",
+          "url": "https://www.cbsnews.com/video/canada-imposes-tariffs-up-50-billions-us-imports/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "monterrey chicago",
+      "topic": "monterrey vs chicago",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 954,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "monterrey vs chicago",
+          "url": "https://es.concacaf.com/competitions/leagues-cup/news/cf-monterrey-y-chicago-fire-fc-abren-la-accion-de-los-cuartos-de-final-de-la-leagues-cup",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "tom selleck new television role",
+      "topic": "tom selleck new television role",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 954,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "tom selleck new television role",
+          "url": "https://deadline.com/2026/08/tom-selleck-cast-apple-tv-comedy-elizabeth-banks-1237049134/",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "notah begay",
+      "topic": "notah begay",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 954,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "notah begay",
+          "url": "https://www.abqjournal.com/sports/leaving-his-own-mark-notah-begay-iii-honored-for-native-youth-work/3108091",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "nosy polar bear lucky squirrel wildlife photographer year",
+      "topic": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
+      "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
+      "category": "news",
+      "momentum": 949,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:41:13.000Z",
+      "sourceCount": 1,
+      "engagement": 96,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
+          "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "cia director john ratcliffe visits russia what was",
+      "topic": "CIA Director John Ratcliffe visits Russia, on what was a secret trip",
+      "summary": "A U.S. military plane landed at an airport in Moscow, Russia, on Tuesday, and CIA Director John Ratcliffe was among those on board. Charlie D'Agata reports.",
+      "category": "news",
+      "momentum": 934,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:42:01.000Z",
+      "sourceCount": 1,
+      "engagement": 90,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "CIA Director John Ratcliffe visits Russia, on what was a secret trip",
+          "url": "https://www.cbsnews.com/video/cia-director-john-ratcliffe-visits-russia-what-secret-trip/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "minor premiership",
+      "topic": "minor premiership",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 859,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "minor premiership",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/final-twist-in-shock-minor-premiership-race-as-bulldogs-brutal-reality-laid-bare/news-story/765336dafcb9177ac301a95644486f33",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "buc apos expansion conservative states",
+      "topic": "buc-ee&apos;s expansion conservative states",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 755,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 136,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "buc-ee&apos;s expansion conservative states",
+          "url": "https://www.foxbusiness.com/retail/buc-ees-ceo-signals-expansion-shift-away-blue-states-dont-appreciate-chain",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 136,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "payton tolle",
+      "topic": "payton tolle",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 755,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 136,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "payton tolle",
+          "url": "https://www.overthemonster.com/red-sox-discussion/107311/payton-tolle-tries-to-take-the-red-sox-to-new-highs-in-miami",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 136,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "tim finchem",
+      "topic": "tim finchem",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 694,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "tim finchem",
+          "url": "https://www.espn.com/golf/story/_/id/49711123/ex-commissioner-tim-finchem-donates-13m-pga-tour-charity",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "braves dodgers",
+      "topic": "braves vs dodgers",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 616,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "braves vs dodgers",
+          "url": "https://www.truebluela.com/los-angeles-dodgers-schedule/122726/braves-august-26",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "how dolly parton told her story through six",
+      "topic": "How Dolly Parton told her story through six iconic songs",
+      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+      "category": "news",
+      "momentum": 553,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:43:13.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "How Dolly Parton told her story through six iconic songs",
+          "url": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "how dolly parton told her life story through",
+      "topic": "How Dolly Parton told her life story through six iconic songs",
+      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+      "category": "news",
+      "momentum": 553,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:43:13.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "How Dolly Parton told her life story through six iconic songs",
+          "url": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "jose altuve",
+      "topic": "jose altuve",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 550,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "jose altuve",
+          "url": "https://www.espn.com/mlb/story/_/id/49726103/after-ouster-gm-dana-brown-astros-owner-jim-crane-says-manager-joe-espada-finish-season",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "mark ruffalo",
+      "topic": "mark ruffalo",
+      "summary": "Trending search interest (US).",
+      "category": "news",
+      "momentum": 477,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T22:30:00.000Z",
+      "sourceCount": 2,
+      "engagement": 247,
+      "ageHours": 1.5,
+      "links": [
+        {
+          "title": "mark ruffalo",
+          "url": "https://variety.com/2026/film/news/hannah-einbinder-defends-mark-ruffalo-paramount-antisemitism-claim-1236842292/",
+          "source": "Google Trends US",
+          "kind": "googletrends",
+          "score": 136,
+          "comments": 0
+        },
+        {
+          "title": "mark ruffalo",
+          "url": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "nicotine vapes best chance quit smoking major review",
+      "topic": "Nicotine vapes best chance to quit smoking, major review finds",
+      "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
+      "category": "news",
+      "momentum": 472,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:40:38.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Nicotine vapes best chance to quit smoking, major review finds",
+          "url": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "one people searched weapons qld identified first nations",
+      "topic": "One in 10 people searched for weapons in Qld identified as First Nations",
+      "summary": "In Queensland, police have the power to randomly stop and search people for weapons. Statistics show who they have wanded.",
+      "category": "news",
+      "momentum": 470,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:45:07.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "One in 10 people searched for weapons in Qld identified as First Nations",
+          "url": "https://www.abc.net.au/news/2026-08-26/qld-police-wanding-statistics-show-who-searched/106885150",
+          "source": "ABC News AU",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "results roll south carolina holds runoff replace sen",
+      "topic": "Results roll in as South Carolina holds runoff to replace Sen. Graham on ballot",
+      "summary": "Darline Graham, the Trump-endorsed sister of the late Sen. Lindsey Graham, is facing off against Rep. Ralph Norman in a runoff race for the GOP nomination for S",
+      "category": "news",
+      "momentum": 470,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:53:35.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Results roll in as South Carolina holds runoff to replace Sen. Graham on ballot",
+          "url": "https://www.cbsnews.com/news/south-carolina-senate-runoff-darline-graham-ralph-norman/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "why dolly parton beloved",
+      "topic": "Why Dolly Parton is so beloved",
+      "summary": "A 2026 YouGov poll for The Times found that Dolly Parton is the celebrity who best represents the American dream. Tony Dokoupil explores why.",
+      "category": "news",
+      "momentum": 470,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:50:27.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Why Dolly Parton is so beloved",
+          "url": "https://www.cbsnews.com/video/why-dolly-parton-so-beloved/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "college student shot police after knocking wrong door",
+      "topic": "College student shot by police after knocking on wrong door, investigation underway",
+      "summary": "The parents of a 22-year-old college student who was fatally shot by police after knocking on the wrong door spoke out on Tuesday. Tom Hanson has more details.",
+      "category": "news",
+      "momentum": 470,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:48:16.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "College student shot by police after knocking on wrong door, investigation underway",
+          "url": "https://www.cbsnews.com/video/college-student-shot-police-knocking-wrong-door-investigation-underway/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "reno residents grapple hawk fire have idea our",
+      "topic": "Reno residents grapple with Hawk Fire: \"We have no idea if our house survived\"",
+      "summary": "After the Hawk Fire burned out of control for two days in Reno, Nevada, the smoke cleared to reveal black hillsides and charred neighborhoods. Tens of thousands",
+      "category": "news",
+      "momentum": 470,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:46:12.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Reno residents grapple with Hawk Fire: \"We have no idea if our house survived\"",
+          "url": "https://www.cbsnews.com/video/reno-residents-grapple-hawk-fire-no-idea-house-survived/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "she can pitch hit kinley rasmus sets llws",
+      "topic": "She can pitch AND hit! Kinley Rasmus sets a LLWS record",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "sports",
+      "momentum": 470,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:46:00.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "She can pitch AND hit! Kinley Rasmus sets a LLWS record",
+          "url": "https://www.mlb.com/news/kinley-rasmus-sets-little-league-world-series-record-for-hits-by-a-girl",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "nine signals focus shift away traditional after transformative",
+      "topic": "Nine signals focus shift away from traditional TV after ‘transformative year’",
+      "summary": "Premium subscription services and outdoor advertising are increasingly important for the future of Nine.",
+      "category": "news",
+      "momentum": 450,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:49:36.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Nine signals focus shift away from traditional TV after ‘transformative year’",
+          "url": "https://www.smh.com.au/business/companies/nine-signals-focus-shift-away-from-traditional-tv-after-transformative-year-20260825-p60rbk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "elissa slotkin calls out hasan piker blaming jewish",
+      "topic": "Elissa Slotkin calls out Hasan Piker for blaming Jewish Americans targeted over their Israel views",
+      "summary": "Hasan Piker warned that American Jews could face violence over Israel support, prompting senators Elissa Slotkin and Jacky Rosen to condemn his remarks.",
+      "category": "news",
+      "momentum": 450,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:46:56.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Elissa Slotkin calls out Hasan Piker for blaming Jewish Americans targeted over their Israel views",
+          "url": "https://www.foxnews.com/media/elissa-slotkin-calls-out-hasan-piker-blaming-jewish-americans-targeted-israel-views",
+          "source": "Fox News",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton dies age look her life through",
+      "topic": "Dolly Parton dies at the age of 80: A look at her life through photos",
+      "summary": "Dolly Parton got her start in the entertainment industry after making her debut at the Grand Ole Opry at the age of 13. Here is a look back at her career in mus",
+      "category": "news",
+      "momentum": 450,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:45:45.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dolly Parton dies at the age of 80: A look at her life through photos",
+          "url": "https://www.foxnews.com/entertainment/dolly-parton-dies-age-80-look-her-life-through-photos",
+          "source": "Fox News",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton died after brief battle cancer according",
+      "topic": "Dolly Parton Died After a ‘Brief Battle’ With Cancer, According to Her Reps",
+      "summary": "Dolly Parton’s reps have revealed her cause of death. The iconic singer died after a “brief battle” with cancer at Vanderbilt-Ingram Cancer Center in Nashville,",
+      "category": "entertainment",
+      "momentum": 450,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:45:41.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dolly Parton Died After a ‘Brief Battle’ With Cancer, According to Her Reps",
+          "url": "https://variety.com/2026/music/news/dolly-parton-cause-of-death-cancer-1236843174/",
+          "source": "Variety",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "motley fool",
+      "topic": "the motley fool",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 449,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T22:50:00.000Z",
+      "sourceCount": 2,
+      "engagement": 200,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "the motley fool",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-says-nebius-group-163040492.html",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        },
+        {
+          "title": "motley fool",
+          "url": "https://seekingalpha.com/article/4939743-western-digital-time-to-jump-in-before-beast-mode-arrives-again",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton minutes archive",
+      "topic": "Dolly Parton | 60 Minutes Archive",
+      "summary": "\"Five feet tall, larger than life.\" That's how 60 Minutes' Morley Safer described Dolly Parton when he spoke to her in 2009, calling her \"the savviest woman in",
+      "category": "news",
+      "momentum": 409,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:41:00.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dolly Parton | 60 Minutes Archive",
+          "url": "https://www.cbsnews.com/video/dolly-parton-the-2009-60-minutes-interview/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "apple introduces ultra",
+      "topic": "Apple introduces M6 and M5 Ultra",
+      "summary": "https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...   https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6",
+      "category": "tech",
+      "momentum": 385,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T13:01:22.000Z",
+      "sourceCount": 1,
+      "engagement": 3513,
+      "ageHours": 10.9,
+      "links": [
+        {
+          "title": "Apple introduces M6 and M5 Ultra",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 915,
+          "comments": 866
+        }
+      ]
+    },
+    {
+      "id": "dolly parton spent lifetime giving back inspiring kids",
+      "topic": "Dolly Parton spent a lifetime giving back: \"Inspiring kids to read became my mission\"",
+      "summary": "Musical icon Dolly Parton's influence on music and pop culture is clear. But beyond that, she was also an entrepreneur and philanthropist. Carter Evans takes a",
+      "category": "news",
+      "momentum": 369,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:39:07.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dolly Parton spent a lifetime giving back: \"Inspiring kids to read became my mission\"",
+          "url": "https://www.cbsnews.com/video/dolly-parton-spent-lifetime-giving-back-inspiring-kids-read-became-mission/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "mixed doubles",
+      "topic": "mixed doubles",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 361,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "mixed doubles",
+          "url": "https://www.abc.net.au/news/2026-08-26/tennis-djokovic-and-sabalenka-lose-us-open-mixed-doubles/107078416",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "story manhunt nazi leaders after wwii",
+      "topic": "The story of the manhunt for Nazi leaders after WWII",
+      "summary": "The new book \"They Shall Not See the Dawn\" looks at the manhunt for top Nazi leaders after World War II and the lead up to the Nuremberg trials. Author and \"Ins",
+      "category": "news",
+      "momentum": 353,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:38:17.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "The story of the manhunt for Nazi leaders after WWII",
+          "url": "https://www.cbsnews.com/video/story-manhunt-nazi-leaders-wwii/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "yellow warnings force rain thunderstorms hit parts",
+      "topic": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+      "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
+      "category": "news",
+      "momentum": 349,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:11:15.000Z",
+      "sourceCount": 1,
+      "engagement": 96,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+          "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton has died",
+      "topic": "Dolly Parton has died",
+      "summary": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...   https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;2",
+      "category": "tech",
+      "momentum": 330,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T18:02:22.000Z",
+      "sourceCount": 1,
+      "engagement": 1613,
+      "ageHours": 5.9,
+      "links": [
+        {
+          "title": "Dolly Parton has died",
+          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 1106,
+          "comments": 169
+        }
+      ]
+    },
+    {
+      "id": "news live perth told brace storm heavy rains",
+      "topic": "WA news LIVE: Perth told to brace for storm, heavy rains",
+      "summary": "Follow our live coverage here.",
+      "category": "news",
+      "momentum": 329,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:37:44.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "WA news LIVE: Perth told to brace for storm, heavy rains",
+          "url": "https://www.smh.com.au/national/western-australia/wa-news-live-perth-told-to-brace-for-storm-heavy-rains-20260826-p60rm3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "source": "SMH",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "winter energy prices expected rise three year high",
+      "topic": "Winter energy prices expected to rise to three-year high",
+      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+      "category": "news",
+      "momentum": 322,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:07:29.000Z",
+      "sourceCount": 1,
+      "engagement": 98,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Winter energy prices expected to rise to three-year high",
+          "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "nitter project received cease desist",
+      "topic": "Nitter project received cease and desist",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 315,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T17:08:21.000Z",
+      "sourceCount": 1,
+      "engagement": 1749,
+      "ageHours": 6.8,
+      "links": [
+        {
+          "title": "Nitter project received cease and desist",
+          "url": "https://github.com/zedeus/nitter/issues/1442",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 558,
+          "comments": 397
+        }
+      ]
+    },
+    {
+      "id": "neill takes responsibility nowhere hide celtic",
+      "topic": "O'Neill takes responsibility with nowhere to hide for Celtic",
+      "summary": "Celtic manager Martin O'Neill says his team have a \"million miles to go\" after defeat in Austria.",
+      "category": "sports",
+      "momentum": 314,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:35:46.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "cia director john ratcliffe secret trip russia",
+      "topic": "CIA Director John Ratcliffe on secret trip in Russia",
+      "summary": "A U.S. Air Force Boeing C-17A Globemaster III transport plane was spotted at a Moscow airport, along with a U.S. diplomatic motorcade, according to public repor",
+      "category": "news",
+      "momentum": 306,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:45:24.000Z",
+      "sourceCount": 1,
+      "engagement": 90,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "CIA Director John Ratcliffe on secret trip in Russia",
+          "url": "https://www.cbsnews.com/news/cia-director-john-ratcliffe-russia-secret-trip/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "phillies themed episode abbott elementary earns emmy nomination",
+      "topic": "Phillies-themed episode of ‘Abbott Elementary’ earns Emmy nomination",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "entertainment",
+      "momentum": 299,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:34:39.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Phillies-themed episode of ‘Abbott Elementary’ earns Emmy nomination",
+          "url": "https://www.mlb.com/news/phillies-themed-episode-of-abbott-elementary-earns-emmy-nomination",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton passes away",
+      "topic": "Dolly Parton passes away",
+      "summary": "29,521 posts on Bluesky · cooling.",
+      "category": "entertainment",
+      "momentum": 278,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T18:03:48.408Z",
+      "sourceCount": 1,
+      "engagement": 1380,
+      "ageHours": 5.9,
+      "links": [
+        {
+          "title": "Dolly Parton passes away",
+          "url": "https://bsky.app/search?q=Dolly%20Parton%20passes%20away",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 180,
+          "comments": 400
+        }
+      ]
+    },
+    {
+      "id": "these farm systems have best pitching prospects",
+      "topic": "These 10 farm systems have the best pitching prospects",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "sports",
+      "momentum": 250,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "These 10 farm systems have the best pitching prospects",
+          "url": "https://www.mlb.com/news/top-10-organizations-based-on-pitching-prospects-2026",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dominion still has pending lawsuits against election deniers",
+      "topic": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 238,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:56:31.900Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "source": "CNN",
+          "kind": "rss",
+          "score": 50,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "daniil medvedev",
+      "topic": "daniil medvedev",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 229,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 0.5,
+      "links": [
+        {
+          "title": "daniil medvedev",
+          "url": "https://www.bleachernation.com/picks/2026/08/25/medvedev-vs-damm-prediction-at-the-winston-salem-open-tuesday-august-25/",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "canada announces retaliatory tariffs hundreds goods including steel",
+      "topic": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
+      "summary": "Move by Canada comes after US president spent morning railing against the country, calling it the ‘most difficult’ nation he deals with Canada announces retalia",
+      "category": "business",
+      "momentum": 228,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:52:19.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
+          "source": "Guardian US",
+          "kind": "rss",
+          "score": 48,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "firms scramble battery power spain portugal",
+      "topic": "Firms scramble for battery power in Spain and Portugal",
+      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "category": "business",
+      "momentum": 220,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:09:31.000Z",
+      "sourceCount": 1,
+      "engagement": 131,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Firms scramble for battery power in Spain and Portugal",
+          "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "fearless fabulous dolly parton what can all learn",
+      "topic": "Fearless, Fabulous Dolly Parton and What We Can All Learn From Her: A Remembrance",
+      "summary": "Parton died Aug. 25 at the age of 80, leaving far more than just her incredible career in music behind.",
+      "category": "entertainment",
+      "momentum": 219,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:48:02.000Z",
+      "sourceCount": 1,
+      "engagement": 40,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Fearless, Fabulous Dolly Parton and What We Can All Learn From Her: A Remembrance",
+          "url": "https://www.billboard.com/music/country/dolly-parton-tribute-death-rememberance-1236324563/",
+          "source": "Billboard",
+          "kind": "rss",
+          "score": 40,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "xcancel also down least time being",
+      "topic": "XCancel also down, at least for time being",
+      "summary": "Message on xcancel website: &quot;On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe servi",
+      "category": "tech",
+      "momentum": 216,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T21:18:23.000Z",
+      "sourceCount": 1,
+      "engagement": 345,
+      "ageHours": 2.7,
+      "links": [
+        {
+          "title": "XCancel also down, at least for time being",
+          "url": "https://news.ycombinator.com/item?id=49440786",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 159,
+          "comments": 62
+        }
+      ]
+    },
+    {
+      "id": "dolly parton remembered fellow stars politicans true loss",
+      "topic": "Dolly Parton remembered by fellow stars, politicans: \"A true loss for millions\"",
+      "summary": "President Trump said that he would be \"lowering the American flag\" throughout the nation for one week in Dolly Parton's honor.",
+      "category": "news",
+      "momentum": 214,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:50:20.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dolly Parton remembered by fellow stars, politicans: \"A true loss for millions\"",
+          "url": "https://www.cbsnews.com/news/dolly-parton-death-reactions/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "trump threatens change lake ontario name trade war",
+      "topic": "Trump threatens to change Lake Ontario's name as trade war with Canada heats up",
+      "summary": "President Trump said the U.S. is considering changing the name of Lake Ontario to \"Lake America\" amid an escalating trade fight with Canada.",
+      "category": "news",
+      "momentum": 214,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:46:25.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Trump threatens to change Lake Ontario's name as trade war with Canada heats up",
+          "url": "https://www.cbsnews.com/news/trump-lake-ontario-lake-america-canada-trade/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "canada announces tariffs billion goods",
+      "topic": "Canada announces tariffs of up to 50% on $20 billion in U.S. goods",
+      "summary": "Canadian government officials said they are also providing aid for workers and businesses that could be hurt by U.S.-imposed tariffs.",
+      "category": "business",
+      "momentum": 214,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:47:03.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Canada announces tariffs of up to 50% on $20 billion in U.S. goods",
+          "url": "https://www.cbsnews.com/news/canada-imposes-tariffs-us-imports/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton country music legend dies age",
+      "topic": "Dolly Parton, country music legend, dies at age 80",
+      "summary": "Dolly Parton became an icon over her six-decade career as a Grammy-winning singer-songwriter, movie and TV star and theme park owner who donated millions to hel",
+      "category": "entertainment",
+      "momentum": 214,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:50:52.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.3,
+      "links": [
+        {
+          "title": "Dolly Parton, country music legend, dies at age 80",
+          "url": "https://www.cbsnews.com/news/dolly-parton-dies-age-80-country-music-star/",
+          "source": "CBS News",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "new mac studio max ultra",
+      "topic": "New Mac Studio with M5 Max and M5 Ultra",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 213,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T13:03:17.000Z",
+      "sourceCount": 1,
+      "engagement": 1947,
+      "ageHours": 10.9,
+      "links": [
+        {
+          "title": "New Mac Studio with M5 Max and M5 Ultra",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 687,
+          "comments": 420
+        }
+      ]
+    },
+    {
+      "id": "starbase",
+      "topic": "Starbase, LA",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 213,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T16:37:52.000Z",
+      "sourceCount": 1,
+      "engagement": 1294,
+      "ageHours": 7.3,
+      "links": [
+        {
+          "title": "Starbase, LA",
+          "url": "https://www.spacex.com/sites/starbase-la",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 202,
+          "comments": 364
+        }
+      ]
+    },
+    {
+      "id": "dolly parton country star actor philanthropist dies aged",
+      "topic": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
+      "summary": "Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes",
+      "category": "news",
+      "momentum": 201,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T17:59:40.000Z",
+      "sourceCount": 2,
+      "engagement": 755,
+      "ageHours": 6,
+      "links": [
+        {
+          "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
+          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+          "source": "Mastodon · The Guardian",
+          "kind": "mastodon",
+          "score": 122,
+          "comments": 200
+        },
+        {
+          "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
+          "url": "https://www.reddit.com/r/news/comments/1vy7dat/dolly_parton_country_star_actor_and/",
+          "source": "r/news",
+          "kind": "reddit",
+          "score": 33,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "why pride facing backlash",
+      "topic": "Why Pride is facing a backlash",
+      "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
+      "category": "news",
+      "momentum": 186,
+      "phase": "rising",
+      "firstSeen": "2026-08-25T23:13:34.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.7,
+      "links": [
+        {
+          "title": "Why Pride is facing a backlash",
+          "url": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "kind": "rss",
+          "score": 53,
           "comments": 0
         }
       ]
@@ -51,12 +1329,12 @@
       "topic": "dwcs",
       "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 872,
+      "momentum": 186,
       "phase": "rising",
       "firstSeen": "2026-08-25T23:20:00.000Z",
       "sourceCount": 1,
       "engagement": 100,
-      "ageHours": 0.3,
+      "ageHours": 0.6,
       "links": [
         {
           "title": "dwcs",
@@ -69,111 +1347,23 @@
       ]
     },
     {
-      "id": "fire wings",
-      "topic": "fire vs wings",
-      "summary": "Trending search interest (US).",
+      "id": "draftkings bonus",
+      "topic": "draftkings bonus",
+      "summary": "Trending search interest (GB).",
       "category": "news",
-      "momentum": 824,
+      "momentum": 186,
       "phase": "rising",
-      "firstSeen": "2026-08-25T23:10:00.000Z",
+      "firstSeen": "2026-08-25T23:20:00.000Z",
       "sourceCount": 1,
-      "engagement": 147,
-      "ageHours": 0.5,
+      "engagement": 100,
+      "ageHours": 0.6,
       "links": [
         {
-          "title": "fire vs wings",
-          "url": "https://sportsbook.fanduel.com/basketball/wnba/portland-fire-@-dallas-wings-35973146",
-          "source": "Google Trends US",
+          "title": "draftkings bonus",
+          "url": "https://www.sportsbettingdime.com/news/betting/draftkings-promo-code-get-new-200-bonus-for-mlb-games-tonight/",
+          "source": "Google Trends UK",
           "kind": "googletrends",
-          "score": 147,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "cruzeiro atl tico",
-      "topic": "cruzeiro x atlético-mg",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 762,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "cruzeiro x atlético-mg",
-          "url": "https://sports.yahoo.com/articles/cruzeiro-v-atl-tico-galo-121500010.html",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 136,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "fort worth fire",
-      "topic": "fort worth fire",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 622,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "fort worth fire",
-          "url": "https://www.fox4news.com/news/large-apartment-fire-burns-homes-fort-worth",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "trump indycar race invitation became diplomatic snub",
-      "topic": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
-      "summary": "Foreign ambassadors were promised free food and drinks, misting fans and shaded seats during the event. Then some of them were uninvited.",
-      "category": "news",
-      "momentum": 554,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:24:16.000Z",
-      "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
-          "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "democrats score victory campaign finance court case",
-      "topic": "Democrats Score Victory in Campaign Finance Court Case",
-      "summary": "Republicans had hoped that a Supreme Court decision allowing party committees to coordinate with candidates would also entitle them to lower ad rates. On Tuesda",
-      "category": "news",
-      "momentum": 554,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:24:55.000Z",
-      "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Democrats Score Victory in Campaign Finance Court Case",
-          "url": "https://www.nytimes.com/2026/08/25/us/politics/court-democrats-republicans-ad-case.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
+          "score": 100,
           "comments": 0
         }
       ]
@@ -183,9 +1373,9 @@
       "topic": "Australia news live: Ooshies trend sees profit boom for Woolworths; productivity commissioner says ‘line was crossed’ by WA premier in GST scuffle",
       "summary": "Follow updates live Get our breaking news email, free app or daily news podcast Angela Jackson, the commissioner of the Productivity Commission, said the body s",
       "category": "news",
-      "momentum": 523,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:27:47.000Z",
+      "momentum": 178,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:38:17.000Z",
       "sourceCount": 1,
       "engagement": 50,
       "ageHours": 0.3,
@@ -201,29 +1391,43 @@
       ]
     },
     {
-      "id": "clinton appointed judge triggers appeal after blocking key",
-      "topic": "Clinton-appointed judge triggers appeal after blocking key voter citizenship law",
-      "summary": "Clinton-appointed judge triggers appeal after blocking key voter citizenship law Fox News Judge blocks Ohio from requiring proof of citizenship for voter regist",
+      "id": "sun sky",
+      "topic": "sun vs sky",
+      "summary": "Trending search interest (AU).",
       "category": "news",
-      "momentum": 487,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T21:56:38.000Z",
-      "sourceCount": 2,
-      "engagement": 161,
-      "ageHours": 1.7,
+      "momentum": 172,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:30:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.5,
       "links": [
         {
-          "title": "Clinton-appointed judge triggers appeal after blocking key voter citizenship law",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzltWnlHT0pHOXdKNldxdFJDaTFEU3hvd1BuMjVYZnJXYi1ub2J2VlMzTjQ2UlQ3TG1wVU1sOVpQaXEzbWFuc3hFdE5PZlhPbkh2UDB0emQtblFubEFOU1FMbFRkTDNSV0JQZEk1cTJZOGJoWU9BQS1ZNHBNcWtFaE1seGJONXhvQkR6WlVMaENmM3F1Um5QQzkzQnY2M2ozSnYyUG10RzFRdm5zQmo2bWN4b0VhLVI5OEN4cnBRdkg3ZHl6bFlYSVpGVdIB0AFBVV95cUxOVmN1Z0NDWnJVWElBcUxid2t5akJHVEVqSG44bFh3SDI5LTFjbDJOR3NlWXdVTUhlY3NIWjFDVUlrcnhGMk01Y1YwMWdkUUlTR0lwRkFjdGFBTnl0Z2loazJRTFZBWDdVd0F6VTU4M2RmcFlSaEExNi1ya2E5bzdkeExSZE9adWxPNVJWZjRXRDZZMEpBNy1qdXBrTnRmamhnXzY4ZWRMMkJtZUZvNkNwZW5xRFBOV3o4R2NvdlZjakhLWlRxQUZfQXhlRlFIUENT?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
+          "title": "sun vs sky",
+          "url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2026/08/25/wnba-games-today-aug-25-wnba-schedule-tv-stream-watch-tonight-live-game-wings-fire-mystics-mercury/91444049007/",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
           "comments": 0
-        },
+        }
+      ]
+    },
+    {
+      "id": "abc cbs air specials commemorating life dolly parton",
+      "topic": "ABC, CBS To Air Specials Commemorating The Life Of Dolly Parton",
+      "summary": "CBS News will air a special on Tuesday paying tribute to Dolly Parton, who died on Tuesday at the age of 80. A CBS News Special: Dolly Parton — An American Icon",
+      "category": "entertainment",
+      "momentum": 156,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:15:00.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 0.7,
+      "links": [
         {
-          "title": "Clinton-appointed judge triggers appeal after blocking key voter citizenship law",
-          "url": "https://www.foxnews.com/politics/clinton-appointed-judge-halts-ohio-voter-citizenship-proof-requirement-state-vows-immediate-appeal",
-          "source": "Fox News",
+          "title": "ABC, CBS To Air Specials Commemorating The Life Of Dolly Parton",
+          "url": "https://deadline.com/2026/08/cbs-news-dolly-parton-special-abc-news-1237050369/",
+          "source": "Deadline",
           "kind": "rss",
           "score": 43,
           "comments": 0
@@ -231,68 +1435,244 @@
       ]
     },
     {
-      "id": "archives dolly parton opening dollywood",
-      "topic": "From the archives: Dolly Parton on the opening of Dollywood",
-      "summary": "In 1986 and 1988, legendary singer-songwriter Dolly Parton sat down with CBS News to discuss the opening of her Tennessee theme park, Dollywood, and what she ho",
+      "id": "iran war latest tehran oman edge towards strait",
+      "topic": "Iran-US war latest: Tehran and Oman edge towards Strait of Hormuz agreement as Trump threatens new strikes on nuclear site",
+      "summary": "‘We are watching every square inch of the Strait,’ Trump says as he claims all mines in the waterway have been destroyed",
       "category": "news",
-      "momentum": 470,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:25:07.000Z",
+      "momentum": 156,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:38:34.000Z",
       "sourceCount": 1,
-      "engagement": 45,
+      "engagement": 43,
       "ageHours": 0.3,
       "links": [
         {
-          "title": "From the archives: Dolly Parton on the opening of Dollywood",
-          "url": "https://www.cbsnews.com/video/archives-dolly-parton-dollywood-opening/",
-          "source": "CBS News",
+          "title": "Iran-US war latest: Tehran and Oman edge towards Strait of Hormuz agreement as Trump threatens new strikes on nuclear site",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-sanctions-bessent-hormuz-news-b3038608.html",
+          "source": "Independent",
           "kind": "rss",
-          "score": 45,
+          "score": 43,
           "comments": 0
         }
       ]
     },
     {
-      "id": "alcaraz williams thrill brief but bright open mixed",
-      "topic": "Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing",
-      "summary": "Serena Williams and Carlos Alcaraz were among the star double-acts in New York as the US Open mixed doubles competition got under way on Tuesday.",
-      "category": "sports",
-      "momentum": 470,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:25:29.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "crane astros needed change top espada decision will",
-      "topic": "Crane: Astros needed change at top; Espada decision will come after season",
+      "id": "fda authorizes first wearable device that monitors ketone",
+      "topic": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "sports",
-      "momentum": 470,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:27:00.000Z",
+      "category": "tech",
+      "momentum": 154,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T19:07:01.000Z",
       "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
+      "engagement": 606,
+      "ageHours": 4.9,
       "links": [
         {
-          "title": "Crane: Astros needed change at top; Espada decision will come after season",
-          "url": "https://www.mlb.com/news/jim-crane-addresses-parting-with-dana-brown",
-          "source": "MLB.com",
+          "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 219,
+          "comments": 129
+        }
+      ]
+    },
+    {
+      "id": "here why markets starting care about 2026 election",
+      "topic": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+      "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
+      "category": "business",
+      "momentum": 150,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:35:24.000Z",
+      "sourceCount": 1,
+      "engagement": 48,
+      "ageHours": 0.4,
+      "links": [
+        {
+          "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+          "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+          "source": "CNBC",
           "kind": "rss",
-          "score": 45,
+          "score": 48,
           "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "fool com",
+      "topic": "fool.com",
+      "summary": "Trending search interest (GB).",
+      "category": "news",
+      "momentum": 148,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:10:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "fool.com",
+          "url": "https://uk.investing.com/news/stock-market-news/block-business-lead-owen-jennings-sells-154k-in-stock-93CH-4845336",
+          "source": "Google Trends UK",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "dolly parton effervescent queen country music just about",
+      "topic": "Dolly Parton, Effervescent Queen of Country Music and Just About Everything Else, Dies at 80",
+      "summary": "A shrewd dealmaker who launched Dollywood, the “Jolene” and “I Will Always Love You” singer-songwriter also starred in the films ‘9 to 5,’ ‘Steel Magnolias’ and",
+      "category": "entertainment",
+      "momentum": 141,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T17:57:50.000Z",
+      "sourceCount": 1,
+      "engagement": 714,
+      "ageHours": 6,
+      "links": [
+        {
+          "title": "Dolly Parton, Effervescent Queen of Country Music and Just About Everything Else, Dies at 80",
+          "url": "https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/",
+          "source": "Mastodon · The Hollywood Reporter",
+          "kind": "mastodon",
+          "score": 114,
+          "comments": 200
+        }
+      ]
+    },
+    {
+      "id": "pennsylvania measles outbreak",
+      "topic": "Pennsylvania measles outbreak",
+      "summary": "2,707 posts on Bluesky · cooling.",
+      "category": "entertainment",
+      "momentum": 138,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T13:45:08.282Z",
+      "sourceCount": 1,
+      "engagement": 1181,
+      "ageHours": 10.2,
+      "links": [
+        {
+          "title": "Pennsylvania measles outbreak",
+          "url": "https://bsky.app/search?q=Pennsylvania%20measles%20outbreak",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 167,
+          "comments": 338
+        }
+      ]
+    },
+    {
+      "id": "vladimir putin",
+      "topic": "vladimir putin",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 129,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T22:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "vladimir putin",
+          "url": "https://www.cnn.com/2026/08/25/europe/putin-decree-ukraine-russia-strikes-intl",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "new mac mini featuring pro",
+      "topic": "New Mac mini, featuring M6 and M5 Pro",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 128,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T13:13:00.000Z",
+      "sourceCount": 1,
+      "engagement": 1136,
+      "ageHours": 10.8,
+      "links": [
+        {
+          "title": "New Mac mini, featuring M6 and M5 Pro",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 410,
+          "comments": 242
+        }
+      ]
+    },
+    {
+      "id": "smuggling",
+      "topic": "smuggling",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 128,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T22:40:00.000Z",
+      "sourceCount": 1,
+      "engagement": 125,
+      "ageHours": 1.3,
+      "links": [
+        {
+          "title": "smuggling",
+          "url": "https://www.abc.net.au/news/2026-08-26/tobacco-crackdown-puts-legitimate-parcels-in-limbo/107071132",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 125,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "friend aaron",
+      "topic": "My Friend Aaron",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 127,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T16:53:33.000Z",
+      "sourceCount": 1,
+      "engagement": 741,
+      "ageHours": 7.1,
+      "links": [
+        {
+          "title": "My Friend Aaron",
+          "url": "https://rorz.io/writing/my-friend-aaron",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 411,
+          "comments": 110
+        }
+      ]
+    },
+    {
+      "id": "trump proposes renaming lake ontario",
+      "topic": "Trump proposes renaming Lake Ontario",
+      "summary": "4,784 posts on Bluesky · cooling.",
+      "category": "entertainment",
+      "momentum": 127,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T11:03:49.500Z",
+      "sourceCount": 1,
+      "engagement": 1377,
+      "ageHours": 12.9,
+      "links": [
+        {
+          "title": "Trump proposes renaming Lake Ontario",
+          "url": "https://bsky.app/search?q=Trump%20proposes%20renaming%20Lake%20Ontario",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 177,
+          "comments": 400
         }
       ]
     },
@@ -301,12 +1681,12 @@
       "topic": "Part of the celebration, but feeling worlds away",
       "summary": "Nanette Holliday is a dedicated social butterfly, who crams as many engagements as she can into the silly season. But hearing loss in her left ear does mean it",
       "category": "news",
-      "momentum": 450,
-      "phase": "rising",
+      "momentum": 127,
+      "phase": "peaking",
       "firstSeen": "2026-08-25T23:34:08.000Z",
       "sourceCount": 1,
       "engagement": 43,
-      "ageHours": 0.3,
+      "ageHours": 0.4,
       "links": [
         {
           "title": "Part of the celebration, but feeling worlds away",
@@ -319,19 +1699,173 @@
       ]
     },
     {
-      "id": "cheating footballer such stereotype jules neale speaks out",
-      "topic": "‘A cheating footballer is such a stereotype’: Jules Neale speaks out on marriage breakup",
-      "summary": "The ex-wife of AFL star Lachie Neale claims he cheated with at least two different women.",
+      "id": "global catastrophic risk",
+      "topic": "global catastrophic risk",
+      "summary": "Trending search interest (AU).",
       "category": "news",
-      "momentum": 450,
-      "phase": "rising",
+      "momentum": 122,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 1,
+      "links": [
+        {
+          "title": "global catastrophic risk",
+          "url": "https://adaptresearchwriting.com/2026/08/24/still-no-place-to-hide-our-new-review-finds-shortcomings-in-global-catastrophe-resilience/",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "winston salem open",
+      "topic": "winston salem open",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 122,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:00:00.000Z",
+      "sourceCount": 1,
+      "engagement": 100,
+      "ageHours": 1,
+      "links": [
+        {
+          "title": "winston salem open",
+          "url": "https://www.atptour.com/en/news/winston-salem-2026-monday-report",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 100,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "live antisemitism royal commissioner delivers final remarks hearings",
+      "topic": "Live: Antisemitism royal commissioner delivers final remarks as hearings conclude",
+      "summary": "After a mammoth series of hearings, Commissioner Virginia Bell will preside over the final antisemitism royal commission hearings today.",
+      "category": "news",
+      "momentum": 121,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:00:04.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 1,
+      "links": [
+        {
+          "title": "Live: Antisemitism royal commissioner delivers final remarks as hearings conclude",
+          "url": "https://www.abc.net.au/news/2026-08-26/bondi-antisemitism-social-cohesion-royal-commission-final-day/107077244",
+          "source": "ABC News AU",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "top commanders told hegseth not cut civilian protection",
+      "topic": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway.",
+      "summary": "The U.S. military has killed hundreds of noncombatants since gutting its Civilian Harm Mitigation and Response mission last year. After significant blowback, th",
+      "category": "news",
+      "momentum": 118,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T15:05:00.000Z",
+      "sourceCount": 1,
+      "engagement": 402,
+      "ageHours": 8.9,
+      "links": [
+        {
+          "title": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway.",
+          "url": "https://www.propublica.org/article/hegseth-civilian-harm-mitigation-response-trump-defense-department",
+          "source": "Mastodon · ProPublica",
+          "kind": "mastodon",
+          "score": 102,
+          "comments": 100
+        }
+      ]
+    },
+    {
+      "id": "dolly parton dead country music legend actress was",
+      "topic": "Dolly Parton Dead: Country Music Legend and Actress Was 80",
+      "summary": "Dolly Parton, considered by many to be the all-time queen of country music, and star of movies such as '9 to 5,' died Tuesday in Nashville at 80.",
+      "category": "entertainment",
+      "momentum": 116,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T17:55:39.000Z",
+      "sourceCount": 1,
+      "engagement": 589,
+      "ageHours": 6,
+      "links": [
+        {
+          "title": "Dolly Parton Dead: Country Music Legend and Actress Was 80",
+          "url": "https://variety.com/2026/music/news/dolly-parton-dead-dies-country-music-1236842727/",
+          "source": "Mastodon · Variety",
+          "kind": "mastodon",
+          "score": 109,
+          "comments": 160
+        }
+      ]
+    },
+    {
+      "id": "sydney traffic",
+      "topic": "sydney traffic",
+      "summary": "Trending search interest (AU).",
+      "category": "news",
+      "momentum": 116,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T22:50:00.000Z",
+      "sourceCount": 1,
+      "engagement": 111,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "sydney traffic",
+          "url": "https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTI3MTc1Lmh0bWwmYWxsPTE%3D",
+          "source": "Google Trends AU",
+          "kind": "googletrends",
+          "score": 111,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "gamescom opening night live airs",
+      "topic": "Gamescom Opening Night Live airs",
+      "summary": "1,855 posts on Bluesky · cooling.",
+      "category": "entertainment",
+      "momentum": 114,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T14:53:50.039Z",
+      "sourceCount": 1,
+      "engagement": 857,
+      "ageHours": 9.1,
+      "links": [
+        {
+          "title": "Gamescom Opening Night Live airs",
+          "url": "https://bsky.app/search?q=Gamescom%20Opening%20Night%20Live%20airs",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 161,
+          "comments": 232
+        }
+      ]
+    },
+    {
+      "id": "cheating footballer such stereotype jules neale speaks out",
+      "topic": "‘A cheating footballer is such a stereotype’: Jules Neale speaks out on marriage break-up",
+      "summary": "The ex-wife of AFL star Lachie Neale claims he cheated on her with at least two different women.",
+      "category": "news",
+      "momentum": 114,
+      "phase": "peaking",
       "firstSeen": "2026-08-25T23:31:27.000Z",
       "sourceCount": 1,
       "engagement": 43,
-      "ageHours": 0.3,
+      "ageHours": 0.4,
       "links": [
         {
-          "title": "‘A cheating footballer is such a stereotype’: Jules Neale speaks out on marriage breakup",
+          "title": "‘A cheating footballer is such a stereotype’: Jules Neale speaks out on marriage break-up",
           "url": "https://www.smh.com.au/lifestyle/life-and-relationships/a-cheating-footballer-is-such-a-stereotype-jules-neale-speaks-out-on-marriage-breakup-20260826-p60rm0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
           "source": "SMH",
           "kind": "rss",
@@ -341,16 +1875,60 @@
       ]
     },
     {
+      "id": "democrats score victory campaign finance court case",
+      "topic": "Democrats Score Victory in Campaign Finance Court Case",
+      "summary": "Republicans had hoped that a Supreme Court decision allowing party committees to coordinate with candidates would also entitle them to lower ad rates. On Tuesda",
+      "category": "news",
+      "momentum": 113,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:24:55.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "Democrats Score Victory in Campaign Finance Court Case",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/court-democrats-republicans-ad-case.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "trump indycar race invitation became diplomatic snub",
+      "topic": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
+      "summary": "Foreign ambassadors were promised free food and drinks, misting fans and shaded seats during the event. Then some of them were uninvited.",
+      "category": "news",
+      "momentum": 111,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:24:16.000Z",
+      "sourceCount": 1,
+      "engagement": 53,
+      "ageHours": 0.6,
+      "links": [
+        {
+          "title": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html",
+          "source": "NYTimes",
+          "kind": "rss",
+          "score": 53,
+          "comments": 0
+        }
+      ]
+    },
+    {
       "id": "icac operation rosny live updates charles perrottet wife",
       "topic": "ICAC Operation Rosny LIVE updates: Charles Perrottet’s wife Anita to appear",
       "summary": "Follow for live updates as the Independent Commission Against Corruption investigates links between Liberal Party operatives, fugitive property developer Jean N",
       "category": "news",
-      "momentum": 450,
-      "phase": "rising",
+      "momentum": 110,
+      "phase": "peaking",
       "firstSeen": "2026-08-25T23:30:24.000Z",
       "sourceCount": 1,
       "engagement": 43,
-      "ageHours": 0.3,
+      "ageHours": 0.5,
       "links": [
         {
           "title": "ICAC Operation Rosny LIVE updates: Charles Perrottet’s wife Anita to appear",
@@ -367,12 +1945,12 @@
       "topic": "Former news anchor pleads guilty to stabbing mother to death on Halloween",
       "summary": "Angelynn Mock pleaded guilty to first-degree murder after allegedly believing her mother Anita Avers was the devil during the Halloween stabbing.",
       "category": "news",
-      "momentum": 450,
-      "phase": "rising",
+      "momentum": 110,
+      "phase": "peaking",
       "firstSeen": "2026-08-25T23:30:26.000Z",
       "sourceCount": 1,
       "engagement": 43,
-      "ageHours": 0.3,
+      "ageHours": 0.5,
       "links": [
         {
           "title": "Former news anchor pleads guilty to stabbing mother to death on Halloween",
@@ -385,1607 +1963,13 @@
       ]
     },
     {
-      "id": "beyonc pays tribute dolly parton you were barometer",
-      "topic": "Beyoncé Pays Tribute to Dolly Parton: ‘You Were the Barometer’",
-      "summary": "Beyoncé has paid tribute to country icon Dolly Parton, who died on August 25, calling her “the barometer” and thanking her for the impact she had on the world.",
-      "category": "entertainment",
-      "momentum": 414,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:21:42.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Beyoncé Pays Tribute to Dolly Parton: ‘You Were the Barometer’",
-          "url": "https://variety.com/2026/music/news/beyonce-pays-tribute-to-dolly-parton-barometer-1236843171/",
-          "source": "Variety",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "global catastrophic risk",
-      "topic": "global catastrophic risk",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 413,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "global catastrophic risk",
-          "url": "https://adaptresearchwriting.com/2026/08/24/still-no-place-to-hide-our-new-review-finds-shortcomings-in-global-catastrophe-resilience/",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "chris hansen not backing down over primetime feud",
-      "topic": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24",
-      "summary": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24 TMZ Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson’s ‘Pri",
-      "category": "news",
-      "momentum": 402,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T22:50:40.000Z",
-      "sourceCount": 1,
-      "engagement": 113,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS053T0tyclZoWWplR0FnUGdFM0ZaN3lnM01DQjNEazI4N2Z3bGZNQXhrTmQyZlBDMEZhR28xaU9YcVpvSW1UV2lFZUFtNHp3VnNjcFNscFNial9XanhTNVkzTnNxSzZnU2t3aW85ZTh4b2tnOWpXWlNfZ3VfanRlU1ZpbnQ2d2ZsMkczdU5KY2Etalk?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "apple introduces ultra",
-      "topic": "Apple introduces M6 and M5 Ultra",
-      "summary": "https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...   https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6",
-      "category": "tech",
-      "momentum": 398,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T13:01:22.000Z",
-      "sourceCount": 1,
-      "engagement": 3478,
-      "ageHours": 10.6,
-      "links": [
-        {
-          "title": "Apple introduces M6 and M5 Ultra",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 904,
-          "comments": 858
-        }
-      ]
-    },
-    {
-      "id": "cia director makes rare unannounced visit moscow",
-      "topic": "CIA director makes rare, unannounced visit to Moscow",
-      "summary": "CIA director makes rare, unannounced visit to Moscow The Washington Post CIA Director John Ratcliffe Makes Surprise Trip to Moscow WSJ US spy chief visits Russi",
-      "category": "news",
-      "momentum": 397,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T22:52:53.000Z",
-      "sourceCount": 2,
-      "engagement": 106,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "CIA director makes rare, unannounced visit to Moscow",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnZXaXVJd1hMdG1WOWI1QnNiVUdLNl9Mejd2cWxBTTBmNldoRmtmQ3MtZjhFb2NiVUpjdHU2LU51cmxCR1ZLTUZQLWo0OHN6d2VkWVBqelJBUVpQZ2dEeWZkUWhZeWNlT2JEM2dvRU5iN1RrR0dUdjVrbDU3R1lqXzZZZGRzMHpsLW56V2xyUkxtdWVOV2Q0OC1EZkpEM1RhOGZvRA?oc=5",
-          "source": "Google News US",
-          "kind": "rss",
-          "score": 58,
-          "comments": 0
-        },
-        {
-          "title": "CIA director makes rare, unannounced visit to Moscow",
-          "url": "https://www.washingtonpost.com/national-security/2026/08/25/cia-director-moscow-rare-unannounced-trip/",
-          "source": "Washington Post",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "firms scramble battery power spain portugal",
-      "topic": "Firms scramble for battery power in Spain and Portugal",
-      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-      "category": "business",
-      "momentum": 377,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:09:31.000Z",
-      "sourceCount": 1,
-      "engagement": 131,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Firms scramble for battery power in Spain and Portugal",
-          "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "how modern appointment viewing shows bringing back watercooler",
-      "topic": "How Modern Appointment Viewing Shows Are Bringing Back ‘Watercooler’ Television",
-      "summary": "There’s nothing better than sitting on the couch to binge your favorite TV show. Or, maybe, there is. In the era of streaming, binge-watching is easier than eve",
-      "category": "entertainment",
-      "momentum": 375,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "How Modern Appointment Viewing Shows Are Bringing Back ‘Watercooler’ Television",
-          "url": "https://variety.com/2026/tv/news/modern-appointment-viewing-shows-watercooler-television-1236843230/",
-          "source": "Variety",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "how dolly parton fostered child literacy tribute her",
-      "topic": "How Dolly Parton fostered child literacy as a tribute to her dad",
-      "summary": "Dolly Parton was known best for her songwriting skills but her tireless work to improve child literacy will leave a lasting legacy.",
-      "category": "news",
-      "momentum": 367,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:18:45.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "How Dolly Parton fostered child literacy as a tribute to her dad",
-          "url": "https://www.abc.net.au/news/2026-08-26/dolly-parton-imagination-library-literacy/107078474",
-          "source": "ABC News AU",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "rutschman out red sox lineup due elbow soreness",
-      "topic": "Rutschman out of Red Sox lineup due to elbow soreness",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "sports",
-      "momentum": 365,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:18:40.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Rutschman out of Red Sox lineup due to elbow soreness",
-          "url": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-marlins",
-          "source": "MLB.com",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "draftkings bonus",
-      "topic": "draftkings bonus",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 357,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "draftkings bonus",
-          "url": "https://www.si.com/betting-promo/draftkings-promo-code-claim-200-in-bonus-bets-for-college-football-week-0-01m0wjcjb3zt",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "bureau prisons official who was pardoned drug crimes",
-      "topic": "Bureau of Prisons No. 2 official who was pardoned for drug crimes departs",
-      "summary": "Josh Smith had a tense relationship with BOP's employees, and some staffers had raised questions about contracts awarded during his year-long tenure.",
-      "category": "news",
-      "momentum": 353,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:18:00.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Bureau of Prisons No. 2 official who was pardoned for drug crimes departs",
-          "url": "https://www.cbsnews.com/news/bureau-of-prisons-no-2-josh-smith-drug-crimes-pardon-departs/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "doc talk podcast tiff docs programmer thom powers",
-      "topic": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
-      "summary": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world’s most importa",
-      "category": "entertainment",
-      "momentum": 346,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:18:29.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
-          "url": "https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/",
-          "source": "Deadline",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton has died",
-      "topic": "Dolly Parton has died",
-      "summary": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...   https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;2",
-      "category": "tech",
-      "momentum": 343,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T18:02:22.000Z",
-      "sourceCount": 1,
-      "engagement": 1578,
-      "ageHours": 5.6,
-      "links": [
-        {
-          "title": "Dolly Parton has died",
-          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 1089,
-          "comments": 163
-        }
-      ]
-    },
-    {
-      "id": "nitter project received cease desist",
-      "topic": "Nitter project received cease and desist",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 326,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T17:08:21.000Z",
-      "sourceCount": 1,
-      "engagement": 1687,
-      "ageHours": 6.5,
-      "links": [
-        {
-          "title": "Nitter project received cease and desist",
-          "url": "https://github.com/zedeus/nitter/issues/1442",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 547,
-          "comments": 380
-        }
-      ]
-    },
-    {
-      "id": "woolworths sales boosted ooshies effect",
-      "topic": "Woolworths’ sales boosted by the Ooshies effect",
-      "summary": "Chief executive Amanda Bardwell said a focus on value, convenience and better execution had paid off for the supermarket giant.",
-      "category": "news",
-      "momentum": 321,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:16:58.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Woolworths’ sales boosted by the Ooshies effect",
-          "url": "https://www.smh.com.au/business/companies/woolworths-sales-growth-beats-coles-20260826-p60rli.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "really hacked off joe root brutally honest reaction",
-      "topic": "‘Really hacked off’: Joe Root’s ‘brutally honest’ reaction to latest England drama",
-      "summary": "In an attempt to draw a line in the sand over his team’s behaviour after Brydon Carse was briefly detained by police last weekend, the England Test captain laid",
-      "category": "news",
-      "momentum": 306,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:15:55.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "‘Really hacked off’: Joe Root’s ‘brutally honest’ reaction to latest England drama",
-          "url": "https://www.smh.com.au/sport/cricket/really-hacked-off-joe-root-s-brutally-honest-reaction-to-latest-england-drama-20260826-p60rlp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton had voice concerns earth angel",
-      "topic": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
-      "summary": "Parton gave hopeful expression to songs she wrote about the hard times and hard-won triumphs of her life.",
-      "category": "news",
-      "momentum": 301,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:10:23.000Z",
-      "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
-          "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "how black summer fires failed shift australians climate",
-      "topic": "How the Black Summer fires failed to shift Australians’ climate views",
-      "summary": "The Black Summer fires that burnt 24 million hectares, killed at least 33 people and destroyed 3000 homes did not shift the opinions of climate sceptics.",
-      "category": "news",
-      "momentum": 299,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:15:24.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "How the Black Summer fires failed to shift Australians’ climate views",
-          "url": "https://www.smh.com.au/environment/climate-change/how-the-black-summer-fires-failed-to-shift-australians-climate-views-20260825-p60rfp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "source": "SMH",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "mickey gasper",
-      "topic": "mickey gasper",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 298,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 147,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "mickey gasper",
-          "url": "https://sports.yahoo.com/videos/mickey-gaspers-solo-home-run-225444327.html",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 147,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton passes away",
-      "topic": "Dolly Parton passes away",
-      "summary": "28,987 posts on Bluesky · cooling.",
-      "category": "entertainment",
-      "momentum": 294,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T18:03:48.408Z",
-      "sourceCount": 1,
-      "engagement": 1380,
-      "ageHours": 5.6,
-      "links": [
-        {
-          "title": "Dolly Parton passes away",
-          "url": "https://bsky.app/search?q=Dolly%20Parton%20passes%20away",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 180,
-          "comments": 400
-        }
-      ]
-    },
-    {
-      "id": "judge takes another step toward return looks good",
-      "topic": "Judge takes another step toward return: 'He looks good'",
-      "summary": "Schmidt close to starting rehab assignment with eye on joining bullpen",
-      "category": "sports",
-      "momentum": 282,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:13:00.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Judge takes another step toward return: 'He looks good'",
-          "url": "https://www.mlb.com/news/aaron-judge-takes-batting-practice-in-indoor-cages",
-          "source": "MLB.com",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "nick galanti",
-      "topic": "nick galanti",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 264,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 125,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "nick galanti",
-          "url": "https://www.ufc.com/video/159471",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 125,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "new sanctions signal trump desperation iran experts say",
-      "topic": "New US sanctions signal Trump desperation on Iran, experts say",
-      "summary": "New US sanctions signal Trump desperation on Iran, experts say Al Jazeera Opinion | I was a U.S. diplomat for 20 years. Now I see how the Iran war could be won.",
-      "category": "news",
-      "momentum": 257,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T20:34:49.000Z",
-      "sourceCount": 2,
-      "engagement": 166,
-      "ageHours": 3.1,
-      "links": [
-        {
-          "title": "New US sanctions signal Trump desperation on Iran, experts say",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmw2X00tTmczcE5TWV8wWWJ3XzhyTTN4bms0ajdMbHZhQ3ZaSm9USmJQcnlJejVwVzlzNFBKbmJSYmdaYnF0SWp5d1dSSjl4dHN5SlZWUFdsWThyZ0xVU2ZUemlwNkZnZ3NSLWxtbEs4bWw5Q1NKdWNPTHZCYWlIYnFFVGd0Qy1NUDN5RFNxTTNSeS13dUJMb3AzaFRFd0I5Y1NuSdIBqgFBVV95cUxQM3pLMnZfc3ZERTF3akZlbjd0UHo3X1NFOUMyZ0Q2cm5pQ05ZVDZ5ZVUwX3dHUEtSclg1VzEzNFRzcWdUeGJXVklRSUlYbk03QWl6QWVDYjFjRlNLRWYtQ2hqMVA1SlpJNEdXM1B1bjJzTkhQc3hFa1FhOHVhM0VvTHNjSktvcEFUUWtIdzJCcWxIM1V5WkZGWnNIazA5bEVreWdqNmxhend6Zw?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        },
-        {
-          "title": "New US sanctions signal Trump desperation on Iran, experts say",
-          "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-          "source": "Al Jazeera",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton country star actor philanthropist dies aged",
-      "topic": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
-      "summary": "Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes",
-      "category": "news",
-      "momentum": 255,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T17:59:40.000Z",
-      "sourceCount": 2,
-      "engagement": 787,
-      "ageHours": 5.6,
-      "links": [
-        {
-          "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
-          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-          "source": "Mastodon · The Guardian",
-          "kind": "mastodon",
-          "score": 121,
-          "comments": 200
-        },
-        {
-          "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
-          "url": "https://www.reddit.com/r/news/comments/1vy7dat/dolly_parton_country_star_actor_and/",
-          "source": "r/news",
-          "kind": "reddit",
-          "score": 33,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "fool com",
-      "topic": "fool.com",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 255,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "fool.com",
-          "url": "https://uk.investing.com/news/stock-market-news/block-business-lead-owen-jennings-sells-154k-in-stock-93CH-4845336",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "ontario doug ford says trump treating like communist",
-      "topic": "Ontario's Doug Ford says Trump is \"treating us like we're Communist China\"",
-      "summary": "As a U.S.-Canada trade war sparks cross-border insults, Ontario Premier Doug Ford told CBS News he's hopeful the two sides can reach an agreement — but cautione",
-      "category": "news",
-      "momentum": 253,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:10:08.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Ontario's Doug Ford says Trump is \"treating us like we're Communist China\"",
-          "url": "https://www.cbsnews.com/news/u-s-canada-trade-war-trump-ontario-doug-ford-china/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "exclusive trump sends nuclear agreement saudi arabia congress",
-      "topic": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress",
-      "summary": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress WSJ Donald Trump says Saudi Arabia must recognize Israel for nuclear deal The Jerusalem",
-      "category": "news",
-      "momentum": 251,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:02:00.000Z",
-      "sourceCount": 1,
-      "engagement": 118,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "where things stand south carolina senate primary runoff",
-      "topic": "Where things stand in South Carolina's Senate primary runoff between Graham, Norman",
-      "summary": "Darline Graham, the sister of the late Republican senator Lindsay Graham, is facing Rep. Ralph Norman in South Carolina's special primary runoff on Tuesday. CBS",
-      "category": "news",
-      "momentum": 249,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:09:37.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Where things stand in South Carolina's Senate primary runoff between Graham, Norman",
-          "url": "https://www.cbsnews.com/video/darline-graham-facing-norman-in-south-carolina-special-primary-runoff-with-trumps-support/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "megan ramsay",
-      "topic": "megan ramsay",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 242,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T22:10:00.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 1.5,
-      "links": [
-        {
-          "title": "megan ramsay",
-          "url": "https://people.com/gordon-ramsay-reveals-his-eldest-daughter-megan-is-engaged-12067549",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 136,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "orioles cardinals",
-      "topic": "orioles vs cardinals",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 239,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T22:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 161,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "orioles vs cardinals",
-          "url": "https://sports.yahoo.com/articles/baltimore-orioles-st-louis-cardinals-200809933.html",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 161,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dominion still has pending lawsuits against election deniers",
-      "topic": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 238,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:36:22.629Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
-          "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-          "source": "CNN",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "johnny cash son his father special relationship dolly",
-      "topic": "Johnny Cash's son on his father's special relationship with Dolly Parton",
-      "summary": "Johnny Cash's son, John Carter Cash, and his wife, Ana Cash, join \"The Daily Report\" to discuss Johnny's close bond with Dolly Parton, who died Tuesday at the a",
-      "category": "news",
-      "momentum": 229,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:07:11.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Johnny Cash's son on his father's special relationship with Dolly Parton",
-          "url": "https://www.cbsnews.com/video/johnny-cashs-son-shares-his-fathers-special-relationship-with-dolly-parton/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "here why markets starting care about 2026 election",
-      "topic": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-      "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
-      "category": "business",
-      "momentum": 228,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:35:24.000Z",
-      "sourceCount": 1,
-      "engagement": 48,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-          "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
-          "source": "CNBC",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "starbase",
-      "topic": "Starbase, LA",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 223,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T16:37:52.000Z",
-      "sourceCount": 1,
-      "engagement": 1275,
-      "ageHours": 7,
-      "links": [
-        {
-          "title": "Starbase, LA",
-          "url": "https://www.spacex.com/sites/starbase-la",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 198,
-          "comments": 359
-        }
-      ]
-    },
-    {
-      "id": "doctor testifies clancy was criminally responsible killings closing",
-      "topic": "Doctor testifies Clancy was criminally responsible for killings as closing arguments approach",
-      "summary": "Forensic psychologist Dr. Kirk Heilbrun took the stand in Lindsay Clancy's trial for the killings of her three children on Tuesday, testifying that he felt Clan",
-      "category": "news",
-      "momentum": 220,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:05:53.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Doctor testifies Clancy was criminally responsible for killings as closing arguments approach",
-          "url": "https://www.cbsnews.com/video/doctor-testifies-lindsay-clancy/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "daniil medvedev",
-      "topic": "daniil medvedev",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 220,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T22:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 136,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "daniil medvedev",
-          "url": "https://www.bleachernation.com/picks/2026/08/25/medvedev-vs-damm-prediction-at-the-winston-salem-open-tuesday-august-25/",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 136,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "new mac studio max ultra",
-      "topic": "New Mac Studio with M5 Max and M5 Ultra",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 219,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T13:03:17.000Z",
-      "sourceCount": 1,
-      "engagement": 1934,
-      "ageHours": 10.6,
-      "links": [
-        {
-          "title": "New Mac Studio with M5 Max and M5 Ultra",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 680,
-          "comments": 418
-        }
-      ]
-    },
-    {
-      "id": "xcancel also down least time being",
-      "topic": "XCancel also down, at least for time being",
-      "summary": "Message on xcancel website: &quot;On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe servi",
-      "category": "tech",
-      "momentum": 216,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T21:18:23.000Z",
-      "sourceCount": 1,
-      "engagement": 246,
-      "ageHours": 2.3,
-      "links": [
-        {
-          "title": "XCancel also down, at least for time being",
-          "url": "https://news.ycombinator.com/item?id=49440786",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 135,
-          "comments": 37
-        }
-      ]
-    },
-    {
-      "id": "economic day targets more than just iranian oil",
-      "topic": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-      "summary": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s w",
-      "category": "news",
-      "momentum": 208,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T22:58:03.000Z",
-      "sourceCount": 1,
-      "engagement": 53,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-          "source": "NYTimes",
-          "kind": "rss",
-          "score": 53,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "winston salem open",
-      "topic": "winston salem open",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 188,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "winston salem open",
-          "url": "https://www.atptour.com/en/news/winston-salem-2026-monday-report",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "lil nas says fans being nice him since",
-      "topic": "Lil Nas X Says Fans Are Being ‘OD Nice’ to Him Since He Got Out of Rehab",
-      "summary": "The \"Old Town Road\" rapper/singer seems to be in positive spirits since finding himself in legal trouble last summer.",
-      "category": "entertainment",
-      "momentum": 187,
-      "phase": "rising",
-      "firstSeen": "2026-08-25T23:20:27.000Z",
-      "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Lil Nas X Says Fans Are Being ‘OD Nice’ to Him Since He Got Out of Rehab",
-          "url": "https://www.billboard.com/music/music-news/lil-nas-x-after-rehab-fans-nice-1236324464/",
-          "source": "Billboard",
-          "kind": "rss",
-          "score": 40,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton beyonc pedro pascal sabrina carpenter more",
-      "topic": "Dolly Parton: Beyoncé, Pedro Pascal, Sabrina Carpenter & More Pay Tribute To “One Of One” Country Music Legend",
-      "summary": "Hollywood is mourning Dolly Parton, country musician, actress and philanthropist, who has died. The “9 to 5” and “Jolene” singer had been contending with ongoin",
-      "category": "entertainment",
-      "momentum": 178,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:00:00.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Dolly Parton: Beyoncé, Pedro Pascal, Sabrina Carpenter & More Pay Tribute To “One Of One” Country Music Legend",
-          "url": "https://deadline.com/2026/08/dolly-parton-tributes-hollywood-actors-country-musicians-1237050017/",
-          "source": "Deadline",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "montana man killed relatives including kids sunday dinner",
-      "topic": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, family says",
-      "summary": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, family says AP NewsSee more headlines & perspectives on Google News",
-      "category": "news",
-      "momentum": 176,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T21:33:10.000Z",
-      "sourceCount": 2,
-      "engagement": 100,
-      "ageHours": 2.1,
-      "links": [
-        {
-          "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, family says",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1FSSm1tMWNPS2pzLUJuZGw1TlRFUy14eVhTeTVBT1VDQ216NHF1dlVFVjJVMXltcUxUNTZZbFNqWTlmZldrRFZhRDBDTDVoYmszRVUzd21OWHUxU3c1eElRdE1hTnRXaUI3eG1WWmY1eHE2Ml91WWloaUFZNm5zdVRkakpUWnhBX3VDWExHN05BY1lFWEJJM2lVTkRVRUNfUktWNXdR?oc=5",
-          "source": "Google News US",
-          "kind": "rss",
-          "score": 58,
-          "comments": 0
-        },
-        {
-          "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, a family spokesperson says",
-          "url": "https://www.reddit.com/r/news/comments/1vydaib/a_montana_man_killed_8_relatives_including_4_kids/",
-          "source": "r/news",
-          "kind": "reddit",
-          "score": 42,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "canada announces retaliatory tariffs hundreds goods including steel",
-      "topic": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
-      "summary": "Move by Canada comes after US president spent morning railing against the country, calling it the ‘most difficult’ nation he deals with Canada announces retalia",
-      "category": "business",
-      "momentum": 168,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:17:34.000Z",
-      "sourceCount": 1,
-      "engagement": 48,
-      "ageHours": 0.3,
-      "links": [
-        {
-          "title": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-          "source": "Guardian US",
-          "kind": "rss",
-          "score": 48,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "chivas america",
-      "topic": "chivas vs america",
-      "summary": "Trending search interest (US).",
-      "category": "news",
-      "momentum": 165,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "chivas vs america",
-          "url": "https://www.chivasdecorazon.com.mx/es/noticias/41334/El-Clsico-de-Mxico-regresa-a-Oakland",
-          "source": "Google Trends US",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "sydney traffic",
-      "topic": "sydney traffic",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 165,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "sydney traffic",
-          "url": "https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTI3MTc1Lmh0bWwmYWxsPTE%3D",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "witcher gets free remaster",
-      "topic": "Witcher 3 gets free remaster",
-      "summary": "862 posts on Bluesky · cooling.",
-      "category": "entertainment",
-      "momentum": 164,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T20:05:22.513Z",
-      "sourceCount": 1,
-      "engagement": 472,
-      "ageHours": 3.5,
-      "links": [
-        {
-          "title": "Witcher 3 gets free remaster",
-          "url": "https://bsky.app/search?q=Witcher%203%20gets%20free%20remaster",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 148,
-          "comments": 108
-        }
-      ]
-    },
-    {
-      "id": "fda authorizes first wearable device that monitors ketone",
-      "topic": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 161,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T19:07:01.000Z",
-      "sourceCount": 1,
-      "engagement": 583,
-      "ageHours": 4.5,
-      "links": [
-        {
-          "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-          "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 208,
-          "comments": 125
-        }
-      ]
-    },
-    {
-      "id": "pennsylvania measles outbreak",
-      "topic": "Pennsylvania measles outbreak",
-      "summary": "2,687 posts on Bluesky · cooling.",
-      "category": "entertainment",
-      "momentum": 156,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T13:45:08.282Z",
-      "sourceCount": 1,
-      "engagement": 1175,
-      "ageHours": 9.9,
-      "links": [
-        {
-          "title": "Pennsylvania measles outbreak",
-          "url": "https://bsky.app/search?q=Pennsylvania%20measles%20outbreak",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 167,
-          "comments": 336
-        }
-      ]
-    },
-    {
-      "id": "dolly parton country music superstar whose songs spoke",
-      "topic": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
-      "summary": "Known for her outsize persona, appearance and talent, she rose from rural poverty to become a top-selling singer, songwriter and entrepreneur.",
-      "category": "entertainment",
-      "momentum": 151,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T17:57:00.000Z",
-      "sourceCount": 1,
-      "engagement": 518,
-      "ageHours": 5.7,
-      "links": [
-        {
-          "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
-          "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
-          "source": "Mastodon · The New York Times",
-          "kind": "mastodon",
-          "score": 105,
-          "comments": 120
-        }
-      ]
-    },
-    {
-      "id": "lauren london play snoop dogg mother biopic plus",
-      "topic": "Lauren London to Play Snoop Dogg’s Mother in Biopic, Plus 2Pac Casting News",
-      "summary": "Panic actor Camron Jones is slated to play Snoop's Death Row running mate.",
-      "category": "entertainment",
-      "momentum": 151,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:16:17.000Z",
-      "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Lauren London to Play Snoop Dogg’s Mother in Biopic, Plus 2Pac Casting News",
-          "url": "https://www.billboard.com/music/rb-hip-hop/lauren-london-snoop-dogg-mother-biopic-2pac-actor-1236324501/",
-          "source": "Billboard",
-          "kind": "rss",
-          "score": 40,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "smuggling",
-      "topic": "smuggling",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 151,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:40:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "smuggling",
-          "url": "https://www.abc.net.au/news/2026-08-26/tobacco-crackdown-puts-legitimate-parcels-in-limbo/107071132",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton effervescent queen country music just about",
-      "topic": "Dolly Parton, Effervescent Queen of Country Music and Just About Everything Else, Dies at 80",
-      "summary": "A shrewd dealmaker who launched Dollywood, the “Jolene” and “I Will Always Love You” singer-songwriter also starred in the films ‘9 to 5,’ ‘Steel Magnolias’ and",
-      "category": "entertainment",
-      "momentum": 150,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T17:57:50.000Z",
-      "sourceCount": 1,
-      "engagement": 714,
-      "ageHours": 5.7,
-      "links": [
-        {
-          "title": "Dolly Parton, Effervescent Queen of Country Music and Just About Everything Else, Dies at 80",
-          "url": "https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/",
-          "source": "Mastodon · The Hollywood Reporter",
-          "kind": "mastodon",
-          "score": 114,
-          "comments": 200
-        }
-      ]
-    },
-    {
-      "id": "motley fool",
-      "topic": "motley fool",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 149,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "motley fool",
-          "url": "https://seekingalpha.com/article/4939743-western-digital-time-to-jump-in-before-beast-mode-arrives-again",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "vladimir putin",
-      "topic": "vladimir putin",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 149,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:50:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 0.8,
-      "links": [
-        {
-          "title": "vladimir putin",
-          "url": "https://www.cnn.com/2026/08/25/europe/putin-decree-ukraine-russia-strikes-intl",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "friend aaron",
-      "topic": "My Friend Aaron",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 132,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T16:53:33.000Z",
-      "sourceCount": 1,
-      "engagement": 725,
-      "ageHours": 6.7,
-      "links": [
-        {
-          "title": "My Friend Aaron",
-          "url": "https://rorz.io/writing/my-friend-aaron",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 404,
-          "comments": 107
-        }
-      ]
-    },
-    {
-      "id": "trump proposes renaming lake ontario",
-      "topic": "Trump proposes renaming Lake Ontario",
-      "summary": "4,740 posts on Bluesky · cooling.",
-      "category": "entertainment",
-      "momentum": 130,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T11:03:49.500Z",
-      "sourceCount": 1,
-      "engagement": 1377,
-      "ageHours": 12.6,
-      "links": [
-        {
-          "title": "Trump proposes renaming Lake Ontario",
-          "url": "https://bsky.app/search?q=Trump%20proposes%20renaming%20Lake%20Ontario",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 177,
-          "comments": 400
-        }
-      ]
-    },
-    {
-      "id": "new mac mini featuring pro",
-      "topic": "New Mac mini, featuring M6 and M5 Pro",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 129,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T13:13:00.000Z",
-      "sourceCount": 1,
-      "engagement": 1116,
-      "ageHours": 10.4,
-      "links": [
-        {
-          "title": "New Mac mini, featuring M6 and M5 Pro",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 408,
-          "comments": 236
-        }
-      ]
-    },
-    {
-      "id": "taco tuesday",
-      "topic": "TACO Tuesday!",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 127,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:42:12.602Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.9,
-      "links": [
-        {
-          "title": "TACO Tuesday!",
-          "url": "https://discuss.online/pictrs/image/2924e0aa-737c-4be9-9245-bf8e777b4c14.jpeg",
-          "source": "Lemmy · antitrumpalliance",
-          "kind": "lemmy",
-          "score": 30,
-          "comments": 5
-        }
-      ]
-    },
-    {
-      "id": "groceries expensive they too busy talking about culture",
-      "topic": "Groceries are expensive and they're too busy talking about culture war",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 125,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T21:01:31.910Z",
-      "sourceCount": 1,
-      "engagement": 239,
-      "ageHours": 2.6,
-      "links": [
-        {
-          "title": "Groceries are expensive and they're too busy talking about culture war",
-          "url": "https://discuss.online/pictrs/image/03b6bb47-c34b-4159-bfcd-9767d3a0f9c4.jpeg",
-          "source": "Lemmy · workreform",
-          "kind": "lemmy",
-          "score": 134,
-          "comments": 35
-        }
-      ]
-    },
-    {
-      "id": "geralt returns witcher wild hunt songs past remastered",
-      "topic": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered",
-      "summary": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered XBOX Wire The Witcher 3: Wild Hunt — Remastered Announced, Songs of the Past Gets",
-      "category": "news",
-      "momentum": 124,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T21:02:11.000Z",
-      "sourceCount": 1,
-      "engagement": 115,
-      "ageHours": 2.6,
-      "links": [
-        {
-          "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY28yM1dpQVdRNW51eUJqTXZCMHNkRnhWX2EyWFNsSnlqZ2dNV3dtMFZQQUVrUFFqb28wSXEwZlpheGYwMGUwTkd5UU1mWW9yOEJWcWFTZmdfZjVVWEFLbGpqMl9DbFhOemxjZl9PRlVJZDcteHlOR2pIQS02TkpyaEpPTVh6SDlWNHfSAY8BQVVfeXFMTi1RZlprXzhOdjlONmlaTTlqS0M3X3RLUzZMR01mQ3VnZ0M3dktueklMZVEwaG0xeXNBYnhoSFMxZHkwMEVReUdVc3NvNGNwcll0MWhQS2c3blBybW5rVDFlSzh6MWlDT2FQOE9KSlhoazA2XzAyX1BHeHVsaXZZVGo1d2tfYkJ1ZjhsNUwtclU?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "john kennedy center performing arts",
-      "topic": "john f. kennedy center for the performing arts",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 123,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:40:00.000Z",
-      "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1,
-      "links": [
-        {
-          "title": "john f. kennedy center for the performing arts",
-          "url": "https://www.theguardian.com/us-news/2026/aug/25/trump-kennedy-center-demolish",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "dolly parton dead country music legend actress was",
-      "topic": "Dolly Parton Dead: Country Music Legend and Actress Was 80",
-      "summary": "Dolly Parton, considered by many to be the all-time queen of country music, and star of movies such as '9 to 5,' died Tuesday in Nashville at 80.",
-      "category": "entertainment",
-      "momentum": 123,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T17:55:39.000Z",
-      "sourceCount": 1,
-      "engagement": 589,
-      "ageHours": 5.7,
-      "links": [
-        {
-          "title": "Dolly Parton Dead: Country Music Legend and Actress Was 80",
-          "url": "https://variety.com/2026/music/news/dolly-parton-dead-dies-country-music-1236842727/",
-          "source": "Mastodon · Variety",
-          "kind": "mastodon",
-          "score": 109,
-          "comments": 160
-        }
-      ]
-    },
-    {
-      "id": "gold rush draws crypto firms away bitcoin",
-      "topic": "AI gold rush draws crypto firms away from Bitcoin",
-      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
-      "category": "tech",
-      "momentum": 119,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:11:02.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "AI gold rush draws crypto firms away from Bitcoin",
-          "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "mark ruffalo",
-      "topic": "mark ruffalo",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 116,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:30:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.1,
-      "links": [
-        {
-          "title": "mark ruffalo",
-          "url": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "gamescom opening night live airs",
-      "topic": "Gamescom Opening Night Live airs",
-      "summary": "1,814 posts on Bluesky · cooling.",
-      "category": "entertainment",
-      "momentum": 116,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T14:53:50.039Z",
-      "sourceCount": 1,
-      "engagement": 841,
-      "ageHours": 8.7,
-      "links": [
-        {
-          "title": "Gamescom Opening Night Live airs",
-          "url": "https://bsky.app/search?q=Gamescom%20Opening%20Night%20Live%20airs",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 160,
-          "comments": 227
-        }
-      ]
-    },
-    {
-      "id": "yellow warnings force rain thunderstorms hit parts",
-      "topic": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-      "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
-      "category": "news",
-      "momentum": 115,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:11:15.000Z",
-      "sourceCount": 1,
-      "engagement": 43,
-      "ageHours": 0.4,
-      "links": [
-        {
-          "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-          "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Science",
-          "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "trump official refuses say where foreign beef lower",
-      "topic": "Trump official refuses to say where foreign beef to lower prices is coming from",
-      "summary": "***Ranchers and Republicans alike have pushed back on the beef plan*** The Trump administration’s beef deal has met with stiff resistance from ranchers and Repu",
-      "category": "news",
-      "momentum": 115,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:31:15.336Z",
-      "sourceCount": 1,
-      "engagement": 49,
-      "ageHours": 1.1,
-      "links": [
-        {
-          "title": "Trump official refuses to say where foreign beef to lower prices is coming from",
-          "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-beef-imports-brooke-rollins-b3039094.html",
-          "source": "Lemmy · news",
-          "kind": "lemmy",
-          "score": 28,
-          "comments": 7
-        }
-      ]
-    },
-    {
-      "id": "sean clancy",
-      "topic": "sean clancy jr",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 113,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "sean clancy jr",
-          "url": "https://www.ufc.com/video/159473",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "better times back then",
-      "topic": "Better times back then",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 112,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T21:38:46.866Z",
-      "sourceCount": 1,
-      "engagement": 157,
-      "ageHours": 2,
-      "links": [
-        {
-          "title": "Better times back then",
-          "url": "https://discuss.online/pictrs/image/513f2a16-3588-4728-8d9d-481653b55041.jpeg",
-          "source": "Lemmy · microblogmemes",
-          "kind": "lemmy",
-          "score": 124,
-          "comments": 11
-        }
-      ]
-    },
-    {
-      "id": "sky ban kanter freedom arena after clash cloud",
-      "topic": "Sky ban Kanter Freedom from arena after clash with Cloud",
-      "summary": "Sky ban Kanter Freedom from arena after clash with Cloud ESPN Ex-NBA player tells Laura Ingraham why WNBA can't ban him: 'I identify as a woman' Fox News Chicag",
-      "category": "sports",
-      "momentum": 111,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:20:00.000Z",
-      "sourceCount": 1,
-      "engagement": 55,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "Sky ban Kanter Freedom from arena after clash with Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3FkbG5ZRkVTdkgzb3M2amxFVFppYmNpRmY0d3h0YVF0OW0xM1dMRnhqQWFMclhGTXVsLUlselF1QUp0by1VM1U5Ql9HUld3UlZrVVktRW5JZVBMNnFBM3c3cEdiVEZ3VThlMUYyTGhwQ2FRWHRubktzbGZ2ekNReEZma050OUQxNnlkUmd1Zw?oc=5",
-          "source": "Google News Sports",
-          "kind": "rss",
-          "score": 55,
-          "comments": 0
-        }
-      ]
-    },
-    {
       "id": "williams alcaraz reach mixed doubles quarters before exit",
       "topic": "Williams and Alcaraz reach mixed doubles quarters before exit",
       "summary": "Star pairing Serena Williams and Carlos Alcaraz reached the quarter-finals of the US Open mixed doubles before being beaten by fourth seeds Belinda Bencic and F",
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.166Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2007,7 +1991,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.166Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2029,7 +2013,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.166Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2051,7 +2035,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.166Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2073,7 +2057,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2095,7 +2079,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2117,7 +2101,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2139,7 +2123,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2161,7 +2145,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2183,7 +2167,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2205,7 +2189,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2227,7 +2211,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2249,7 +2233,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2271,7 +2255,7 @@
       "category": "sports",
       "momentum": 109,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:36:23.167Z",
+      "firstSeen": "2026-08-25T23:56:32.912Z",
       "sourceCount": 1,
       "engagement": 23,
       "ageHours": 0.3,
@@ -2287,60 +2271,16 @@
       ]
     },
     {
-      "id": "back school how save uniform costs",
-      "topic": "Back to school: How to save on uniform costs",
-      "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
-      "category": "business",
-      "momentum": 109,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:08:31.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.5,
-      "links": [
-        {
-          "title": "Back to school: How to save on uniform costs",
-          "url": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "openai jalape better than nvidia blackwell",
-      "topic": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "summary": "https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl... ,  https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr",
-      "category": "tech",
-      "momentum": 107,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T14:06:02.000Z",
-      "sourceCount": 1,
-      "engagement": 834,
-      "ageHours": 9.5,
-      "links": [
-        {
-          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 273,
-          "comments": 187
-        }
-      ]
-    },
-    {
       "id": "trump threatens demolish kennedy center 250m renovation not",
       "topic": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
       "summary": "US president’s lawyers in court filing say Washington arts complex must undergo repairs or risk demolition The John F Kennedy Center for the Performing Arts cou",
       "category": "news",
-      "momentum": 106,
+      "momentum": 108,
       "phase": "peaking",
       "firstSeen": "2026-08-25T22:22:40.985Z",
       "sourceCount": 1,
-      "engagement": 93,
-      "ageHours": 1.3,
+      "engagement": 98,
+      "ageHours": 1.6,
       "links": [
         {
           "title": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
@@ -2353,21 +2293,43 @@
       ]
     },
     {
-      "id": "winter energy prices expected rise three year high",
-      "topic": "Winter energy prices expected to rise to three-year high",
-      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
-      "category": "business",
+      "id": "openai jalape better than nvidia blackwell",
+      "topic": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "summary": "https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl... ,  https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr",
+      "category": "tech",
       "momentum": 105,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:07:29.000Z",
+      "firstSeen": "2026-08-25T14:06:02.000Z",
+      "sourceCount": 1,
+      "engagement": 852,
+      "ageHours": 9.9,
+      "links": [
+        {
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 279,
+          "comments": 191
+        }
+      ]
+    },
+    {
+      "id": "crane astros needed change top espada decision will",
+      "topic": "Crane: Astros needed change at top; Espada decision will come after season",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "sports",
+      "momentum": 103,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T23:27:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
       "ageHours": 0.5,
       "links": [
         {
-          "title": "Winter energy prices expected to rise to three-year high",
-          "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Crane: Astros needed change at top; Espada decision will come after season",
+          "url": "https://www.mlb.com/news/jim-crane-addresses-parting-with-dana-brown",
+          "source": "MLB.com",
           "kind": "rss",
           "score": 45,
           "comments": 0
@@ -2375,141 +2337,67 @@
       ]
     },
     {
-      "id": "bernard tomic",
-      "topic": "bernard tomic",
-      "summary": "Trending search interest (AU).",
-      "category": "news",
-      "momentum": 105,
+      "id": "democrats debate hasan piker role",
+      "topic": "Democrats debate Hasan Piker's role",
+      "summary": "211 posts on Bluesky · trending.",
+      "category": "entertainment",
+      "momentum": 100,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T22:30:00.000Z",
+      "firstSeen": "2026-08-25T20:45:58.353Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1.1,
+      "engagement": 202,
+      "ageHours": 3.2,
       "links": [
         {
-          "title": "bernard tomic",
-          "url": "https://www.abc.net.au/news/2026-08-26/tennis-tomic-jones-beaten-us-open-qualifiers/107078538",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
+          "title": "Democrats debate Hasan Piker's role",
+          "url": "https://bsky.app/search?q=Democrats%20debate%20Hasan%20Piker's%20role",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 124,
+          "comments": 26
         }
       ]
     },
     {
-      "id": "porter wagoner",
-      "topic": "porter wagoner",
-      "summary": "Trending search interest (AU).",
+      "id": "better times back then",
+      "topic": "Better times back then",
+      "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "news",
-      "momentum": 105,
+      "momentum": 99,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T22:30:00.000Z",
+      "firstSeen": "2026-08-25T21:38:46.866Z",
       "sourceCount": 1,
-      "engagement": 100,
-      "ageHours": 1.1,
+      "engagement": 174,
+      "ageHours": 2.3,
       "links": [
         {
-          "title": "porter wagoner",
-          "url": "https://www.justjared.com/2026/08/25/who-was-porter-wagoner-dolly-partons-complicated-relationship-the-true-story-behind-i-will-always-love-you/",
-          "source": "Google Trends AU",
-          "kind": "googletrends",
-          "score": 100,
-          "comments": 0
+          "title": "Better times back then",
+          "url": "https://discuss.online/pictrs/image/513f2a16-3588-4728-8d9d-481653b55041.jpeg",
+          "source": "Lemmy · microblogmemes",
+          "kind": "lemmy",
+          "score": 138,
+          "comments": 12
         }
       ]
     },
     {
-      "id": "utah library confirms lgbtq pride book its smallest",
-      "topic": "Utah library confirms LGBTQ 'Pride' book for its 'smallest patrons' is kept easily accessible",
-      "summary": "The Provo City Library confirmed to Fox News Digital it includes \"Pride is Love\" and other LGBTQ board books in its collection, saying they are shelved among 2,",
-      "category": "news",
-      "momentum": 104,
+      "id": "alcaraz williams thrill brief but bright open mixed",
+      "topic": "Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing",
+      "summary": "Serena Williams and Carlos Alcaraz were among the star double-acts in New York as the US Open mixed doubles competition got under way on Tuesday.",
+      "category": "sports",
+      "momentum": 98,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:08:38.000Z",
+      "firstSeen": "2026-08-25T23:25:29.000Z",
       "sourceCount": 1,
-      "engagement": 43,
+      "engagement": 45,
       "ageHours": 0.5,
       "links": [
         {
-          "title": "Utah library confirms LGBTQ 'Pride' book for its 'smallest patrons' is kept easily accessible",
-          "url": "https://www.foxnews.com/media/utah-library-confirms-lgbtq-pride-book-its-smallest-patrons-kept-easily-accessible",
-          "source": "Fox News",
+          "title": "Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
           "kind": "rss",
-          "score": 43,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "gonna need bigger boot",
-      "topic": "Gonna need a bigger boot",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "news",
-      "momentum": 104,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T21:46:05.507Z",
-      "sourceCount": 1,
-      "engagement": 143,
-      "ageHours": 1.9,
-      "links": [
-        {
-          "title": "Gonna need a bigger boot",
-          "url": "https://lemmy.dbzer0.com/pictrs/image/6bb0989a-d683-4a20-9d13-b233c2106a3f.webp",
-          "source": "Lemmy · comicstrips",
-          "kind": "lemmy",
-          "score": 59,
-          "comments": 28
-        }
-      ]
-    },
-    {
-      "id": "iran inflicted billions damage intelligence sites sources say",
-      "topic": "Iran inflicted billions in damage to U.S. intelligence sites, sources say | The attacks on buildings and surveillance equipment in the Middle East caused unprecedented damage for the CIA and other U.S. spy agencies.",
-      "summary": "submitted by /u/RollSafer to r/worldnews [link] [comments]",
-      "category": "news",
-      "momentum": 103,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T20:43:55.000Z",
-      "sourceCount": 2,
-      "engagement": 82,
-      "ageHours": 2.9,
-      "links": [
-        {
-          "title": "Iran inflicted billions in damage to U.S. intelligence sites, sources say | The attacks on buildings and surveillance equipment in the Middle East caused unprecedented damage for the CIA and other U.S. spy agencies.",
-          "url": "https://www.reddit.com/r/worldnews/comments/1vybyiw/iran_inflicted_billions_in_damage_to_us/",
-          "source": "r/worldnews",
-          "kind": "reddit",
-          "score": 42,
-          "comments": 0
-        },
-        {
-          "title": "Iran inflicted billions in damage to U.S. intelligence sites, sources say",
-          "url": "https://www.nbcnews.com/politics/national-security/iran-inflicted-billions-damage-us-intelligence-sites-sources-say-rcna591879",
-          "source": "Lemmy · world",
-          "kind": "lemmy",
-          "score": 31,
-          "comments": 3
-        }
-      ]
-    },
-    {
-      "id": "christian convert who fled iran was deported trump",
-      "topic": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-      "summary": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
-      "category": "news",
-      "momentum": 102,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:03:11.000Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-          "source": "NYT World",
-          "kind": "rss",
-          "score": 50,
+          "score": 45,
           "comments": 0
         }
       ]
@@ -2519,42 +2407,64 @@
       "topic": "Building a backyard office, the build and cost breakdown",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 101,
+      "momentum": 98,
       "phase": "peaking",
       "firstSeen": "2026-08-25T14:20:36.000Z",
       "sourceCount": 1,
-      "engagement": 773,
-      "ageHours": 9.3,
+      "engagement": 782,
+      "ageHours": 9.6,
       "links": [
         {
           "title": "Building a backyard office, the build and cost breakdown",
           "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 242,
-          "comments": 177
+          "score": 245,
+          "comments": 179
         }
       ]
     },
     {
-      "id": "daily record",
-      "topic": "daily record",
-      "summary": "Trending search interest (GB).",
-      "category": "news",
-      "momentum": 101,
+      "id": "gosling develops flintstones movie",
+      "topic": "Gosling develops Flintstones movie",
+      "summary": "114 posts on Bluesky · trending.",
+      "category": "entertainment",
+      "momentum": 97,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T22:20:00.000Z",
+      "firstSeen": "2026-08-25T19:46:07.356Z",
       "sourceCount": 1,
-      "engagement": 111,
-      "ageHours": 1.3,
+      "engagement": 156,
+      "ageHours": 4.2,
       "links": [
         {
-          "title": "daily record",
-          "url": "https://www.bbc.com/sport/football/articles/cgmkmpj03zmo",
-          "source": "Google Trends UK",
-          "kind": "googletrends",
-          "score": 111,
-          "comments": 0
+          "title": "Gosling develops Flintstones movie",
+          "url": "https://bsky.app/search?q=Gosling%20develops%20Flintstones%20movie",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 114,
+          "comments": 14
+        }
+      ]
+    },
+    {
+      "id": "nice hair but hate when this happens",
+      "topic": "Nice hair but hate it when this happens..",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 95,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T22:50:24.759Z",
+      "sourceCount": 1,
+      "engagement": 41,
+      "ageHours": 1.1,
+      "links": [
+        {
+          "title": "Nice hair but hate it when this happens..",
+          "url": "https://lemmy.world/pictrs/image/ccb33dfd-0c75-42db-afbc-e77e7283d83f.png",
+          "source": "Lemmy · memes",
+          "kind": "lemmy",
+          "score": 29,
+          "comments": 4
         }
       ]
     },
@@ -2563,86 +2473,64 @@
       "topic": "Black hole singularity is a surface not a point",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 96,
+      "momentum": 94,
       "phase": "peaking",
       "firstSeen": "2026-08-25T17:02:49.000Z",
       "sourceCount": 1,
-      "engagement": 519,
-      "ageHours": 6.6,
+      "engagement": 532,
+      "ageHours": 6.9,
       "links": [
         {
           "title": "Black hole singularity is a surface not a point",
           "url": "https://arxiv.org/abs/2608.21590",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 162,
-          "comments": 119
+          "score": 166,
+          "comments": 122
         }
       ]
     },
     {
-      "id": "adam mosseri says news that instagram employees limited",
-      "topic": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
-      "summary": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial.",
-      "category": "tech",
-      "momentum": 95,
+      "id": "shopping cart etiquette praxis",
+      "topic": "Shopping cart etiquette is praxis",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 94,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T23:08:06.000Z",
+      "firstSeen": "2026-08-25T22:20:22.792Z",
       "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 0.5,
+      "engagement": 86,
+      "ageHours": 1.6,
       "links": [
         {
-          "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
-          "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
-          "source": "Engadget",
-          "kind": "rss",
-          "score": 40,
-          "comments": 0
+          "title": "Shopping cart etiquette is praxis",
+          "url": "https://lemmy.dbzer0.com/pictrs/image/6881cc9d-b0df-4e6c-be6d-d78a5a6c5061.webp",
+          "source": "Lemmy · flippanarchy",
+          "kind": "lemmy",
+          "score": 41,
+          "comments": 15
         }
       ]
     },
     {
-      "id": "here how much nvidia stock expected move after",
-      "topic": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings",
-      "summary": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings Investopedia Nvidia's Q2 earnings to test resurgent AI trade Yahoo Finance Nvidia Earnings: A Sc",
-      "category": "business",
-      "momentum": 91,
+      "id": "gonna need bigger boot",
+      "topic": "Gonna need a bigger boot",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "news",
+      "momentum": 92,
       "phase": "peaking",
-      "firstSeen": "2026-08-25T20:06:00.000Z",
+      "firstSeen": "2026-08-25T21:46:05.507Z",
       "sourceCount": 1,
-      "engagement": 115,
-      "ageHours": 3.5,
+      "engagement": 156,
+      "ageHours": 2.2,
       "links": [
         {
-          "title": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUVrUnBqVHJPeXJmX1FJcmRUZ19XWmJkZU5RcUJLbUxIc1pLOTdiME5Kb1NXTTEyNFdPVjhrZlNnTXh0b21zcmMtSGxzMmhFNW5EaHdRVFVqT21vdU90ZDlaSVUtb29EY25hQVJXV3NiN2lTOVVDZ2hjZ2U0Qjk0YTVwWHp2b25MRmlqS0g4QVNpVVdMUVFMOHFQU0RDZTdqSlpRTEZqdnp5RHdTQlhVcDFEd2gzN3NCXy1DdVBERTVtQQ?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "opinion chicago debating over casinos video gaming sweepstakes",
-      "topic": "OPINION: Chicago’s debating over casinos, video gaming and sweepstakes — so what’s the difference?",
-      "summary": "OPINION: Chicago’s debating over casinos, video gaming and sweepstakes — so what’s the difference? CDC Gaming",
-      "category": "games",
-      "momentum": 89,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:57:51.000Z",
-      "sourceCount": 1,
-      "engagement": 50,
-      "ageHours": 0.7,
-      "links": [
-        {
-          "title": "OPINION: Chicago’s debating over casinos, video gaming and sweepstakes — so what’s the difference?",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlNKWnZzMnA1b2xzM2ZTTmQwZlhfVU1YZTBDR3pVdk42dXVLV0M1czZBblFOQjY0c2dIbkdtTEFTZ21zUi1XbXlzMnUtNk5aMmVfV1NnMnl6RjlOZmx1Yi10emcwbjlqUDQ5SEJYLVFFYVJ2RG1BamtQMEh0ZG9oZXhHLVpuT2xkMGlfbzNVelA1SDZIdzUwYlJicWgxbThUNmdCYmRWY01SbnNGRi1LakMxZVl0MWhwVGVSQQ?oc=5",
-          "source": "Google News Games",
-          "kind": "rss",
-          "score": 50,
-          "comments": 0
+          "title": "Gonna need a bigger boot",
+          "url": "https://lemmy.dbzer0.com/pictrs/image/6bb0989a-d683-4a20-9d13-b233c2106a3f.webp",
+          "source": "Lemmy · comicstrips",
+          "kind": "lemmy",
+          "score": 66,
+          "comments": 30
         }
       ]
     },
@@ -2651,20 +2539,218 @@
       "topic": "Firefox 157 will include JPEG XL by default on all platforms",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "tech",
-      "momentum": 88,
+      "momentum": 84,
       "phase": "peaking",
       "firstSeen": "2026-08-25T17:55:23.000Z",
       "sourceCount": 1,
-      "engagement": 406,
-      "ageHours": 5.7,
+      "engagement": 416,
+      "ageHours": 6,
       "links": [
         {
           "title": "Firefox 157 will include JPEG XL by default on all platforms",
           "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
           "source": "Hacker News",
           "kind": "hackernews",
-          "score": 241,
-          "comments": 55
+          "score": 242,
+          "comments": 58
+        }
+      ]
+    },
+    {
+      "id": "bomb fishing wreaking havoc indonesia coral reefs",
+      "topic": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 83,
+      "phase": "peaking",
+      "firstSeen": "2026-08-25T14:29:32.000Z",
+      "sourceCount": 1,
+      "engagement": 651,
+      "ageHours": 9.5,
+      "links": [
+        {
+          "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+          "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 246,
+          "comments": 135
+        }
+      ]
+    },
+    {
+      "id": "python pre declared constants kinda weird",
+      "topic": "Python's pre-declared constants are kinda weird",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 74,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T21:39:02.000Z",
+      "sourceCount": 1,
+      "engagement": 241,
+      "ageHours": 2.3,
+      "links": [
+        {
+          "title": "Python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 97,
+          "comments": 48
+        }
+      ]
+    },
+    {
+      "id": "show texbrain latex editor that runs pdftex browser",
+      "topic": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "summary": "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine un",
+      "category": "tech",
+      "momentum": 72,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T22:08:50.000Z",
+      "sourceCount": 1,
+      "engagement": 50,
+      "ageHours": 1.8,
+      "links": [
+        {
+          "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+          "url": "https://github.com/swimmingbrain/texbrain",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 29,
+          "comments": 7
+        }
+      ]
+    },
+    {
+      "id": "judge takes another step toward return looks good",
+      "topic": "Judge takes another step toward return: 'He looks good'",
+      "summary": "Schmidt close to starting rehab assignment with eye on joining bullpen",
+      "category": "sports",
+      "momentum": 71,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T23:13:00.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Judge takes another step toward return: 'He looks good'",
+          "url": "https://www.mlb.com/news/aaron-judge-takes-batting-practice-in-indoor-cages",
+          "source": "MLB.com",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "run openbsd digitalocean month",
+      "topic": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary": "Surfacing across 2 channels with rising engagement.",
+      "category": "tech",
+      "momentum": 70,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T16:44:37.661Z",
+      "sourceCount": 1,
+      "engagement": 294,
+      "ageHours": 7.2,
+      "links": [
+        {
+          "title": "Run OpenBSD on DigitalOcean for $4/month",
+          "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+          "source": "Hacker News",
+          "kind": "hackernews",
+          "score": 109,
+          "comments": 50
+        }
+      ]
+    },
+    {
+      "id": "gold rush draws crypto firms away bitcoin",
+      "topic": "AI gold rush draws crypto firms away from Bitcoin",
+      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
+      "category": "tech",
+      "momentum": 68,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T23:11:02.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "AI gold rush draws crypto firms away from Bitcoin",
+          "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "move python begins",
+      "topic": "The Move to Python 3 Begins",
+      "summary": "Surfacing across 1 channel with rising engagement.",
+      "category": "tech",
+      "momentum": 66,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T16:52:46.126Z",
+      "sourceCount": 1,
+      "engagement": 288,
+      "ageHours": 7.1,
+      "links": [
+        {
+          "title": "The Move to Python 3 Begins",
+          "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+          "source": "Lobsters",
+          "kind": "lobsters",
+          "score": 240,
+          "comments": 16
+        }
+      ]
+    },
+    {
+      "id": "c2pa cameras not survive contact reality",
+      "topic": "C2PA Cameras Do Not Survive Contact With Reality",
+      "summary": "Surfacing across 2 channels with rising engagement.",
+      "category": "tech",
+      "momentum": 64,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T15:51:24.594Z",
+      "sourceCount": 1,
+      "engagement": 255,
+      "ageHours": 8.1,
+      "links": [
+        {
+          "title": "C2PA Cameras Do Not Survive Contact With Reality",
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Lobsters",
+          "kind": "lobsters",
+          "score": 108,
+          "comments": 4
+        }
+      ]
+    },
+    {
+      "id": "back school how save uniform costs",
+      "topic": "Back to school: How to save on uniform costs",
+      "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
+      "category": "business",
+      "momentum": 64,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T23:08:31.000Z",
+      "sourceCount": 1,
+      "engagement": 45,
+      "ageHours": 0.8,
+      "links": [
+        {
+          "title": "Back to school: How to save on uniform costs",
+          "url": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "kind": "rss",
+          "score": 45,
+          "comments": 0
         }
       ]
     },
@@ -2673,12 +2759,12 @@
       "topic": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
       "summary": "“The property is very old and requires significant ongoing maintenance.”",
       "category": "business",
-      "momentum": 87,
-      "phase": "peaking",
+      "momentum": 56,
+      "phase": "fading",
       "firstSeen": "2026-08-25T23:01:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 0.6,
+      "ageHours": 1,
       "links": [
         {
           "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
@@ -2691,24 +2777,24 @@
       ]
     },
     {
-      "id": "trump threatens rename lake ontario canada announces retaliatory",
-      "topic": "Trump threatens to rename Lake Ontario as Canada announces retaliatory tariffs",
-      "summary": "President Trump threatened to rename Lake Ontario to Lake America on Tuesday as Canada announced retaliatory tariffs against the United States as the countries'",
+      "id": "canada announces retaliatory tariffs",
+      "topic": "Canada announces retaliatory tariffs",
+      "summary": "3,446 posts on Bluesky · cooling.",
       "category": "business",
-      "momentum": 86,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T23:00:46.000Z",
+      "momentum": 55,
+      "phase": "fading",
+      "firstSeen": "2026-08-24T18:04:00.828Z",
       "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.6,
+      "engagement": 1372,
+      "ageHours": 29.9,
       "links": [
         {
-          "title": "Trump threatens to rename Lake Ontario as Canada announces retaliatory tariffs",
-          "url": "https://www.cbsnews.com/video/canada-announces-retaliatory-tariffs-on-us-as-trump-threatens-to-rename-lake-ontario/",
-          "source": "CBS News",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
+          "title": "Canada announces retaliatory tariffs",
+          "url": "https://bsky.app/search?q=Canada%20announces%20retaliatory%20tariffs",
+          "source": "Bluesky",
+          "kind": "bluesky",
+          "score": 172,
+          "comments": 400
         }
       ]
     },
@@ -2717,12 +2803,12 @@
       "topic": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
       "summary": "The Longing counts down 400 real-world days whether you're playing or not…as you decorate a cave, read Moby Dick cover to cover, and more.",
       "category": "games",
-      "momentum": 85,
-      "phase": "peaking",
+      "momentum": 55,
+      "phase": "fading",
       "firstSeen": "2026-08-25T23:00:14.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 0.6,
+      "ageHours": 1,
       "links": [
         {
           "title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
@@ -2739,12 +2825,12 @@
       "topic": "The 5 Most Unforgettable Moments of Critical Role Campaign 4 So Far",
       "summary": "The second arc of Critical Role Campaign 4 is just around the corner. Here's a recap of the 5 wildest moments so far.",
       "category": "games",
-      "momentum": 85,
-      "phase": "peaking",
+      "momentum": 55,
+      "phase": "fading",
       "firstSeen": "2026-08-25T23:00:14.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 0.6,
+      "ageHours": 1,
       "links": [
         {
           "title": "The 5 Most Unforgettable Moments of Critical Role Campaign 4 So Far",
@@ -2757,82 +2843,16 @@
       ]
     },
     {
-      "id": "hrgovic taunts starting wind",
-      "topic": "Hrgovic taunts starting to wind me up",
-      "summary": "Moses Itauma says Filip Hrgovic's comments are starting to \"wind him up\" before their fight on Saturday.",
-      "category": "sports",
-      "momentum": 84,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T22:59:47.000Z",
-      "sourceCount": 1,
-      "engagement": 45,
-      "ageHours": 0.6,
-      "links": [
-        {
-          "title": "Hrgovic taunts starting to wind me up",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/cly46v7zepgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport",
-          "kind": "rss",
-          "score": 45,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "bomb fishing wreaking havoc indonesia coral reefs",
-      "topic": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 84,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T14:29:32.000Z",
-      "sourceCount": 1,
-      "engagement": 642,
-      "ageHours": 9.1,
-      "links": [
-        {
-          "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-          "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 243,
-          "comments": 133
-        }
-      ]
-    },
-    {
-      "id": "run openbsd digitalocean month",
-      "topic": "Run OpenBSD on DigitalOcean for $4/month",
-      "summary": "Surfacing across 2 channels with rising engagement.",
-      "category": "tech",
-      "momentum": 81,
-      "phase": "peaking",
-      "firstSeen": "2026-08-25T16:44:37.661Z",
-      "sourceCount": 1,
-      "engagement": 284,
-      "ageHours": 6.9,
-      "links": [
-        {
-          "title": "Run OpenBSD on DigitalOcean for $4/month",
-          "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 108,
-          "comments": 47
-        }
-      ]
-    },
-    {
       "id": "dick sporting goods epic drop hits other footwear",
       "topic": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
       "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
       "category": "business",
-      "momentum": 78,
+      "momentum": 52,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:57:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 0.7,
+      "ageHours": 1,
       "links": [
         {
           "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
@@ -2849,12 +2869,12 @@
       "topic": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
       "summary": "CNBC’s Jim Cramer said investors shouldn’t give up on Dick’s after its record 30% plunge.",
       "category": "business",
-      "momentum": 68,
+      "momentum": 48,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:47:37.000Z",
       "sourceCount": 1,
       "engagement": 48,
-      "ageHours": 0.8,
+      "ageHours": 1.2,
       "links": [
         {
           "title": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
@@ -2867,82 +2887,16 @@
       ]
     },
     {
-      "id": "spacex unveils starbase launch site louisiana moves orbital",
-      "topic": "SpaceX unveils Starbase launch site in Louisiana, moves up orbital data center launch timeline",
-      "summary": "SpaceX unveils Starbase launch site in Louisiana, moves up orbital data center launch timeline Yahoo Finance SpaceX plans to build a $100 billion spaceport in L",
-      "category": "tech",
-      "momentum": 67,
-      "phase": "fading",
-      "firstSeen": "2026-08-25T18:48:27.000Z",
-      "sourceCount": 1,
-      "engagement": 115,
-      "ageHours": 4.8,
-      "links": [
-        {
-          "title": "SpaceX unveils Starbase launch site in Louisiana, moves up orbital data center launch timeline",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkV3M2t0cHNmazJ0QmxKSzhlR0QzckF4c1dSMWpQdktrZnpMU3JUdkg2VmVObFlQb2ZsazMtZTZqVTFhUHNQelA4RFF6R1Jzekk1Nk1Pbm5ERnY3b3pJVTJmWnMtSGk0cEJqODV0T0FYUUFyX0NtV1NkM3RlamhfRkpWOWpVbEtLcU1kRDZGQTNfb29hdTYtWmg0eEc1a1RBQkhXNlJhOVdVZm5KV3lRZWZBM3lSQ3BiTGZVRHN2THJfSEtOUmJ3QnhYeUZKSURYbzQ1X05ncTdKSFhKYkJ5QUtfMlVJM2NyTHpYaXJB?oc=5",
-          "source": "Google News",
-          "kind": "rss",
-          "score": 60,
-          "comments": 0
-        }
-      ]
-    },
-    {
-      "id": "when str lower security vulnerability python seth larson",
-      "topic": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 66,
-      "phase": "fading",
-      "firstSeen": "2026-08-25T20:49:03.000Z",
-      "sourceCount": 1,
-      "engagement": 98,
-      "ageHours": 2.8,
-      "links": [
-        {
-          "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-          "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 35,
-          "comments": 21
-        }
-      ]
-    },
-    {
-      "id": "don wordle",
-      "topic": "Don't Wordle",
-      "summary": "Surfacing across 1 channel with rising engagement.",
-      "category": "tech",
-      "momentum": 65,
-      "phase": "fading",
-      "firstSeen": "2026-08-25T11:49:48.000Z",
-      "sourceCount": 1,
-      "engagement": 627,
-      "ageHours": 11.8,
-      "links": [
-        {
-          "title": "Don't Wordle",
-          "url": "https://dontwordle.com/",
-          "source": "Hacker News",
-          "kind": "hackernews",
-          "score": 291,
-          "comments": 112
-        }
-      ]
-    },
-    {
       "id": "too old roth conversions wife have million saved",
       "topic": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
       "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
       "category": "business",
-      "momentum": 61,
+      "momentum": 44,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:45:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 0.9,
+      "ageHours": 1.2,
       "links": [
         {
           "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
@@ -2959,12 +2913,12 @@
       "topic": "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
       "summary": "Surfacing across 1 channel with rising engagement.",
       "category": "games",
-      "momentum": 61,
+      "momentum": 44,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:45:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 0.9,
+      "ageHours": 1.2,
       "links": [
         {
           "title": "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
@@ -2977,53 +2931,23 @@
       ]
     },
     {
-      "id": "canada announces retaliatory tariffs",
-      "topic": "Canada announces retaliatory tariffs",
-      "summary": "3,382 posts on Bluesky · cooling.",
+      "id": "canada home deference trump turns defiance tariffs other",
+      "topic": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+      "summary": "While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his",
       "category": "business",
-      "momentum": 55,
+      "momentum": 35,
       "phase": "fading",
-      "firstSeen": "2026-08-24T18:04:00.828Z",
+      "firstSeen": "2026-08-25T22:11:09.000Z",
       "sourceCount": 1,
-      "engagement": 1371,
-      "ageHours": 29.6,
+      "engagement": 53,
+      "ageHours": 1.8,
       "links": [
         {
-          "title": "Canada announces retaliatory tariffs",
-          "url": "https://bsky.app/search?q=Canada%20announces%20retaliatory%20tariffs",
-          "source": "Bluesky",
-          "kind": "bluesky",
-          "score": 171,
-          "comments": 400
-        }
-      ]
-    },
-    {
-      "id": "world humanoid robot games show runners breaking records",
-      "topic": "World humanoid robot games show runners breaking records, bursting into flames",
-      "summary": "World humanoid robot games show runners breaking records, bursting into flames Ars Technica China will struggle to make money from humanoid robots The Economist",
-      "category": "games",
-      "momentum": 47,
-      "phase": "fading",
-      "firstSeen": "2026-08-25T20:59:03.000Z",
-      "sourceCount": 2,
-      "engagement": 98,
-      "ageHours": 2.6,
-      "links": [
-        {
-          "title": "World humanoid robot games show runners breaking records, bursting into flames",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVprLWQ5ZENrejg3TEpFcXVFc3ZYb2wwQmlYWXF4RVRpTXJsWmNHVy1YanFHdlhHcTFzUzBYdWhlaDNBakNfUy1qczlVc2lPZ292MlpTWXdyUUpNZjQtSExLcnZ6RElGS2dHRE95b2lsOGpNMGtNZExTREJhU1NoLWVPVGVhMnRXck1NNXd3MEc2alUxcVJMaEN1YUVxNGV5akVpc2dxU1JOOTkyMVVrdkx5TQ?oc=5",
-          "source": "Google News Sports",
+          "title": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+          "source": "NYTimes",
           "kind": "rss",
-          "score": 55,
-          "comments": 0
-        },
-        {
-          "title": "World humanoid robot games show runners breaking records, bursting into flames",
-          "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-          "source": "Ars Technica",
-          "kind": "rss",
-          "score": 43,
+          "score": 53,
           "comments": 0
         }
       ]
@@ -3033,12 +2957,12 @@
       "topic": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
       "summary": "Cyberleek or someone closely associated with the group or leaker might have made a mistake",
       "category": "games",
-      "momentum": 39,
+      "momentum": 31,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:25:01.000Z",
       "sourceCount": 1,
       "engagement": 40,
-      "ageHours": 1.2,
+      "ageHours": 1.6,
       "links": [
         {
           "title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
@@ -3055,12 +2979,12 @@
       "topic": "After 25 Years, Sci-fi Cult Classic Donnie Darko is Officially Getting a Proper Sequel",
       "summary": "Richard Kelly is releasing a sequel book to Donnie Darko 25 years after the cult classic first confused audiences.",
       "category": "games",
-      "momentum": 37,
+      "momentum": 30,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:11:38.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 1.4,
+      "ageHours": 1.8,
       "links": [
         {
           "title": "After 25 Years, Sci-fi Cult Classic Donnie Darko is Officially Getting a Proper Sequel",
@@ -3073,38 +2997,16 @@
       ]
     },
     {
-      "id": "game says reconsidered including drake verse brakes protect",
-      "topic": "The Game Says He Reconsidered Including Drake Verse on ‘No Brakes’ to ‘Protect the Coast’: ‘I Pulled Certain Things Off the Album’",
-      "summary": "The Compton rapper hinted at there being multiple versions of the song during a recent radio interview.",
-      "category": "games",
-      "momentum": 36,
-      "phase": "fading",
-      "firstSeen": "2026-08-25T22:19:08.000Z",
-      "sourceCount": 1,
-      "engagement": 40,
-      "ageHours": 1.3,
-      "links": [
-        {
-          "title": "The Game Says He Reconsidered Including Drake Verse on ‘No Brakes’ to ‘Protect the Coast’: ‘I Pulled Certain Things Off the Album’",
-          "url": "https://www.billboard.com/music/rb-hip-hop/the-game-drake-verse-no-brakes-1236324463/",
-          "source": "Billboard",
-          "kind": "rss",
-          "score": 40,
-          "comments": 0
-        }
-      ]
-    },
-    {
       "id": "today only best buy has 5tb seagate portable",
       "topic": "For Today Only, Best Buy Has a 5TB Seagate Portable Hard Drive for $169.99",
       "summary": "The best price for 5TB of portable storage in today's overpriced market.",
       "category": "games",
-      "momentum": 36,
+      "momentum": 30,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:10:00.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 1.5,
+      "ageHours": 1.8,
       "links": [
         {
           "title": "For Today Only, Best Buy Has a 5TB Seagate Portable Hard Drive for $169.99",
@@ -3117,16 +3019,38 @@
       ]
     },
     {
+      "id": "game says reconsidered including drake verse brakes protect",
+      "topic": "The Game Says He Reconsidered Including Drake Verse on ‘No Brakes’ to ‘Protect the Coast’: ‘I Pulled Certain Things Off the Album’",
+      "summary": "The Compton rapper hinted at there being multiple versions of the song during a recent radio interview.",
+      "category": "games",
+      "momentum": 29,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T22:19:08.000Z",
+      "sourceCount": 1,
+      "engagement": 40,
+      "ageHours": 1.7,
+      "links": [
+        {
+          "title": "The Game Says He Reconsidered Including Drake Verse on ‘No Brakes’ to ‘Protect the Coast’: ‘I Pulled Certain Things Off the Album’",
+          "url": "https://www.billboard.com/music/rb-hip-hop/the-game-drake-verse-no-brakes-1236324463/",
+          "source": "Billboard",
+          "kind": "rss",
+          "score": 40,
+          "comments": 0
+        }
+      ]
+    },
+    {
       "id": "years later magic head designer reveals one his",
       "topic": "33 Years Later, Magic’s Head Designer Reveals One of His Biggest Regrets",
       "summary": "After 33 years, Magic head designer Mark Rosewater explains why artifacts and enchantments perhaps should have been one card type.",
       "category": "games",
-      "momentum": 33,
+      "momentum": 27,
       "phase": "fading",
       "firstSeen": "2026-08-25T22:00:14.000Z",
       "sourceCount": 1,
       "engagement": 45,
-      "ageHours": 1.6,
+      "ageHours": 2,
       "links": [
         {
           "title": "33 Years Later, Magic’s Head Designer Reveals One of His Biggest Regrets",
@@ -3137,20 +3061,64 @@
           "comments": 0
         }
       ]
+    },
+    {
+      "id": "projekt red sweeten witcher songs past honeypot free",
+      "topic": "CD Projekt Red sweeten the Witcher 3 Songs of the Past honeypot with a free base game remaster, and, oh yeah, both original expansions too",
+      "summary": "Hey kid, you want a free remaster? It's totally not a scam! No, really. While everyone knew The Witcher 3's sort of surprise new expansion Songs of the Past wou",
+      "category": "games",
+      "momentum": 25,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T21:54:02.000Z",
+      "sourceCount": 1,
+      "engagement": 43,
+      "ageHours": 2.1,
+      "links": [
+        {
+          "title": "CD Projekt Red sweeten the Witcher 3 Songs of the Past honeypot with a free base game remaster, and, oh yeah, both original expansions too",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-red-sweeten-the-witcher-3-songs-of-the-past-honeypot-with-a-free-base-game-remaster-and-oh-yeah-both-original-expansions-too",
+          "source": "Rock Paper Shotgun",
+          "kind": "rss",
+          "score": 43,
+          "comments": 0
+        }
+      ]
+    },
+    {
+      "id": "tried play steam newest hit friendslop game immediately",
+      "topic": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
+      "summary": "I probably should have, you know, brought friends",
+      "category": "games",
+      "momentum": 24,
+      "phase": "fading",
+      "firstSeen": "2026-08-25T22:00:15.000Z",
+      "sourceCount": 1,
+      "engagement": 40,
+      "ageHours": 2,
+      "links": [
+        {
+          "title": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
+          "url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
+          "source": "Kotaku",
+          "kind": "rss",
+          "score": 40,
+          "comments": 0
+        }
+      ]
     }
   ],
   "meta": {
     "sourceCounts": {
-      "hackernews": 54,
+      "hackernews": 55,
       "reddit": 56,
-      "rss": 706,
+      "rss": 565,
       "gdelt": 0,
       "googletrends": 30,
       "bluesky": 10,
       "mastodon": 10,
       "wikipedia": 30,
       "lobsters": 25,
-      "lemmy": 26
+      "lemmy": 19
     },
     "note": "Ranked by acceleration across free news/RSS, HN, Reddit, Google Trends, Bluesky, Mastodon, Wikipedia, Lobsters, Lemmy, and GDELT."
   }
